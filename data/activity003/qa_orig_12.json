@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/191",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 11,
+    "characters": 62,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中に含まれる分岐の条件として正しいものはどれですか？",
+        "choice": [
+            "釣り切れ",
+            "100円硬貨を出す",
+            "1,000円紙幣または500円硬貨",
+            "投入金の種類を判別する"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which of the following is a correct condition for the branch included in the image?",
+        "choice": [
+            "Out of change",
+            "100-yen coin out",
+            "1,000-yen bill or 500-yen coin",
+            "Determine the type of money input"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "이미지에 포함된 분기 조건 중 올바른 것은 다음 중 어느 것인가?",
+        "choice": [
+            "잔돈 부족",
+            "100엔 동전 출력",
+            "1,000엔 지폐 또는 500엔 동전",
+            "입력된 화폐 종류 판별"
+        ],
+        "answer": "C"
+    }
+}

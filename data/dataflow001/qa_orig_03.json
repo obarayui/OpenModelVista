@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/363",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 7,
+    "characters": 51,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれる源泉と吸収の数はどれですか？",
+        "choice": [
+            "4",
+            "7",
+            "2",
+            "3"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which number of sources and absorptions are included in the image?",
+        "choice": [
+            "4",
+            "7",
+            "2",
+            "3"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "이미지에 포함된 소스 및 흡수 수의 개수는 몇 개입니까?",
+        "choice": [
+            "4",
+            "7",
+            "2",
+            "3"
+        ],
+        "answer": "C"
+    }
+}

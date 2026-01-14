@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/351",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 3,
+    "characters": 239,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれる正しいエンティティ名はどれですか？",
+        "choice": [
+            "title（書名）",
+            "商品",
+            "books（貸出状況）",
+            "user（ユーザー）"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which of the following is the correct entity name in the image?",
+        "choice": [
+            "title",
+            "product",
+            "books (lending status)",
+            "user"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "이미지에서 올바른 엔티티 이름은 무엇입니까?",
+        "choice": [
+            "title",
+            "product",
+            "books (대출 상태)",
+            "user"
+        ],
+        "answer": "D"
+    }
+}

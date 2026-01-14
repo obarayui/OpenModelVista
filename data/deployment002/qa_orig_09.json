@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/245",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 8,
+    "characters": 117,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "JREの成果物として正しいものはどれですか？",
+        "choice": [
+            "クライアントマシン",
+            "MailChecker.jar",
+            "Mailer.exe",
+            "sendmail"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "Which of the following is a correct JRE artifact?",
+        "choice": [
+            "Client machine",
+            "MailChecker.jar",
+            "Mailer.exe",
+            "sendmail"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "올바른 JRE 아티팩트는 다음 중 어느 것인가?",
+        "choice": [
+            "클라이언트 머신",
+            "MailChecker.jar",
+            "Mailer.exe",
+            "sendmail"
+        ],
+        "answer": "B"
+    }
+}

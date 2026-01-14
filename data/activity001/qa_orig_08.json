@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/167",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 12,
+    "characters": 173,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "「入力内容の確認表示」アクションの直後のアクションはどれですか？",
+        "choice": [
+            "問い合わせ種別メニューの表示",
+            "チケットを保存し受付メールを送信",
+            "依頼先情報を入力してチケットを確定",
+            "PC利用登録内容を入力"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which action immediately follows the \"Confirmation\" action?",
+        "choice": [
+            "Display the inquiry type menu",
+            "Save the ticket and send an acceptance e-mail",
+            "Enter the requester's information and confirm the ticket",
+            "Enter the PC usage registration details"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "\"확인\" 작업 다음에 바로 수행되는 작업은 무엇입니까?",
+        "choice": [
+            "문의 유형 메뉴 표시",
+            "티켓 저장 및 접수 이메일 발송",
+            "요청자 정보 입력 및 티켓 확인",
+            "PC 사용 등록 세부 정보 입력"
+        ],
+        "answer": "C"
+    }
+}

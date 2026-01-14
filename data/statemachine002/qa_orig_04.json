@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/149",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 7,
+    "characters": 193,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "終了状態の直前の状態はどれですか？",
+        "choice": [
+            "交戦中",
+            "資質設定中",
+            "待機中",
+            "セーブ中"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which of the following states immediately precedes the end state?",
+        "choice": [
+            "Engaging",
+            "Setting qualities",
+            "Waiting",
+            "Saving"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "다음 중 최종 상태 바로 직전에 오는 상태는 무엇인가?",
+        "choice": [
+            "연결 중",
+            "특성 설정",
+            "대기 중",
+            "저장 중"
+        ],
+        "answer": "C"
+    }
+}

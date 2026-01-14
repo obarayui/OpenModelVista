@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/199",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 4,
+    "characters": 21,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれる依存関係の数はいくつですか？",
+        "choice": [
+            "2",
+            "4",
+            "3",
+            "5"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "How many dependencies are included in this image?\"",
+        "choice": [
+            "2",
+            "4",
+            "3",
+            "5"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "이 이미지에는 몇 개의 종속성이 포함되어 있나요?",
+        "choice": [
+            "2",
+            "4",
+            "3",
+            "5"
+        ],
+        "answer": "B"
+    }
+}

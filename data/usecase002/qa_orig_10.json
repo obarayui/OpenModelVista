@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/020",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 9,
+    "characters": 76,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "「預金を引き出す」ユースケースと「口座振込（振替）を依頼する」ユースケースが包含しているユースケースはどれですか？",
+        "choice": [
+            "カードを挿入する",
+            "通帳を記入する",
+            "暗証番号を入力する",
+            "預金を引き出す"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which use case is included in both \"Withdraw Money\" and \"Request Account Transfer (Remittance)\"?",
+        "choice": [
+            "Insert Card",
+            "Update Passbook",
+            "Enter PIN",
+            "Withdraw Money"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "\"출금\"과 \"계좌이체 요청(송금)\" 모두에 포함되는 사용 사례는 무엇입니까?",
+        "choice": [
+            "카드 삽입",
+            "통장 업데이트",
+            "PIN 입력",
+            "현금 인출"
+        ],
+        "answer": "C"
+    }
+}

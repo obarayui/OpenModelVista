@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/375",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 1,
+    "characters": 99,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "表に含まれている正しい列名はどれですか？",
+        "choice": [
+            "作成中",
+            "複製",
+            "申請",
+            "拒否"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which of the following is the correct column name included in the table?",
+        "choice": [
+            "Creating",
+            "Duplicate",
+            "Application",
+            "Denied"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "다음 중 테이블에 포함된 올바른 열 이름은 무엇입니까?",
+        "choice": [
+            "생성 중",
+            "중복",
+            "신청",
+            "거절됨"
+        ],
+        "answer": "C"
+    }
+}

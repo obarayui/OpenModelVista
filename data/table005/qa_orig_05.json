@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/466",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": -1,
+    "characters": -1,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "ターンアラウンドタイムの説明として正しいのはどれですか？",
+        "choice": [
+            "処理の開始指示を与えてから、最初の応答を受け取る",
+            "処理の開始指示を与えてから、その処理結果を",
+            "システムが起動してからシャットダウンするまでの時間。",
+            "システムが特定のリクエストを処理するのにかかったCPUの処理時間。"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "Which of the following is a correct description of turnaround time?",
+        "choice": [
+            "the time it takes for the system to receive the first response after giving instructions to start processing",
+            "the time it takes for the system to receive the results of the processing after giving instructions to start processing",
+            "the time it takes for the system to shut down after starting up.",
+            "The CPU processing time taken by the system to process a particular request."
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "다음 중 처리 시간에 대한 올바른 설명은 무엇입니까?",
+        "choice": [
+            "시스템이 처리 시작 지시를 내린 후 첫 응답을 수신하는 데 걸리는 시간",
+            "시스템이 처리 시작 지시를 내린 후 처리 결과를 수신하는 데 걸리는 시간",
+            "시스템이 시작된 후 종료되는 데 걸리는 시간",
+            "시스템이 특정 요청을 처리하는 데 소요된 CPU 처리 시간"
+        ],
+        "answer": "B"
+    }
+}

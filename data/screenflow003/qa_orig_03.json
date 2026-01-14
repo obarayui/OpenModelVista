@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/442",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": -1,
+    "characters": -1,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "この図に含まれる画面名として正しいのはどれですか？",
+        "choice": [
+            "特典一覧画面",
+            "よくあるご質問",
+            "マイページ画面",
+            "予約ガイド画面"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which of the following is the correct screen name included in this diagram?",
+        "choice": [
+            "Privilege List screen",
+            "FAQ screen",
+            "My Page screen",
+            "Reservation Guide screen"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "이 다이어그램에 포함된 올바른 화면 이름은 다음 중 어느 것인가요?",
+        "choice": [
+            "혜택 목록 화면",
+            "FAQ 화면",
+            "마이페이지 화면",
+            "예약 안내 화면"
+        ],
+        "answer": "C"
+    }
+}

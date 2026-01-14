@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/254",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 10,
+    "characters": 267,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "センサ・モータ制御プログラムと依存関係にあるのはどれですか？",
+        "choice": [
+            "走行プログラム",
+            "Enhanced NXT firmware",
+            "サブプロセッサ Atmel AVR",
+            "NXT Hardware"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which of the following is a dependency of the sensor motor control program?",
+        "choice": [
+            "Driving program",
+            "Enhanced NXT firmware",
+            "Subprocessor Atmel AVR",
+            "NXT Hardware"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "다음 중 센서 모터 제어 프로그램의 종속성은 무엇입니까?",
+        "choice": [
+            "구동 프로그램",
+            "향상된 NXT 펌웨어",
+            "서브프로세서 Atmel AVR",
+            "NXT 하드웨어"
+        ],
+        "answer": "C"
+    }
+}

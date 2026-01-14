@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/379",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 1,
+    "characters": 99,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "「物理削除」状態になる前の操作として正しいものはどれですか？",
+        "choice": [
+            "作成中",
+            "削除",
+            "編集",
+            "削除済"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "Which of the following is the correct operation prior to the \"physically deleted\" status?",
+        "choice": [
+            "Creating",
+            "Deleting",
+            "Editing",
+            "Deleted"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "다음 중 \"물리적 삭제\" 상태 이전의 올바른 작업은 무엇입니까?",
+        "choice": [
+            "생성 중",
+            "삭제 중",
+            "수정 중",
+            "삭제됨"
+        ],
+        "answer": "B"
+    }
+}

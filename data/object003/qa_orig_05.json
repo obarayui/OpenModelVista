@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/049",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 8,
+    "characters": 288,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "「：コメント」オブジェクトの「投稿内容」の属性値はどれですか？",
+        "choice": [
+            "友達間",
+            "”がんばりましたね！”",
+            "\"今日はいい天気。\"",
+            "：日記"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "Which is the attribute value of the \"Posted content\" of the \":Comment\" object?",
+        "choice": [
+            "\"Between friends\"",
+            "\"Good job!\"",
+            "\"Nice weather today.\"",
+            ":Diary"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "\":Comment\" 객체의 \"게시된 콘텐츠\" 속성 값은 무엇입니까?",
+        "choice": [
+            "\"친구 사이에서\"",
+            "\"잘했어요!\"",
+            "\"오늘 날씨 좋네요.\"",
+            ":일기"
+        ],
+        "answer": "B"
+    }
+}

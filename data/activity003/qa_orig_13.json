@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/192",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 11,
+    "characters": 62,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "「投入金を戻す」アクションの前のアクションはどれですか？",
+        "choice": [
+            "投入金の種類を判別する",
+            "紙幣",
+            "100円硬貨を出す",
+            "チケットを保存し受付メールを送信"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "Which action precedes the \"return the deposit\" action?",
+        "choice": [
+            "Identify the type of money put in",
+            "Paper money",
+            "Put out a 100-yen coin",
+            "Save the ticket and send an acceptance e-mail"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "\"보증금 반환\" 조치보다 먼저 수행되는 조치는 무엇입니까?",
+        "choice": [
+            "입력된 화폐 종류 식별",
+            "지폐",
+            "100엔 동전 출력",
+            "영수증 보관 및 수령 확인 이메일 발송"
+        ],
+        "answer": "A"
+    }
+}

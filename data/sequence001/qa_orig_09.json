@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/097",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 3,
+    "characters": 29,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "ユーザーから棚に送信されるリクエストはどれですか？",
+        "choice": [
+            "検索結果",
+            "貸出申請",
+            "貸出結果",
+            "検索"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which request does the User send to Shelf?",
+        "choice": [
+            "Search Result",
+            "Loan Request",
+            "Loan Result",
+            "Search"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "사용자가 선반에 보내는 요청은 무엇입니까?",
+        "choice": [
+            "검색 결과",
+            "대출 요청",
+            "대출 결과",
+            "검색"
+        ],
+        "answer": "D"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/469",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": -1,
+    "characters": -1,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "表に含まれている正しい列名はどれですか？",
+        "choice": [
+            "増減率",
+            "年間推移",
+            "基準値",
+            "時期区分"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which of the following is the correct column name included in the table?",
+        "choice": [
+            "Percent Change",
+            "Annual Change",
+            "Base Value",
+            "Period Category"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "다음 중 테이블에 포함된 올바른 열 이름은 무엇입니까?",
+        "choice": [
+            "변화율(%),",
+            "연간 변화율(%),",
+            "기준값(yen)",
+            "기간 범주(%)"
+        ],
+        "answer": "D"
+    }
+}

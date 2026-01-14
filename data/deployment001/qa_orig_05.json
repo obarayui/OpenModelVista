@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/235",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 5,
+    "characters": 37,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "プリンタノードが通信経路でつながっているのはどのノードですか？",
+        "choice": [
+            "ユーザインタフェース",
+            "データベース",
+            "デスクトップクライアント",
+            "中央サーバ"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which node is connected to the printer node by a communication path?",
+        "choice": [
+            "User interface",
+            "Database",
+            "Desktop client",
+            "Central server"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "어떤 노드가 통신 경로로 프린터 노드에 연결되어 있습니까?",
+        "choice": [
+            "사용자 인터페이스",
+            "데이터베이스",
+            "데스크톱 클라이언트",
+            "중앙 서버"
+        ],
+        "answer": "C"
+    }
+}

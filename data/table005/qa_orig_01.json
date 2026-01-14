@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/462",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": -1,
+    "characters": -1,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中の表で値が入っている行数として正しいものはどれですか？",
+        "choice": [
+            "6",
+            "3",
+            "8",
+            "10"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "Which is the correct number of rows containing values in the table in the image?",
+        "choice": [
+            "6",
+            "3",
+            "8",
+            "10"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "이미지 내 테이블의 값이 포함된 행 개수는 다음 중 어느 것이 맞습니까?",
+        "choice": [
+            "6",
+            "3",
+            "8",
+            "10"
+        ],
+        "answer": "A"
+    }
+}

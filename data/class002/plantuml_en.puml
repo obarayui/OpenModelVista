@@ -1,0 +1,35 @@
+@startuml Employee Management System
+
+' Class definitions
+class Employee {
+  name: String
+  employeeID: String
+  password: String
+  --
+  +login(employeeID, password)
+  registerExpense()
+  applyForExpense()
+}
+
+class Manager {
+  --
+  approveOrRejectExpense()
+}
+
+class Department {
+  departmentName
+}
+
+class Company {
+  companyName
+}
+
+' Inheritance
+Employee <|-- Manager
+
+' Associations
+Employee "1..*" -- "1" Department : belongs to >
+Employee -- Department : belongingEmployees - belongingDepartment
+Department "1..*" -- "1" Company
+
+@enduml

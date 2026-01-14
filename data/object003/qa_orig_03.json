@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/047",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 8,
+    "characters": 288,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれるオブジェクト名とクラス名の組み合わせで正しいものはどれですか？",
+        "choice": [
+            "ユーザ：佐藤",
+            "田中：ユーザ",
+            "メールアドレス：田中",
+            "佐藤：コメント"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "Which of the following is the correct combination of object name and class name in the image?",
+        "choice": [
+            "User: Sato",
+            "Tanaka: User",
+            "E-mail address: Tanaka",
+            "Sato: Comment"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "이미지에서 객체 이름과 클래스 이름의 올바른 조합은 다음 중 어느 것인가요?",
+        "choice": [
+            "사용자: 사토",
+            "타나카: 사용자",
+            "이메일 주소: 타나카",
+            "사토: 코멘트"
+        ],
+        "answer": "B"
+    }
+}

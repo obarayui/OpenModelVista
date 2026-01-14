@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/251",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 10,
+    "characters": 267,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "この図に含まれる正しいコンポーネント名は何ですか？",
+        "choice": [
+            "センサ・モータ制御プログラム",
+            "NXT Hardware",
+            "走行プログラム",
+            "UI"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "What is the correct component name included in this diagram?",
+        "choice": [
+            "Sensor and motor control program",
+            "NXT Hardware",
+            "Running program",
+            "UI"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "이 다이어그램에 포함된 올바른 구성 요소 이름은 무엇입니까?",
+        "choice": [
+            "센서 및 모터 제어 프로그램",
+            "NXT 하드웨어",
+            "실행 프로그램",
+            "UI"
+        ],
+        "answer": "D"
+    }
+}

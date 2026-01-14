@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/267",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 11,
+    "characters": 134,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "タッチパネルとコネクトされているのはどれですか？",
+        "choice": [
+            "ATM",
+            "カードリーダ",
+            "モデム",
+            "セキュリティセンサ"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which of the following is connected to a touch panel?",
+        "choice": [
+            "ATM",
+            "Card reader",
+            "Modem",
+            "Security sensor"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "다음 중 터치 패널에 연결된 것은 무엇입니까?",
+        "choice": [
+            "ATM",
+            "카드 리더기",
+            "모뎀",
+            "보안 센서"
+        ],
+        "answer": "C"
+    }
+}

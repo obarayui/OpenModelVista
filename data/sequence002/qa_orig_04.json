@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/104",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 7,
+    "characters": 73,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれるメッセージ名として正しいのはどれですか？",
+        "choice": [
+            "残高照会",
+            "入金",
+            "普通預金入金コントロール",
+            "口座作成"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "Which of the following is the correct message name included in the image?",
+        "choice": [
+            "Balance Inquiry",
+            "Deposit",
+            "Savings Deposit Control",
+            "Account Creation"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "이미지에 포함된 올바른 메시지 이름은 다음 중 어느 것인가?",
+        "choice": [
+            "잔액 조회",
+            "예금",
+            "예금 관리",
+            "계좌 생성"
+        ],
+        "answer": "B"
+    }
+}

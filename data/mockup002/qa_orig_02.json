@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/450",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": -1,
+    "characters": -1,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "「カートに入れる」ボタンは画面のどこに表示されていますか？",
+        "choice": [
+            "右下",
+            "左下",
+            "中央",
+            "右上"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "Where is the \"Add to Cart\" button displayed on the screen?",
+        "choice": [
+            "Bottom right",
+            "Bottom left",
+            "Center",
+            "Top right"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "장바구니에 담기 버튼은 화면의 어디에 표시되어 있나요?",
+        "choice": [
+            "오른쪽 아래",
+            "왼쪽 아래",
+            "중앙",
+            "오른쪽 위"
+        ],
+        "answer": "A"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/224",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 10,
+    "characters": 87,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれるアセンブリコネクタの数はどれですか？",
+        "choice": [
+            "2",
+            "4",
+            "3",
+            "1"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "How many assembly connectors are included in the image?",
+        "choice": [
+            "2",
+            "4",
+            "3",
+            "1"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "이미지에 포함된 어셈블리 커넥터 수는 몇 개인가?",
+        "choice": [
+            "2",
+            "4",
+            "3",
+            "1"
+        ],
+        "answer": "A"
+    }
+}

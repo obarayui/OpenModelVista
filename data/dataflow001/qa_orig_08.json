@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/368",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 7,
+    "characters": 51,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれる正しいデータフロー名はどれですか？",
+        "choice": [
+            "注文受付",
+            "受注情報",
+            "返品対応",
+            "注文入力"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which of the following is the correct data flow name included in the image?",
+        "choice": [
+            "Order Receipt",
+            "Order Information",
+            "Returns Handling",
+            "Order Entry"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "이미지에 포함된 올바른 데이터 흐름 이름은 다음 중 어느 것인가?",
+        "choice": [
+            "주문 접수",
+            "주문 정보",
+            "반품 처리",
+            "주문 입력"
+        ],
+        "answer": "D"
+    }
+}

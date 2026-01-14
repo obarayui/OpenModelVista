@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/439",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": -1,
+    "characters": -1,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "トップページから直接遷移できる画面として正しいのはどれですか？",
+        "choice": [
+            "ニュース詳細",
+            "ニュース一覧",
+            "店舗情報ページ",
+            "サービス申し込み"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "Which of the following is the correct screen to which you can directly transition from the top page?",
+        "choice": [
+            "News Detail",
+            "News List",
+            "Store Information Page",
+            "Service Application"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "다음 중 메인 페이지에서 직접 전환할 수 있는 올바른 화면은 무엇인가?",
+        "choice": [
+            "뉴스 상세",
+            "뉴스 목록",
+            "매장 정보 페이지",
+            "서비스 신청"
+        ],
+        "answer": "B"
+    }
+}

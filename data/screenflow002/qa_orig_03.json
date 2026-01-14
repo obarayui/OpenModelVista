@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/438",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": -1,
+    "characters": -1,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "この図に含まれる画面名として正しいのはどれですか？",
+        "choice": [
+            "キャンペーンお知らせページ",
+            "サービス申し込み",
+            "ログインページ",
+            "マイページ"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "Which of the following is the correct screen name included in this diagram?",
+        "choice": [
+            "Campaign Notification Page",
+            "Service Application",
+            "Login Page",
+            "My Page"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "다음 중 이 다이어그램에 포함된 올바른 화면 이름은 무엇인가?",
+        "choice": [
+            "캠페인 알림 페이지",
+            "서비스 신청",
+            "로그인 페이지",
+            "마이페이지"
+        ],
+        "answer": "B"
+    }
+}

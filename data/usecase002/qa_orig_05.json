@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/015",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 9,
+    "characters": 76,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "この図に含まれる正しいユースケースはどれですか？",
+        "choice": [
+            "ATM",
+            "通帳を記入する",
+            "振込依頼者",
+            "カードを挿入する"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "Which of the following is a correct use case included in this image?",
+        "choice": [
+            "ATM",
+            "Update Passbook",
+            "Remittance Requester",
+            "Insert Card"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "다음 중 이 이미지에 포함된 올바른 사용 사례는 무엇입니까?",
+        "choice": [
+            "ATM",
+            "통장 갱신",
+            "송금 요청자",
+            "카드 삽입"
+        ],
+        "answer": "B"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/206",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 6,
+    "characters": 44,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "serviceの依存先のパッケージはどれですか？",
+        "choice": [
+            "ui",
+            "control",
+            "bean",
+            "OrderBean"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which package does the \"service\" package depend on?",
+        "choice": [
+            "ui",
+            "control",
+            "bean",
+            "OrderBean"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "service 패키지는 어떤 패키지에 의존합니까?",
+        "choice": [
+            "ui",
+            "control",
+            "bean",
+            "OrderBean"
+        ],
+        "answer": "C"
+    }
+}

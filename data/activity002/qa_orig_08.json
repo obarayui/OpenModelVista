@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/175",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 18,
+    "characters": 134,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "開始ノードの直後のアクションはどれですか？",
+        "choice": [
+            "新規の注文を開始する",
+            "決済を済ませる",
+            "注文に品目を追加する",
+            "紙幣を投入する"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "Which action immediately follows the opening node?",
+        "choice": [
+            "Start a new order",
+            "Complete settlement",
+            "Add an item to the order",
+            "Submit a bill"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "시작 노드 바로 다음에 오는 액션은 무엇인가?",
+        "choice": [
+            "새 주문 시작",
+            "결제 완료",
+            "주문에 품목 추가",
+            "청구서 제출"
+        ],
+        "answer": "A"
+    }
+}

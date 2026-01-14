@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/017",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 9,
+    "characters": 76,
+    "tags": [
+        "OCR"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "このシステムの名称はどれですか？",
+        "choice": [
+            "オンラインバンキング",
+            "ATM",
+            "口座管理システム",
+            "暗証番号を入力する"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "What is the name of the system in this image?",
+        "choice": [
+            "Online Banking",
+            "ATM",
+            "Account Management System",
+            "Enter PIN"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "이 이미지의 시스템 이름은 무엇입니까?",
+        "choice": [
+            "온라인 뱅킹",
+            "ATM",
+            "계좌 관리 시스템",
+            "PIN 입력"
+        ],
+        "answer": "B"
+    }
+}

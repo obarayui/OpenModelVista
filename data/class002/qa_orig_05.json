@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/063",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 4,
+    "characters": 103,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれるクラス名として正しいものはどれですか？",
+        "choice": [
+            "パスワード",
+            "部署名",
+            "経費を登録する",
+            "社員"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which of the following is the correct class name included in the image?",
+        "choice": [
+            "password",
+            "department signature",
+            "register expenses",
+            "employee"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "이미지에 포함된 올바른 클래스 이름은 다음 중 어느 것인가?",
+        "choice": [
+            "비밀번호",
+            "부서 서명",
+            "경비 등록",
+            "직원"
+        ],
+        "answer": "D"
+    }
+}

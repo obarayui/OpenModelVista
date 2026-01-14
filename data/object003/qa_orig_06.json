@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/050",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 8,
+    "characters": 288,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "「：友達申請」オブジェクトが意味的につながっているオブジェクトはどれですか？",
+        "choice": [
+            "申請日",
+            "：日記",
+            "佐藤のタイムライン：タイムライン",
+            "佐藤：ユーザ"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which object is semantically connected to the \":friend request\" object?",
+        "choice": [
+            "application date",
+            ": diary",
+            "Sato's timeline: timeline",
+            "Sato: user"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "어떤 객체가 \":friend request\" 객체와 의미적으로 연결되어 있습니까?",
+        "choice": [
+            "신청 날짜",
+            ":일기",
+            "사토의 타임라인: 타임라인",
+            "사토: 사용자"
+        ],
+        "answer": "D"
+    }
+}

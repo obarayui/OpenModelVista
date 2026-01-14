@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/077",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 10,
+    "characters": 225,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれる集約の数はどれですか？",
+        "choice": [
+            "8",
+            "2",
+            "4",
+            "6"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which number of aggregates are included in the image?",
+        "choice": [
+            "8",
+            "2",
+            "4",
+            "6"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "이미지에 포함된 집합의 개수는 몇 개인가?",
+        "choice": [
+            "8",
+            "2",
+            "4",
+            "6"
+        ],
+        "answer": "D"
+    }
+}

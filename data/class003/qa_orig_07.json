@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/081",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 10,
+    "characters": 225,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれるクラスの操作として正しいものはどれですか？",
+        "choice": [
+            "キャンセルする",
+            "本人確認手段",
+            "図書検索",
+            "貸出し実行！"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which of the following is the correct class operation included in the image?",
+        "choice": [
+            "cancel",
+            "means of identification",
+            "book search",
+            "borrowing execution!"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "다음 중 이미지에 포함된 올바른 클래스 연산은 무엇인가?",
+        "choice": [
+            "cancel",
+            "means of identification",
+            "book search",
+            "borrowing execution!"
+        ],
+        "answer": "D"
+    }
+}

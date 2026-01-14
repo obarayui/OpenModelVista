@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/452",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": -1,
+    "characters": -1,
+    "tags": [
+        "OCR"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "このシステムの名称はどれですか？",
+        "choice": [
+            "V-PAST",
+            "O-NEXT",
+            "V-NOW",
+            "T-FUTURE"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "What is the name of this system?",
+        "choice": [
+            "V-PAST",
+            "O-NEXT",
+            "V-NOW",
+            "T-FUTURE"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "이 시스템의 이름은 무엇입니까?",
+        "choice": [
+            "V-과거",
+            "O-현재",
+            "V-지금",
+            "T-미래"
+        ],
+        "answer": "D"
+    }
+}

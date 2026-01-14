@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/346",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 3,
+    "characters": 624,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "book_idが2のpriceとして正しいのはどれですか？",
+        "choice": [
+            "2,000",
+            "1,980",
+            "ITの基本がわかる本",
+            "2022/12/02"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "Which of the following is the correct PRICE with book_id of 2?",
+        "choice": [
+            "2,000",
+            "1,980",
+            "A book to understand the basics of IT",
+            "2022/12/02"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "다음 중 book_id가 2인 항목의 올바른 PRICE 값은 무엇입니까?",
+        "choice": [
+            "2,000",
+            "1,980",
+            "IT 기초를 이해하는 책",
+            "2022/12/02"
+        ],
+        "answer": "A"
+    }
+}

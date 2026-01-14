@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/335",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 2,
+    "characters": 167,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中の明細テーブルの4列目2行目の値はどれですか？",
+        "choice": [
+            "2",
+            "100",
+            "330",
+            "ABCレストラン"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which is the value of the second row of the fourth column of the detail table in the image?",
+        "choice": [
+            "2",
+            "100",
+            "330",
+            "ABC restaurant"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "이미지 내 상세 테이블의 네 번째 열 두 번째 행 값은 무엇인가요?",
+        "choice": [
+            "2",
+            "100",
+            "330",
+            "ABC 레스토랑"
+        ],
+        "answer": "C"
+    }
+}

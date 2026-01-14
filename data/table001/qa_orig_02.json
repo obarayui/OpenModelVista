@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/468",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": -1,
+    "characters": -1,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中のデータベースのテーブルの画像中の表で値が入っている列数の総数はどれですか？",
+        "choice": [
+            "2",
+            "1",
+            "8",
+            "5"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "What is the total number of columns containing values in the table in the image for the database table in the image?",
+        "choice": [
+            "2",
+            "1",
+            "8",
+            "5"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "이미지 내 데이터베이스 테이블에 값이 포함된 열의 총 개수는 무엇입니까?",
+        "choice": [
+            "2",
+            "1",
+            "8",
+            "5"
+        ],
+        "answer": "D"
+    }
+}

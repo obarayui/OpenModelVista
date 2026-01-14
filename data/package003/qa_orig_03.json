@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/204",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 6,
+    "characters": 44,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像内にあるパッケージ名として正しいのはどれですか？",
+        "choice": [
+            "control",
+            "OrderFrame",
+            "bean",
+            "repository"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which of the following is the correct package name included in this image?",
+        "choice": [
+            "control",
+            "OrderFrame",
+            "bean",
+            "repository"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "다음 중 이 이미지에 포함된 올바른 패키지 이름은 무엇입니까?",
+        "choice": [
+            "control",
+            "OrderFrame",
+            "bean",
+            "repository"
+        ],
+        "answer": "C"
+    }
+}

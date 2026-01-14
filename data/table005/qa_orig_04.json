@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/465",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": -1,
+    "characters": -1,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "チケットを予約する際のレスポンスタイムとして正しいのはどれですか？",
+        "choice": [
+            "3秒以内",
+            "9秒以内",
+            "6秒以内",
+            "10秒以内"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which of the following is the correct response time for booking tickets?",
+        "choice": [
+            "within 3 seconds",
+            "within 9 seconds",
+            "within 6 seconds",
+            "within 10 seconds"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "다음 중 티켓 예약에 대한 올바른 응답 시간은 무엇입니까?",
+        "choice": [
+            "3초 이내",
+            "9초 이내",
+            "6초 이내",
+            "10초 이내"
+        ],
+        "answer": "C"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/388",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 1,
+    "characters": 365,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれる正しい作業内容はどれですか？",
+        "choice": [
+            "受け入れテスト",
+            "設計レビュー",
+            "結合テスト",
+            "単体テスト"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which of the following is the correct task included in the image?",
+        "choice": [
+            "Acceptance testing",
+            "Design review",
+            "Combined testing",
+            "Unit testing"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "이미지에 포함된 올바른 작업은 다음 중 어느 것인가?",
+        "choice": [
+            "수락 테스트",
+            "설계 검토",
+            "결합 테스트",
+            "단위 테스트"
+        ],
+        "answer": "C"
+    }
+}

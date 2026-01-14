@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/069",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 4,
+    "characters": 103,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中の社員が所属する部署数に関する正しい説明はどれですか？",
+        "choice": [
+            "社員は1つの部署に所属する",
+            "社員は1つ以上の部署に所属する",
+            "社員が所属する部署数に関しては明記されていない",
+            "社員は0個以上の部署に所属する"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "Which of the following is the correct explanation regarding the number of departments an employee belongs to in the image?",
+        "choice": [
+            "The employee belongs to one department",
+            "The employee belongs to more than one department",
+            "There is no statement regarding the number of departments to which the employee belongs",
+            "The employee belongs to more than zero departments"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "이미지에서 직원이 속한 부서 수에 관한 올바른 설명은 다음 중 어느 것인가?",
+        "choice": [
+            "직원은 하나의 부서에 소속됨",
+            "직원은 하나 이상의 부서에 소속됨",
+            " 직원이 속한 부서 수에 대한 명시 없음",
+            "직원이 0개 이상의 부서에 속함"
+        ],
+        "answer": "A"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/215",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 8,
+    "characters": 36,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれる提供インターフェースの数はどれですか？",
+        "choice": [
+            "3",
+            "1",
+            "2",
+            "0"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "Which number of provided interfaces are included in the image?",
+        "choice": [
+            "3",
+            "1",
+            "2",
+            "0"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "이미지에 포함된 인터페이스 수는 몇 개인가?",
+        "choice": [
+            "3",
+            "1",
+            "2",
+            "0"
+        ],
+        "answer": "B"
+    }
+}

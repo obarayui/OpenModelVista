@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/006",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 3,
+    "characters": 27,
+    "tags": [
+        "OCR"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "このシステムの名称はどれですか？",
+        "choice": [
+            "チケット購入システム",
+            "利用者",
+            "駅内監視システム",
+            "鉄道改札システム"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "What is the name of the system in this image?",
+        "choice": [
+            "Ticket Purchase System",
+            "User",
+            "Station Monitoring System",
+            "Railway Ticket Gate System"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "이 그림에서 시스템의 이름은 무엇입니까?",
+        "choice": [
+            "티켓 구매 시스템",
+            "사용자",
+            "역 감시 시스템",
+            "철도 개찰구 시스템"
+        ],
+        "answer": "D"
+    }
+}

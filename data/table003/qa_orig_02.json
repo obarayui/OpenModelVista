@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/324",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 1,
+    "characters": 122,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中の表で値が入っている列数として正しいものはどれですか？",
+        "choice": [
+            "15",
+            "10",
+            "3",
+            "6"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which is the correct number of columns containing values in the table in the image?",
+        "choice": [
+            "15",
+            "10",
+            "3",
+            "6"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "이미지 속 테이블에서 값을 포함하는 열의 올바른 개수는 무엇입니까?",
+        "choice": [
+            "15",
+            "10",
+            "3",
+            "6"
+        ],
+        "answer": "D"
+    }
+}

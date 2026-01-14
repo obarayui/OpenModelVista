@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/340",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 3,
+    "characters": 624,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中のデータベースのテーブルの列数の総数はどれですか？",
+        "choice": [
+            "3",
+            "15",
+            "8",
+            "7"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "What is the total number of columns in the database table in the image?",
+        "choice": [
+            "3",
+            "15",
+            "8",
+            "7"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "이미지 내 데이터베이스 테이블의 총 열 수는 몇 개인가?",
+        "choice": [
+            "3",
+            "15",
+            "8",
+            "7"
+        ],
+        "answer": "B"
+    }
+}

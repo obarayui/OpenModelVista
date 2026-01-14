@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/065",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 4,
+    "characters": 103,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれるクラスの操作名として正しいものはどれですか？",
+        "choice": [
+            "氏名",
+            "社員を申請する",
+            "所属する",
+            "経費を登録する"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which of the following is the correct name of the class operation included in the image?",
+        "choice": [
+            "Name",
+            "Apply for employee",
+            "Belong to",
+            "Register expenses"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "다음 중 이미지에 포함된 클래스 연산의 올바른 이름은 무엇입니까?",
+        "choice": [
+            "이름",
+            "직원 신청",
+            "소속",
+            "경비 등록"
+        ],
+        "answer": "D"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/339",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 3,
+    "characters": 624,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中のデータベースのテーブルの行数の総数はどれですか？",
+        "choice": [
+            "6",
+            "15",
+            "13",
+            "5"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "What is the total number of rows in the database table in the image?",
+        "choice": [
+            "6",
+            "15",
+            "13",
+            "5"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "이미지 내 데이터베이스 테이블의 총 행 수는 몇 개인가?",
+        "choice": [
+            "6",
+            "15",
+            "13",
+            "5"
+        ],
+        "answer": "B"
+    }
+}

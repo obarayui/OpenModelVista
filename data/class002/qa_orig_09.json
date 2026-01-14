@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/067",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 4,
+    "characters": 103,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "「社員」クラスと関連のあるクラスはどれですか？",
+        "choice": [
+            "マネージャ",
+            "部署",
+            "所属社員",
+            "会社"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "Which of the following classes is associated with the \"Employee\" class?",
+        "choice": [
+            "manager",
+            "department",
+            "employee belonging to",
+            "company"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "다음 중 \"Employee\" 클래스와 연관된 클래스는 무엇입니까?",
+        "choice": [
+            "매니저",
+            "부서",
+            "소속 직원",
+            "회사"
+        ],
+        "answer": "B"
+    }
+}

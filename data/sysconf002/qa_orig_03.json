@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/421",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": -1,
+    "characters": -1,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "このサービスで使用するサーバの数はいくつですか？",
+        "choice": [
+            "2",
+            "5",
+            "7",
+            "3"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "How many servers does this service use?",
+        "choice": [
+            "2",
+            "5",
+            "7",
+            "3"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "이 서비스는 서버를 몇 대 사용하는가?",
+        "choice": [
+            "2",
+            "5",
+            "7",
+            "3"
+        ],
+        "answer": "D"
+    }
+}

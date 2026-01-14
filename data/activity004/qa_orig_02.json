@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/393",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 14,
+    "characters": 106,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれるプロセスの数はどれですか？",
+        "choice": [
+            "7",
+            "9",
+            "8",
+            "6"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "How many processes are included in the image?",
+        "choice": [
+            "7",
+            "9",
+            "8",
+            "6"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "이미지에 포함된 프로세스 수는 몇 개인가?",
+        "choice": [
+            "7",
+            "9",
+            "8",
+            "6"
+        ],
+        "answer": "D"
+    }
+}

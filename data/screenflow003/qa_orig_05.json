@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/444",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": -1,
+    "characters": -1,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "ホーム画面からマイページ画面に行くには最初に遷移すべきページはどれですか？",
+        "choice": [
+            "座席選択画面",
+            "ログイン画面",
+            "列車検索画面",
+            "サポート画面"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "Which page should I transition to first to get to the My Page screen from the Home screen?",
+        "choice": [
+            "Seat Selection Screen",
+            "Login Screen",
+            "Train Search Screen",
+            "Support Screen"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "홈 화면에서 마이 페이지 화면으로 이동하려면 먼저 어느 페이지로 이동해야 하나요?",
+        "choice": [
+            "좌석 선택 화면",
+            "로그인 화면",
+            "열차 검색 화면",
+            "지원 화면"
+        ],
+        "answer": "B"
+    }
+}

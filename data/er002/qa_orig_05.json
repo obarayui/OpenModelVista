@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/359",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 7,
+    "characters": 82,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "「顧客コード」アトリビュートを保持するエンティティはどれですか？",
+        "choice": [
+            "顧客名",
+            "顧客",
+            "支店",
+            "商品"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "Which entity holds the \"customer code\" attribute?",
+        "choice": [
+            "Customer name",
+            "Customer",
+            "Branch",
+            "Product"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "customer code 속성을 보유한 엔티티는 무엇입니까?",
+        "choice": [
+            "고객명",
+            "고객",
+            "지점",
+            "제품"
+        ],
+        "answer": "B"
+    }
+}

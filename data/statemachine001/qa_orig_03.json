@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/145",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 3,
+    "characters": 19,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "「走行中」から停車すると、どの状態になりますか？",
+        "choice": [
+            "停車中",
+            "下車",
+            "初期状態",
+            "駐車中"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "When the car stops from \"running,\" which state does the car enter?",
+        "choice": [
+            "Stopped",
+            "Alighted",
+            "Initial state",
+            "Parked"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "차가 \"달리기\"를 멈출 때, 차는 어떤 상태로 들어갑니까?",
+        "choice": [
+            "정지",
+            "하차",
+            "초기 상태",
+            "주차"
+        ],
+        "answer": "C"
+    }
+}

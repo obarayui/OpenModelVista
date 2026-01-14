@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/448",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": -1,
+    "characters": -1,
+    "tags": [
+        "OCR"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "このシステムの名称はどれですか？",
+        "choice": [
+            "SKY HOTEL",
+            "HOTEL HORIZON",
+            "HINATA INN",
+            "HOTEL SORA"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "What is the name of this system?",
+        "choice": [
+            "SKY HOTEL",
+            "HOTEL HORIZON",
+            "HINATA INN",
+            "HOTEL SORA"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "이 시스템의 이름은 무엇인가요?",
+        "choice": [
+            "SKY HOTEL",
+            "HOTEL HORIZON",
+            "HINATA INN",
+            "HOTEL SORA"
+        ],
+        "answer": "D"
+    }
+}

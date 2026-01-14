@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/401",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 11,
+    "characters": 116,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像内にあるサービス名として正しいのはどれですか？",
+        "choice": [
+            "Amazon DataZone",
+            "AWS Supply Chain",
+            "Amazon CloudFront",
+            "AWS IoT Core"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which of the following is the correct name of the service in the image?",
+        "choice": [
+            "Amazon DataZone",
+            "AWS Supply Chain",
+            "Amazon CloudFront",
+            "AWS IoT Core"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "이미지에서 서비스의 올바른 이름은 다음 중 어느 것입니까?",
+        "choice": [
+            "아마존 데이터존",
+            "AWS 공급망",
+            "아마존 클라우드프론트",
+            "AWS IoT 코어"
+        ],
+        "answer": "C"
+    }
+}

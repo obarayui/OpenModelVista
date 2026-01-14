@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/198",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 4,
+    "characters": 21,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれるパッケージの数はどれですか？",
+        "choice": [
+            "3",
+            "5",
+            "2",
+            "4"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "How many packages are included in this image?",
+        "choice": [
+            "3",
+            "5",
+            "2",
+            "4"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "이 이미지에는 몇 개의 패키지가 포함되어 있나요?",
+        "choice": [
+            "3",
+            "5",
+            "2",
+            "4"
+        ],
+        "answer": "D"
+    }
+}

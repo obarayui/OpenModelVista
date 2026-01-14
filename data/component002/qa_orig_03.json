@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/216",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 8,
+    "characters": 36,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれる要求インターフェースの数はどれですか？",
+        "choice": [
+            "0",
+            "3",
+            "2",
+            "1"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "How many request interfaces are included in the image?",
+        "choice": [
+            "0",
+            "3",
+            "2",
+            "1"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "이미지에 포함된 요청 인터페이스 수는 몇 개인가?",
+        "choice": [
+            "0",
+            "3",
+            "2",
+            "1"
+        ],
+        "answer": "C"
+    }
+}

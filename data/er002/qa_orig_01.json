@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/355",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 7,
+    "characters": 82,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれるエンティティの数はどれですか？",
+        "choice": [
+            "4",
+            "7",
+            "5",
+            "3"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "How many entities are included in the image?",
+        "choice": [
+            "4",
+            "7",
+            "5",
+            "3"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "이미지에 포함된 엔티티 개수는 몇 개인가요?",
+        "choice": [
+            "4",
+            "7",
+            "5",
+            "3"
+        ],
+        "answer": "B"
+    }
+}

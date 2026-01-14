@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/016",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 9,
+    "characters": 76,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "この図に含まれる正しいアクターはどれですか？",
+        "choice": [
+            "銀行社員",
+            "通帳を記入する",
+            "他銀行",
+            "ATM管理者"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which of the following is a correct actor included in this image?",
+        "choice": [
+            "Bank Staff",
+            "Update Passbook",
+            "Other Bank",
+            "ATM Administrator"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "다음 중 이 이미지에 포함된 올바른 배우는 무엇입니까?",
+        "choice": [
+            "은행 직원",
+            "통장 업데이트",
+            "타 은행",
+            "ATM 관리자"
+        ],
+        "answer": "C"
+    }
+}

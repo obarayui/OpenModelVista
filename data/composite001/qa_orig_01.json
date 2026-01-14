@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/255",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 8,
+    "characters": 32,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "構造化分類子の数として正しいものはどれですか？",
+        "choice": [
+            "3",
+            "2",
+            "1",
+            "4"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which is the correct number of structured classifiers?",
+        "choice": [
+            "3",
+            "2",
+            "1",
+            "4"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "구조화된 분류기의 올바른 개수는 무엇입니까?",
+        "choice": [
+            "3",
+            "2",
+            "1",
+            "4"
+        ],
+        "answer": "C"
+    }
+}

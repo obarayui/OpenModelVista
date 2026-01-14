@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/419",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": -1,
+    "characters": -1,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれるコンポーネントの種類はいくつですか？",
+        "choice": [
+            "11",
+            "9",
+            "3",
+            "6"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "How many component types are included in the image?",
+        "choice": [
+            "11",
+            "9",
+            "3",
+            "6"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "이미지에 포함된 구성 요소 유형은 몇 개인가요?",
+        "choice": [
+            "11",
+            "9",
+            "3",
+            "6"
+        ],
+        "answer": "D"
+    }
+}

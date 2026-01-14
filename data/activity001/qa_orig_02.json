@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/161",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 12,
+    "characters": 173,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれるアクションの数はどれですか？",
+        "choice": [
+            "9",
+            "8",
+            "7",
+            "10"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "How many actions are included in the image?",
+        "choice": [
+            "9",
+            "8",
+            "7",
+            "10"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "이미지에는 몇 개의 액션이 포함되어 있나요?",
+        "choice": [
+            "9",
+            "8",
+            "7",
+            "10"
+        ],
+        "answer": "C"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/320",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 1,
+    "characters": 104,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "表に含まれている正しい列名はどれですか？",
+        "choice": [
+            "リンゴ",
+            "割引",
+            "個数",
+            "ポイント"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which of the following is the correct column name included in the table?",
+        "choice": [
+            "apples",
+            "discount",
+            "number of pieces",
+            "points"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "테이블에 포함된 올바른 열 이름은 다음 중 어느 것입니까?",
+        "choice": [
+            "사과",
+            "할인",
+            "개수",
+            "포인트"
+        ],
+        "answer": "C"
+    }
+}

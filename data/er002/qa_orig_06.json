@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/360",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 7,
+    "characters": 82,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "「担当者」エンティティと「受注」エンティティの両方とリレーションシップを持つエンティティはどれですか？",
+        "choice": [
+            "受注明細",
+            "梱包",
+            "支店",
+            "受注ID"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "Which entity has a relationship with both the \"Person in Charge\" entity and the \"Order\" entity?",
+        "choice": [
+            "order details",
+            "packing",
+            "branch",
+            "order ID"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "Person in Charge 엔티티와 \"Order\" 엔티티 모두와 관계를 가진 엔티티는 무엇입니까?",
+        "choice": [
+            "주문 상세",
+            "포장",
+            "지점",
+            "주문 ID"
+        ],
+        "answer": "B"
+    }
+}

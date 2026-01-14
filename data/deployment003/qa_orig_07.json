@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/252",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 10,
+    "characters": 267,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "この図に含まれる正しい成果物名は何ですか？",
+        "choice": [
+            "Enhanced NXT firmware",
+            "メインプロセッサ　Atmel ARM7",
+            "センサ・モータ制御プログラム",
+            "メカニズム"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "What is the correct artifact name included in this diagram?",
+        "choice": [
+            "Enhanced NXT firmware",
+            "Main processor Atmel ARM7",
+            "Sensor and motor control program",
+            "Mechanism"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "이 다이어그램에 포함된 올바른 아티팩트 이름은 무엇입니까?",
+        "choice": [
+            "향상된 NXT 펌웨어",
+            "메인 프로세서 Atmel ARM7",
+            "센서 및 모터 제어 프로그램",
+            "메커니즘"
+        ],
+        "answer": "C"
+    }
+}

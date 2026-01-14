@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/019",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 9,
+    "characters": 76,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "アクター「振込依頼者」が直接行う操作は次のうちどれですか？",
+        "choice": [
+            "暗証番号を入力する",
+            "預金者",
+            "口座振込（振替）を依頼する",
+            "通帳を記入する"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which action does the actor \"Remittance Requester\" perform directly?",
+        "choice": [
+            "Enter PIN",
+            "Depositor",
+            "Request Account Transfer (Remittance)",
+            "Update Passbook"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "\"송금 요청자\" 행위자가 직접 수행하는 행동은 무엇입니까?",
+        "choice": [
+            "PIN 입력",
+            "예금자",
+            "계좌 이체 요청(송금)",
+            "통장 업데이트"
+        ],
+        "answer": "C"
+    }
+}

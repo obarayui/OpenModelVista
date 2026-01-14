@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/084",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 10,
+    "characters": 225,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中の「人物」クラスのサブクラスはどれですか？",
+        "choice": [
+            "図書貸出",
+            "図書分類",
+            "氏名",
+            "図書館員"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which of the following is a subclass of the \"person\" class in the image?",
+        "choice": [
+            "book loan",
+            "book classification",
+            "name",
+            "librarian"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "이미지에서 \"person\" 클래스의 하위 클래스는 다음 중 어느 것입니까?",
+        "choice": [
+            "도서 대출",
+            "도서 분류",
+            "이름",
+            "사서"
+        ],
+        "answer": "D"
+    }
+}

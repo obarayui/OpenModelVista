@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/200",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 4,
+    "characters": 21,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像内にあるパッケージ名として正しいのはどれですか？",
+        "choice": [
+            "service",
+            "entitiy",
+            "controller",
+            "repository"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "Which of the following is the correct package name included in this image?",
+        "choice": [
+            "service",
+            "entitiy",
+            "controller",
+            "repository"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "다음 중 이 이미지에 포함된 올바른 패키지 이름은 무엇입니까?",
+        "choice": [
+            "서비스",
+            "엔티티",
+            "컨트롤러",
+            "리포지토리"
+        ],
+        "answer": "B"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/011",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 9,
+    "characters": 76,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれる関連の数はどれですか？",
+        "choice": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "How many associations are included in this image?",
+        "choice": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "이 그림에는 몇 개의 연관 관계가 포함되어 있습니까?",
+        "choice": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "answer": "B"
+    }
+}

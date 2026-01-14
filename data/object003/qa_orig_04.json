@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/048",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 8,
+    "characters": 288,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "「佐藤」オブジェクトのクラスはどれですか？",
+        "choice": [
+            "友達",
+            "佐藤純一",
+            "ユーザ",
+            "タイムライン"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which is the class of the \"Sato\" object?",
+        "choice": [
+            "Friend",
+            "Junichi Sato",
+            "User",
+            "Timeline"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "\"Sato\" 객체의 클래스는 무엇입니까?",
+        "choice": [
+            "친구",
+            "사토 준이치",
+            "사용자",
+            "타임라인"
+        ],
+        "answer": "C"
+    }
+}

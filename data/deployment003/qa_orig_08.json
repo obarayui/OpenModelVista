@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/253",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 10,
+    "characters": 267,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "メインプロセッサ Atmel ARM7の実行環境は何ですか？",
+        "choice": [
+            "デバイスドライバ",
+            "NXT Hardware",
+            "Enhanced NXT firmware",
+            "サブプロセッサ　Atmel AVR"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "What is the execution environment for the main processor Atmel ARM7?",
+        "choice": [
+            "Device drivers",
+            "NXT Hardware",
+            "Enhanced NXT firmware",
+            "Subprocessors Atmel AVR"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "메인 프로세서 Atmel ARM7의 실행 환경은 무엇입니까?",
+        "choice": [
+            "장치 드라이버",
+            "NXT 하드웨어",
+            "향상된 NXT 펌웨어",
+            "서브프로세서 Atmel AVR"
+        ],
+        "answer": "C"
+    }
+}

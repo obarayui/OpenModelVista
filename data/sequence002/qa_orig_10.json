@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/100",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 7,
+    "characters": 73,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれる非同期メッセージの数はどれですか？",
+        "choice": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "How many asynchronous messages are included in this image?",
+        "choice": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "이 이미지에 포함된 비동기식 메시지는 몇 개인가?",
+        "choice": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": "A"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/031",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 12,
+    "characters": 78,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "この図のシステム名として正しいのはどれですか？",
+        "choice": [
+            "システム名は明記されていない",
+            "オンライン顧客",
+            "注文を配達する",
+            "ネットショッピングシステム"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "What is the name of the system in this image?",
+        "choice": [
+            "The system name is not specified",
+            "Online Customer",
+            "Deliver Order",
+            "Online Shopping System"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "이 이미지의 시스템 이름은 무엇인가?",
+        "choice": [
+            "시스템 이름이 지정되지 않음",
+            "온라인 고객",
+            "주문 배송",
+            "온라인 쇼핑 시스템"
+        ],
+        "answer": "A"
+    }
+}

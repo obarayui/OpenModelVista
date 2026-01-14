@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/046",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 8,
+    "characters": 288,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれるリンクの数はどれですか？",
+        "choice": [
+            "8",
+            "14",
+            "11",
+            "10"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "How many links are included in the image?",
+        "choice": [
+            "8",
+            "14",
+            "11",
+            "10"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "이미지에는 몇 개의 링크가 포함되어 있나요?",
+        "choice": [
+            "8",
+            "14",
+            "11",
+            "10"
+        ],
+        "answer": "B"
+    }
+}

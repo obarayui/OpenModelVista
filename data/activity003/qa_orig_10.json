@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/189",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 11,
+    "characters": 62,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像内にあるオブジェクトノードとして正しいのはどれですか？",
+        "choice": [
+            "クレジットカード",
+            "100円両替機",
+            "紙幣",
+            "100円硬貨を出す"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which of the following is the correct object node in the image?",
+        "choice": [
+            "a credit card",
+            "a 100-yen money changer",
+            "a bill",
+            "a 100-yen coin"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "이미지에서 올바른 객체 노드는 다음 중 어느 것인가?",
+        "choice": [
+            "신용카드",
+            "100엔 동전 교환기",
+            "지폐",
+            "100엔 동전"
+        ],
+        "answer": "C"
+    }
+}

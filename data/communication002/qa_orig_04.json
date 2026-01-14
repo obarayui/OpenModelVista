@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/129",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 7,
+    "characters": 163,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれる同期メッセージの数はどれですか？",
+        "choice": [
+            "7",
+            "3",
+            "6",
+            "4"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "How many synchronous messages are included in this image?",
+        "choice": [
+            "7",
+            "3",
+            "6",
+            "4"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "이 이미지에 포함된 동기식 메시지는 몇 개인가요?",
+        "choice": [
+            "7",
+            "3",
+            "6",
+            "4"
+        ],
+        "answer": "D"
+    }
+}

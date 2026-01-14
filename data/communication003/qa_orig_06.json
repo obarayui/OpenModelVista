@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/140",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 14,
+    "characters": 286,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中の最後のシーケンス番号はいくつですか？",
+        "choice": [
+            "終了する",
+            "5.1",
+            "6.2",
+            "4.2"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "What is the last sequence number in this image?",
+        "choice": [
+            "End",
+            "5.1",
+            "6.2",
+            "4.2"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "이 이미지의 마지막 시퀀스 번호는 무엇인가요?",
+        "choice": [
+            "종료",
+            "5.1",
+            "6.2",
+            "4.2"
+        ],
+        "answer": "B"
+    }
+}

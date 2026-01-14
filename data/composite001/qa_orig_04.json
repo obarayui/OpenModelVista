@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/258",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 8,
+    "characters": 32,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "要求インターフェースの数として正しいものはどれですか？",
+        "choice": [
+            "0",
+            "3",
+            "2",
+            "1"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which is the correct number of required interfaces?",
+        "choice": [
+            "0",
+            "3",
+            "2",
+            "1"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "필요한 인터페이스의 올바른 개수는 무엇입니까?",
+        "choice": [
+            "0",
+            "3",
+            "2",
+            "1"
+        ],
+        "answer": "D"
+    }
+}

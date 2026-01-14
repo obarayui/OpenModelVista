@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/038",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 4,
+    "characters": 52,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "「：部署」オブジェクトの「部署名」の属性値はどれですか？",
+        "choice": [
+            "”99-9999-9999”",
+            "\"渡辺さん\"",
+            "\"営業部\"",
+            "”開発部”"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which is the attribute value of the \"Department name\" of the \":Department\" object?",
+        "choice": [
+            "\"99-9999-9999\"",
+            "\"Mr. Watanabe\"",
+            "\"Sales Department\"",
+            "\"Development Department\""
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "\":Department\" 객체의 \"Department name\" 속성 값은 무엇입니까?",
+        "choice": [
+            "\"99-9999-9999\"",
+            "\"와타나베 씨\"",
+            "\"영업부\"",
+            "\"개발부\""
+        ],
+        "answer": "D"
+    }
+}

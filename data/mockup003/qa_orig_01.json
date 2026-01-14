@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/453",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": -1,
+    "characters": -1,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "TOPページ画面に含まれるボタンの数はいくつですか？",
+        "choice": [
+            "5",
+            "2",
+            "10",
+            "7"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "How many buttons are included in the TOP Page Screen?",
+        "choice": [
+            "5",
+            "2",
+            "10",
+            "7"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "TOP 페이지 화면에는 몇 개의 버튼이 포함되어 있습니까?",
+        "choice": [
+            "5",
+            "2",
+            "10",
+            "7"
+        ],
+        "answer": "B"
+    }
+}

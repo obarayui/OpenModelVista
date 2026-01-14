@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/447",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": -1,
+    "characters": -1,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれるボタン名として正しいのはどれですか？",
+        "choice": [
+            "キャンセル",
+            "会員登録",
+            "予約",
+            "パスワード再設定"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "Which of the following is the correct button name included in this image?",
+        "choice": [
+            "Cancel",
+            "Sign up",
+            "Reserve",
+            "Reset Password"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "이 이미지에 포함된 올바른 버튼 이름은 다음 중 어느 것인가요?",
+        "choice": [
+            "취소",
+            "회원가입",
+            "예약",
+            "비밀번호 재설정"
+        ],
+        "answer": "B"
+    }
+}

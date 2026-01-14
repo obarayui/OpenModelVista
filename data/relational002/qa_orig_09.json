@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/347",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 3,
+    "characters": 624,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中のデータベースのうち「現代技術社」が格納されている列名はどれですか？",
+        "choice": [
+            "publisher",
+            "社名",
+            "2",
+            "price"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "Which column name in the database in the image contains \"Gendai Gijutsu Sha\"?",
+        "choice": [
+            "publisher",
+            "company name",
+            "2",
+            "price"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "이미지 내 데이터베이스에서 \"Gendai Gijutsu Sha\"를 포함하는 열 이름은 무엇입니까?",
+        "choice": [
+            "publisher",
+            "company name",
+            "2",
+            "price"
+        ],
+        "answer": "A"
+    }
+}

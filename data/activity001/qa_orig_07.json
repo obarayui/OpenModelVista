@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/166",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 12,
+    "characters": 173,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "終了ノードの直前のアクションはどれですか？",
+        "choice": [
+            "依頼先情報を入力してチケットを確定",
+            "問い合わせ種別メニューの表示",
+            "チケットを保存し受付けメールを送信",
+            "問い合わせ種別に「PC利用登録」を設定"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which action is immediately before the end node?",
+        "choice": [
+            "Enter requester information and confirm ticket",
+            "Display inquiry type menu",
+            "Save ticket and send acceptance email",
+            "Set \"PC usage registration\" as inquiry type"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "종료 노드 바로 앞에 오는 액션은 무엇인가요?",
+        "choice": [
+            "요청자 정보 입력 및 티켓 확인",
+            "문의 유형 메뉴 표시",
+            "티켓 저장 및 접수 이메일 발송",
+            "문의 유형으로 \"PC 사용 등록\" 설정"
+        ],
+        "answer": "C"
+    }
+}

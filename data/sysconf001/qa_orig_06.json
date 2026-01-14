@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/417",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": -1,
+    "characters": -1,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "APサーバとDBサーバの関係として正しいものはどれですか？",
+        "choice": [
+            "APサーバはDBサーバを介さず、直接お客様端末とやり取りを行う。",
+            "APサーバとDBサーバは独立して動作し、互いに通信しない。",
+            "DBサーバはAPサーバを制御する。",
+            "APサーバはDBサーバと通信し、データのやり取りを行う。"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which of the following is the correct relationship between an AP server and a DB server?",
+        "choice": [
+            "The AP server communicates directly with the customer terminal without going through the DB server.",
+            "The AP server and DB server operate independently and do not communicate with each other.",
+            "The DB server controls the AP server.",
+            "The AP server communicates with the DB server and exchanges data."
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "다음 중 AP 서버와 DB 서버 간의 올바른 관계는 무엇인가요?",
+        "choice": [
+            "AP 서버는 DB 서버를 거치지 않고 고객 단말기와 직접 통신합니다.",
+            "AP 서버와 DB 서버는 독립적으로 운영되며 서로 통신하지 않습니다.",
+            "DB 서버가 AP 서버를 제어합니다.",
+            "AP 서버는 DB 서버와 통신하여 데이터를 교환합니다."
+        ],
+        "answer": "D"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/096",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 3,
+    "characters": 29,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "貸出申請のリクエストは、どのオブジェクトに送信されますか？",
+        "choice": [
+            "棚",
+            "書籍",
+            "ユーザー",
+            "貸出申請は送信されない"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "To which object is the Loan Request sent?",
+        "choice": [
+            "Shelf",
+            "Book",
+            "User",
+            "Loan Request is not sent"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "대출 요청은 어떤 객체로 전송됩니까?",
+        "choice": [
+            "서가",
+            "도서",
+            "이용자",
+            "대출 신청이 전송되지 않음"
+        ],
+        "answer": "B"
+    }
+}

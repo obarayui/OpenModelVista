@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/227",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 10,
+    "characters": 87,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "この図に含まれるコンポーネント名として正しいものはどれですか？",
+        "choice": [
+            "経費登録サービス",
+            "給与サービス",
+            "社員",
+            "経費データベース"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which of the following is the correct component name included in this diagram?",
+        "choice": [
+            "expense registration service",
+            "payroll service",
+            "employee",
+            "expense database"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "이 다이어그램에 포함된 올바른 구성 요소 이름은 다음 중 어느 것인가?",
+        "choice": [
+            "경비 등록 서비스",
+            "급여 서비스",
+            "직원",
+            "경비 데이터베이스"
+        ],
+        "answer": "C"
+    }
+}

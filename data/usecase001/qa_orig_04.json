@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/004",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 3,
+    "characters": 27,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "この図に含まれる正しいユースケースはどれですか？",
+        "choice": [
+            "チケットを購入する",
+            "バーを開ける",
+            "改札システムの電源を入れる",
+            "チケットを挿入する"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which of the following is a correct use case included in this image?",
+        "choice": [
+            "Purchase Ticket",
+            "Open Barrier",
+            "Turn On Ticket Gate System",
+            "Insert Ticket"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "다음 중 이 그림에 포함된 올바른 사용 사례는 무엇입니까?",
+        "choice": [
+            "티켓 구매",
+            "개폐기 열기",
+            "티켓 게이트 시스템 켜기",
+            "티켓 삽입"
+        ],
+        "answer": "D"
+    }
+}

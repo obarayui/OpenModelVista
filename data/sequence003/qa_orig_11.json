@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/118",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 5,
+    "characters": 172,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "「：ログイン画面」から「：ログイン処理」に送信されるリクエストはどれですか？",
+        "choice": [
+            "ログイン情報を入力する(会員情報, パスワード)",
+            "Aさんの会員情報=会員情報を取得する(会員番号)",
+            "認証エラー画面へ遷移する()",
+            "ログインする(会員番号, パスワード)"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which request does the \": Login Screen\" send to \": Login Process\"?",
+        "choice": [
+            "Enter login information (Member ID, Password)",
+            "Retrieve member information for A (Member ID)",
+            "Transition to Authentication Error Screen ()",
+            "Login (Member ID, Password)"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": ": 로그인 화면은 \": 로그인 프로세스\"에 어떤 요청을 보냅니까?",
+        "choice": [
+            "로그인 정보 입력 (회원 ID, 비밀번호)",
+            "A (회원 ID) 회원 정보 조회",
+            "인증 오류 화면으로 전환 ()",
+            "로그인 (회원 ID, 비밀번호)"
+        ],
+        "answer": "D"
+    }
+}

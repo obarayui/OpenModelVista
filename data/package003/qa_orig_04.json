@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/205",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 6,
+    "characters": 44,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "serviceパッケージの内部要素として正しいものはどれですか？",
+        "choice": [
+            "OrderFrame",
+            "ui",
+            "OrderControl",
+            "OrderBean"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which of the following is the correct internal element of the \"service\" package?",
+        "choice": [
+            "OrderFrame",
+            "ui",
+            "OrderControl",
+            "OrderBean"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "다음 중 \"service\" 패키지의 올바른 내부 요소는 무엇입니까?",
+        "choice": [
+            "OrderFrame",
+            "ui",
+            "OrderControl",
+            "OrderBean"
+        ],
+        "answer": "C"
+    }
+}

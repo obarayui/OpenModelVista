@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/403",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 11,
+    "characters": 116,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "ユーザが一番初めに触れるAWSサービスはどれですか？",
+        "choice": [
+            "Amazon Route 53",
+            "Amazon S3",
+            "Amazon RDS",
+            "Amazon CloudFront"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which AWS service is the user's first exposure to?",
+        "choice": [
+            "Amazon Route 53",
+            "Amazon S3",
+            "Amazon RDS",
+            "Amazon CloudFront"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "사용자가 처음 접하는 AWS 서비스는 무엇입니까?",
+        "choice": [
+            "아마존 루트 53",
+            "아마존 S3",
+            "아마존 RDS",
+            "아마존 클라우드프론트"
+        ],
+        "answer": "D"
+    }
+}

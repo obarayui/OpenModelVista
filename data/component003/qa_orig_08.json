@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/228",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 10,
+    "characters": 87,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "この図に含まれる正しいインターフェース名は何ですか？",
+        "choice": [
+            "経費全体",
+            "経費データベース",
+            "出勤指示",
+            "経費"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "What is the correct interface name included in this diagram?",
+        "choice": [
+            "Expense Overall",
+            "Expense Database",
+            "Attendance Instructions",
+            "Expense"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "이 다이어그램에 포함된 올바른 인터페이스 이름은 무엇인가?",
+        "choice": [
+            "경비 총괄",
+            "경비 데이터베이스",
+            "출근 지침",
+            "경비"
+        ],
+        "answer": "C"
+    }
+}

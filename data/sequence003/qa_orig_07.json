@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/114",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 5,
+    "characters": 172,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれるメッセージ名はどれですか？",
+        "choice": [
+            "会員番号",
+            "認証結果=OK",
+            "ログイン情報を入力する",
+            "ログイン処理"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which of the following is the correct message name included in the image?",
+        "choice": [
+            "Member ID",
+            "Authentication Result = OK",
+            "Enter Login Information",
+            "Login Process"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "다음 중 이미지에 포함된 올바른 메시지 이름은 무엇인가?",
+        "choice": [
+            "회원 ID",
+            "인증 결과 = OK",
+            "로그인 정보 입력",
+            "로그인 프로세스"
+        ],
+        "answer": "C"
+    }
+}

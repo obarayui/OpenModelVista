@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/117",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 5,
+    "characters": 172,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "この図に含まれている結合フラグメントとして正しいものはどれですか？",
+        "choice": [
+            "ループ",
+            "オプション",
+            "ブレイク",
+            "オルタナティブ"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which of the following is a correct combined fragment included in this image?",
+        "choice": [
+            "Loop",
+            "Option",
+            "Break",
+            "Alternative"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "다음 중 이 이미지에 포함된 올바른 결합된 조각은 무엇입니까?",
+        "choice": [
+            "루프",
+            "옵션",
+            "중단",
+            "대안"
+        ],
+        "answer": "D"
+    }
+}

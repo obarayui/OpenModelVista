@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/068",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 4,
+    "characters": 103,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "「部署」クラスから「社員」クラスを見たときの多重度として正しいものはどれですか？",
+        "choice": [
+            "1..*",
+            "1",
+            "0..*",
+            "所属社員"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "Which of the following is the correct multiplicity when looking at the \"Employee\" class from the \"Department\" class?",
+        "choice": [
+            "1... *",
+            "1",
+            "0... *",
+            "Employee belonging to"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "다음 중 \"Department\" 클래스에서 \"Employee\" 클래스를 볼 때 올바른 다중성은 무엇인가요?",
+        "choice": [
+            "1... *",
+            "1",
+            "0... *",
+            "소속 직원"
+        ],
+        "answer": "A"
+    }
+}

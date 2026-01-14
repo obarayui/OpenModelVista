@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/293",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 3,
+    "characters": 71,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中に含まれる状態名として正しいものはどれですか？",
+        "choice": [
+            "一定時間操作なし",
+            "操作中",
+            "ATM",
+            "使用中"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which of the following is the correct state name included in the image?",
+        "choice": [
+            "No operation for a certain time",
+            "In operation",
+            "ATM",
+            "In use"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "이미지에 포함된 올바른 상태 이름은 다음 중 어느 것입니까?",
+        "choice": [
+            "일정 시간 동안 무작위 작업 없음",
+            "작동 중",
+            "ATM",
+            "사용 중"
+        ],
+        "answer": "D"
+    }
+}

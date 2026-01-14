@@ -1,0 +1,175 @@
+@startuml Employee Management System
+
+' Class definitions
+class Company {
+  -companyName: String
+  -foundedDate: Date
+  -headquartersAddress: String
+  +getCompanyInfo()
+}
+
+class Department {
+  -departmentName: String
+  -departmentCode: String
+  -budget: Decimal
+  +displayDepartmentInfo()
+}
+
+class Employee {
+  -name: String
+  -employeeID: String
+  -password: String
+  -hireDate: Date
+  -emailAddress: String
+  +login(employeeID, password)
+  +registerExpense()
+  +submitExpense()
+  +recordAttendance()
+}
+
+class Manager {
+  -managerLevel: Integer
+  +approveOrRejectExpense()
+  +evaluateSubordinate()
+  +approveLeave()
+}
+
+class Position {
+  -positionTitle: String
+  -positionLevel: Integer
+  -baseSalary: Decimal
+}
+
+class Project {
+  -projectName: String
+  -projectID: String
+  -startDate: Date
+  -endDate: Date
+  -budget: Decimal
+  -status: String
+  +startProject()
+  +updateProgress()
+}
+
+class Task {
+  -taskName: String
+  -taskID: String
+  -deadline: Date
+  -priority: String
+  -isCompleted: Boolean
+  +assignTask()
+  +completeTask()
+}
+
+class AttendanceRecord {
+  -date: Date
+  -checkInTime: Time
+  -checkOutTime: Time
+  -workHours: Decimal
+  -overtimeHours: Decimal
+  +recordCheckIn()
+  +recordCheckOut()
+  +calculateWorkHours()
+}
+
+class LeaveRequest {
+  -requestID: String
+  -leaveType: String
+  -startDate: Date
+  -endDate: Date
+  -reason: String
+  -approvalStatus: String
+  +submitRequest()
+  +cancelRequest()
+}
+
+class Salary {
+  -salaryID: String
+  -paymentMonth: Date
+  -basePay: Decimal
+  -overtimePay: Decimal
+  -deductions: Decimal
+  -netPay: Decimal
+  +calculateSalary()
+  +issuePayslip()
+}
+
+class Skill {
+  -skillName: String
+  -category: String
+  -proficiencyLevel: Integer
+}
+
+class Training {
+  -trainingName: String
+  -trainingID: String
+  -trainingDate: Date
+  -duration: Integer
+  -capacity: Integer
+  -content: String
+  +enrollInTraining()
+  +recordAttendance()
+}
+
+class Evaluation {
+  -evaluationID: String
+  -evaluationPeriod: String
+  -evaluationDate: Date
+  -overallRating: String
+  -comments: String
+  +inputEvaluation()
+  +finalizeEvaluation()
+}
+
+class Expense {
+  -expenseID: String
+  -submissionDate: Date
+  -amount: Decimal
+  -purpose: String
+  -receipt: File
+  -approvalStatus: String
+  +submitExpense()
+  +attachReceipt()
+}
+
+class ExpenseApproval {
+  -approvalID: String
+  -approvalDateTime: DateTime
+  -approvalResult: Boolean
+  -comments: String
+  +approve()
+  +reject()
+  +returnForRevision()
+}
+
+' Inheritance relationships
+Employee <|-- Manager
+
+' Association relationships
+Company "1" -- "1..*" Department
+Department "1" -- "1..*" Employee : belongs to
+Employee "1..*" -- "1" Position : holds
+
+Department "1" -- "0..*" Project : manages
+Project "1" -- "0..*" Task : contains
+Project "1" -- "1..*" Employee : participates in
+
+Employee "1" -- "0..*" AttendanceRecord : records
+Employee "1" -- "0..*" LeaveRequest : submits
+Employee "1" -- "0..*" Salary : receives
+Employee "1" -- "0..*" Skill : possesses
+Employee "0..*" -- "0..*" Training : attends
+
+Manager "1" -- "0..*" Evaluation : conducts
+Employee "1" -- "0..*" Evaluation : receives
+
+Employee "1" -- "0..*" Expense : submits
+Expense "1" -- "0..1" ExpenseApproval : approved by
+Manager "1" -- "0..*" ExpenseApproval : performs
+
+Manager "1" -- "0..*" LeaveRequest : approves
+Manager "1" -- "0..*" Employee : supervises
+
+Task "0..*" -- "1" Employee : assigned to
+
+@enduml

@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/357",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 7,
+    "characters": 82,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれる正しいエンティティ名はどれですか？",
+        "choice": [
+            "仕入れ先",
+            "本店",
+            "支店コード",
+            "梱包"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which of the following is the correct entity name included in the image?",
+        "choice": [
+            "Supplier",
+            "Head office",
+            "Branch code",
+            "Packaging"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "이미지에 포함된 올바른 엔티티 이름은 무엇입니까?",
+        "choice": [
+            "공급업체",
+            "본사",
+            "지점 코드",
+            "포장"
+        ],
+        "answer": "D"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/023",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 12,
+    "characters": 78,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれるユースケースの数はどれですか？",
+        "choice": [
+            "6",
+            "5",
+            "8",
+            "7"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "How many use cases are included in this image?",
+        "choice": [
+            "6",
+            "5",
+            "8",
+            "7"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "이 이미지에 몇 개의 사용 사례가 포함되어 있나요?",
+        "choice": [
+            "6",
+            "5",
+            "8",
+            "7"
+        ],
+        "answer": "D"
+    }
+}

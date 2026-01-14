@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/091",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 3,
+    "characters": 29,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれるリプライメッセージの数はどれですか？",
+        "choice": [
+            "3",
+            "6",
+            "4",
+            "5"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "How many reply messages are included in this image?",
+        "choice": [
+            "3",
+            "6",
+            "4",
+            "5"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "이 이미지에 포함된 응답 메시지는 몇 개인가?",
+        "choice": [
+            "3",
+            "6",
+            "4",
+            "5"
+        ],
+        "answer": "A"
+    }
+}

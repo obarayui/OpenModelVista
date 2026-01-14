@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/197",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 3,
+    "characters": 15,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "serviceの依存先のパッケージはどれですか？",
+        "choice": [
+            "domain",
+            "application",
+            "data",
+            "ui"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "Which package does the \"service\" package depend on?",
+        "choice": [
+            "domain",
+            "application",
+            "data",
+            "ui"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "\"서비스\" 패키지는 어떤 패키지에 의존하나요?",
+        "choice": [
+            "도메인",
+            "애플리케이션",
+            "데이터",
+            "UI"
+        ],
+        "answer": "A"
+    }
+}

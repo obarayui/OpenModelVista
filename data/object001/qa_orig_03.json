@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/036",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 4,
+    "characters": 52,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれるオブジェクト名とクラス名の組み合わせとして正しいものはどれですか？",
+        "choice": [
+            "山田さん：社員",
+            "：開発部",
+            "佐藤さん：社員",
+            "東京支店：部署"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "Which of the following is the correct combination of object name and class name in the image?",
+        "choice": [
+            "Yamada-san: Employee",
+            ": Development Department",
+            "Sato-san: Employee",
+            "Tokyo Branch: Department"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "이미지에서 객체명과 클래스명의 올바른 조합은 다음 중 어느 것인가요?",
+        "choice": [
+            "야마다 씨: 직원",
+            ": 개발 부서",
+            "사토 씨: 직원",
+            "도쿄 지점: 부서"
+        ],
+        "answer": "A"
+    }
+}

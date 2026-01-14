@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/425",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": -1,
+    "characters": -1,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "このシステムとクライアントとの通信に関しての説明として，正しいものはどれですか？",
+        "choice": [
+            "インターネットを利用せず、LANを使用している。",
+            "インターネットを介してクライアントと通信を行う。",
+            "クライアントの端末のみインターネットに接続されており、このシステムはインターネットに接続されていない。",
+            "インターネットを利用せず、直接接続する。"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "Which of the following is the correct description of the communication between this system and the client?",
+        "choice": [
+            "The system does not use the Internet, but uses a LAN.",
+            "The system communicates with the client via the Internet.",
+            "Only the client's terminal is connected to the Internet; this system is not connected to the Internet.",
+            "The system is not connected to the Internet, but connects directly to the Internet."
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "이 시스템과 클라이언트 간의 통신에 대한 올바른 설명은 다음 중 어느 것인가?",
+        "choice": [
+            "시스템은 인터넷을 사용하지 않고 LAN을 사용합니다.",
+            "시스템은 인터넷을 통해 클라이언트와 통신합니다.",
+            "클라이언트의 단말기만 인터넷에 연결되어 있으며, 이 시스템은 인터넷에 연결되어 있지 않습니다.",
+            "시스템은 인터넷에 연결되어 있지 않지만, 인터넷에 직접 연결됩니다."
+        ],
+        "answer": "B"
+    }
+}

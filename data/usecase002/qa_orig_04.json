@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/014",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 9,
+    "characters": 76,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "この画像の汎化の説明として正しいものはどれですか？",
+        "choice": [
+            "ユースケースの汎化は含まれるが、アクターの汎化は含まれていない",
+            "アクターの汎化もユースケースの汎化も含まれていない",
+            "アクターの汎化もユースケースの汎化も含まれる",
+            "アクターの汎化は含まれるが、ユースケースの汎化は含まれていない"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which of the following statements about generalization in this image is correct?",
+        "choice": [
+            "The image includes generalization for use cases but not for actors",
+            "The image includes neither actor generalization nor use case generalization",
+            "The image includes both actor generalization and use case generalization",
+            "The image includes generalization for actors but not for use cases"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "이 그림의 일반화에 관한 다음 진술 중 올바른 것은 무엇입니까?",
+        "choice": [
+            "이미지에는 사용 사례에 대한 일반화가 포함되어 있지만 행위자에 대한 일반화는 포함되어 있지 않음",
+            "이미지에는 행위자 일반화도 사용 사례 일반화도 포함되어 있지 않음",
+            "이미지에는 행위자 일반화와 사용 사례 일반화가 모두 포함되어 있음",
+            "이미지에는 행위자에 대한 일반화가 포함되어 있지만 사용 사례에 대한 일반화는 포함되어 있지 않음"
+        ],
+        "answer": "D"
+    }
+}

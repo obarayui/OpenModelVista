@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/307",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 6,
+    "characters": 104,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "ログイン済みである場合、次のアクションはどれですか？",
+        "choice": [
+            "ログイン処理",
+            "図書管理システムでの貸し出し処理",
+            "カスタマーサポートシステムへのお問い合わせ",
+            "トラブルの通知"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "If you are already logged in, which of the following actions are you to take?",
+        "choice": [
+            "Login process",
+            "Borrowing process in the library management system",
+            "Contacting the customer support system",
+            "Notification of a problem"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "이미 로그인한 상태라면, 다음 중 어떤 조치를 취해야 하나요?",
+        "choice": [
+            "로그인 프로세스",
+            "도서관 관리 시스템에서의 대출 프로세스",
+            "고객 지원 시스템에 문의하기",
+            "문제 발생 알림"
+        ],
+        "answer": "C"
+    }
+}

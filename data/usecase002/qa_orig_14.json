@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/010",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 9,
+    "characters": 76,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれるアクターの数はどれですか？",
+        "choice": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "How many actors are included in this image?",
+        "choice": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "이 그림에는 몇 개의 행위자가 포함되어 있습니까?",
+        "choice": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "answer": "A"
+    }
+}

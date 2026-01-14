@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/193",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 11,
+    "characters": 62,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "デシジョンノードで100円硬貨を出すアクションを行う際のガードは何ですか？",
+        "choice": [
+            "硬貨が不足している場合",
+            "投入金の種類を判別する",
+            "else",
+            "1,000円紙幣または500円硬貨"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "What is the guard for the action of putting out a 100-yen coin in a decision node?",
+        "choice": [
+            "When there are not enough coins",
+            "Determine the type of money input",
+            "else",
+            "1,000 yen bill or 500 yen coin"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "결정 노드에서 100엔 동전을 꺼내는 동작에 대한 가드는 무엇입니까?",
+        "choice": [
+            "동전이 부족할 경우",
+            "입력된 화폐 종류 확인",
+            "else",
+            "1,000엔 지폐 또는 500엔 동전"
+        ],
+        "answer": "D"
+    }
+}

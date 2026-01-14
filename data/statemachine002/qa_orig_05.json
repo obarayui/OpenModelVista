@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/150",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 7,
+    "characters": 193,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "報告中の状態から敵キャラクタがエリアに入ると、どの状態になりますか？",
+        "choice": [
+            "待機中",
+            "交戦中",
+            "資質設定中",
+            "警戒中"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "When an enemy character enters an area from the reporting state, which state does it enter?",
+        "choice": [
+            "Waiting",
+            "Engaging",
+            "Setting qualities",
+            "Alert"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "적 캐릭터가 보고 상태에서 영역에 진입할 때, 어떤 상태로 진입하나요?",
+        "choice": [
+            "대기 중",
+            "연결 중",
+            "특성 설정",
+            "경고"
+        ],
+        "answer": "B"
+    }
+}

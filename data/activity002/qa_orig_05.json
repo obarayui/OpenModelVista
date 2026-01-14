@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/172",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 18,
+    "characters": 134,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像内で行われている並行処理の回数はどれですか？",
+        "choice": [
+            "4",
+            "3",
+            "2",
+            "1"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "What is the number of parallel processes taking place in the image?",
+        "choice": [
+            "4",
+            "3",
+            "2",
+            "1"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "이미지에서 동시에 진행 중인 병렬 프로세스 수는 몇 개인가?",
+        "choice": [
+            "4",
+            "3",
+            "2",
+            "1"
+        ],
+        "answer": "D"
+    }
+}

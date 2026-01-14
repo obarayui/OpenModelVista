@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/445",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": -1,
+    "characters": -1,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれるボタンの数はいくつですか？",
+        "choice": [
+            "16",
+            "20",
+            "10",
+            "2"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "How many buttons are included in this image?",
+        "choice": [
+            "16",
+            "20",
+            "10",
+            "2"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "이 이미지에 포함된 버튼은 몇 개인가요?",
+        "choice": [
+            "16",
+            "20",
+            "10",
+            "2"
+        ],
+        "answer": "C"
+    }
+}

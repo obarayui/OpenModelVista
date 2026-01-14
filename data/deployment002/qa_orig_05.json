@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/241",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 8,
+    "characters": 117,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "この図に含まれる成果物として正しいものはどれですか？",
+        "choice": [
+            "device",
+            "JRE",
+            "Mailer.exe",
+            "サーバマシン"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which of the following is the correct artifact included in this diagram?",
+        "choice": [
+            "device",
+            "JRE",
+            "Mailer.exe",
+            "server machine"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "다음 중 이 다이어그램에 포함된 올바른 아티팩트는 무엇입니까?",
+        "choice": [
+            "장치",
+            "JRE",
+            "Mailer.exe",
+            "서버 머신"
+        ],
+        "answer": "C"
+    }
+}

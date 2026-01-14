@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/407",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 1,
+    "characters": 71,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "値が書かれているセルの数として正しいものはどれですか？",
+        "choice": [
+            "5",
+            "10",
+            "13",
+            "4"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "Which is the correct number of cells in which the value is written?",
+        "choice": [
+            "5",
+            "10",
+            "13",
+            "4"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "값이 기록된 셀의 정확한 개수는 무엇입니까?",
+        "choice": [
+            "5",
+            "10",
+            "13",
+            "4"
+        ],
+        "answer": "B"
+    }
+}

@@ -1,0 +1,29 @@
+@startuml Student Management System
+
+' Class definitions
+class Student {
+  numberOfStudents
+  creditHours
+  --
+  calculateTuition()
+}
+
+class InStateStudent {
+  numberOfStudents
+  inStateStudentRate
+  --
+  calculateTuition()
+}
+
+class OutOfStateStudent {
+  numberOfStudents
+  outOfStateStudentRate
+  --
+  calculateTuition()
+}
+
+' Inheritance
+Student <|-- InStateStudent
+Student <|-- OutOfStateStudent
+
+@enduml

@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/082",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 10,
+    "characters": 225,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中の「図書」クラスと関連のあるクラスはどれですか？",
+        "choice": [
+            "図書館員",
+            "図書利用者",
+            "図書登録番号",
+            "図書貸出"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which class is associated with the \"Library\" class in the image?",
+        "choice": [
+            "librarian",
+            "book user",
+            "book registration number",
+            "book check out"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "이미지에서 \"도서관\" 클래스와 연관된 클래스는 무엇입니까?",
+        "choice": [
+            "librarian",
+            "book user",
+            "book registration number",
+            "book check out"
+        ],
+        "answer": "D"
+    }
+}

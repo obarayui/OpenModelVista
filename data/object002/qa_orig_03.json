@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/042",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 7,
+    "characters": 298,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれる正しいオブジェクト名はどれですか？",
+        "choice": [
+            "テスト",
+            "Noa：",
+            "：作業",
+            "作業成果物"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "Which of the following is the correct object name contained in the image?",
+        "choice": [
+            "test",
+            "Noa:",
+            ": work",
+            ": work product"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "다음 중 이미지에 포함된 올바른 개체 이름은 무엇인가?",
+        "choice": [
+            "테스트",
+            "노아:",
+            ": 작업",
+            ": 작업 결과물"
+        ],
+        "answer": "A"
+    }
+}

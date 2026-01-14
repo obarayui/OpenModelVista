@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/459",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": -1,
+    "characters": -1,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "表に含まれている正しい列名はどれですか？",
+        "choice": [
+            "定常",
+            "60件/時間",
+            "業務量",
+            "処理種別"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which of the following is the correct column name included in the table?",
+        "choice": [
+            "Steady",
+            "60 cases/hour",
+            "Amount of work",
+            "Type of processing"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "이미지 내 테이블에 포함된 올바른 열 이름은 다음 중 어느 것입니까?",
+        "choice": [
+            "정상",
+            "시간당 60건",
+            "업무량",
+            "처리 유형"
+        ],
+        "answer": "C"
+    }
+}

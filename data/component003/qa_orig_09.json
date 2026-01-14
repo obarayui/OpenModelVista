@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/229",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 10,
+    "characters": 87,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "この図に含まれる正しいサブシステム名は何ですか？",
+        "choice": [
+            "経費データベース",
+            "経費全体",
+            "社員",
+            "経費"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "What is the correct subsystem name included in this diagram?",
+        "choice": [
+            "Expense Database",
+            "Overall Expense",
+            "Employee",
+            "Expense"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "이 다이어그램에 포함된 올바른 하위 시스템 이름은 무엇인가?",
+        "choice": [
+            "경비 데이터베이스",
+            "총괄 경비",
+            "직원",
+            "경비"
+        ],
+        "answer": "B"
+    }
+}

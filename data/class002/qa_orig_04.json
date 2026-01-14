@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/062",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 4,
+    "characters": 103,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれる関連名として正しいものはどれですか？",
+        "choice": [
+            "氏名",
+            "社員",
+            "所属する",
+            "経費を登録する"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which of the following is the correct associated name in the image?",
+        "choice": [
+            "name",
+            "employee",
+            "belongs to",
+            "registers expenses"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "다음 중 그림에서 올바른 연관된 이름은 무엇입니까?",
+        "choice": [
+            "이름",
+            "직원",
+            "소속",
+            "경비 등록"
+        ],
+        "answer": "C"
+    }
+}

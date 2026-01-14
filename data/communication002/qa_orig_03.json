@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/128",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 7,
+    "characters": 163,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれるメッセージの数はどれですか？",
+        "choice": [
+            "8",
+            "7",
+            "6",
+            "9"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "How many messages are included in this image?",
+        "choice": [
+            "8",
+            "7",
+            "6",
+            "9"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "이 이미지에 포함된 메시지는 몇 개인가요?",
+        "choice": [
+            "8",
+            "7",
+            "6",
+            "9"
+        ],
+        "answer": "D"
+    }
+}

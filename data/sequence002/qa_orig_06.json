@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/106",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 7,
+    "characters": 73,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "「入金」リクエストは、どのオブジェクトに送信されますか？",
+        "choice": [
+            "普通預金コントロール",
+            "普通預金口座",
+            "個人顧客",
+            "他店券明細"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "To which object is the \"Deposit\" request sent?",
+        "choice": [
+            "Savings Deposit Control",
+            "Savings Account",
+            "Individual Customer",
+            "Inter-Branch Transaction Details"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "\"예금\" 요청은 어떤 대상에게 전송됩니까?",
+        "choice": [
+            "예금 관리",
+            "예금 계좌",
+            "개인 고객",
+            "지점 간 거래 내역"
+        ],
+        "answer": "B"
+    }
+}

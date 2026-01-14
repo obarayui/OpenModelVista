@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/424",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": -1,
+    "characters": -1,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "Webサーバとデータベースサーバの関係として正しいものはどれですか？",
+        "choice": [
+            "2台あるWebサーバの1台のみがデータベースサーバと通信する。",
+            "Webサーバはデータベースサーバと通信し、データのやり取りを行う。",
+            "Webサーバとデータベースサーバは独立して動作し、互いに関与しない。",
+            "Webサーバとデータベースサーバは直接通信せず、ロードバランサを介してデータをやり取りする。"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "Which of the following is the correct relationship between a web server and a database server?",
+        "choice": [
+            "Only one of the two Web servers communicates with the database server.",
+            "The Web server communicates with the database server and exchanges data.",
+            "The web server and the database server operate independently and are not involved with each other.",
+            "The web server and the database server do not communicate directly, but exchange data via a load balancer."
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "웹 서버와 데이터베이스 서버 간의 올바른 관계는 다음 중 어느 것인가?",
+        "choice": [
+            "두 웹 서버 중 하나만 데이터베이스 서버와 통신합니다.",
+            "웹 서버가 데이터베이스 서버와 통신하여 데이터를 교환합니다.",
+            "웹 서버와 데이터베이스 서버는 독립적으로 운영되며 서로 관련이 없습니다.",
+            "웹 서버와 데이터베이스 서버는 직접 통신하지 않고 로드 밸런서를 통해 데이터를 교환합니다."
+        ],
+        "answer": "B"
+    }
+}

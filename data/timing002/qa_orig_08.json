@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/288",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 4,
+    "characters": 64,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中で取引開始後に利用者からATMに送られるメッセージはどれですか？",
+        "choice": [
+            "取引が開始しました",
+            "認証完了",
+            "カードを挿入する",
+            "暗証番号を入力する"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which message in the image is sent by the user to the ATM after the transaction is initiated?",
+        "choice": [
+            "Transaction has started",
+            "Authentication completed",
+            "Insert card",
+            "Enter PIN"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "거래가 시작된 후 사용자가 ATM에 전송하는 메시지는 이미지에서 다음 중 어느 것인가?",
+        "choice": [
+            "거래 시작됨",
+            "인증 완료됨",
+            "카드 삽입",
+            "PIN 입력"
+        ],
+        "answer": "D"
+    }
+}

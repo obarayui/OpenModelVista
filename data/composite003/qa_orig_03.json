@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/272",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 6,
+    "characters": 58,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "コラボレーションロールの数として正しいものはどれですか？",
+        "choice": [
+            "2",
+            "3",
+            "5",
+            "1"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "Which of the following is the correct number of collaboration rolls?",
+        "choice": [
+            "2",
+            "3",
+            "5",
+            "1"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "다음 중 협업 역할의 올바른 개수는 어느 것인가?",
+        "choice": [
+            "2",
+            "3",
+            "5",
+            "1"
+        ],
+        "answer": "B"
+    }
+}

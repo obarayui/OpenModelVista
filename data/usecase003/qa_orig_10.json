@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/032",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 12,
+    "characters": 78,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "システムがユースケース「請求を承認する」機能を提供するのはどのアクターに対してですか？",
+        "choice": [
+            "配達員",
+            "注文を配達する",
+            "倉庫係員",
+            "信販会社"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which actor performs the \"Approve Invoice\" use case?",
+        "choice": [
+            "Delivery Person",
+            "Deliver Order",
+            "Warehouse Staff",
+            "Credit Company"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "\"청구서 승인\" 사용 사례를 수행하는 담당자는 누구입니까?",
+        "choice": [
+            "배달원",
+            "주문 배송",
+            "창고 직원",
+            "신용 회사"
+        ],
+        "answer": "D"
+    }
+}

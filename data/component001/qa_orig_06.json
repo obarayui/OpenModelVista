@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/212",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 2,
+    "characters": 12,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "この図に含まれる正しいコンポーネント名は何ですか？",
+        "choice": [
+            "ユーザー管理システム",
+            "給与管理",
+            "給与サービス",
+            "サーバー"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "What is the correct component name included in this diagram?",
+        "choice": [
+            "user management system",
+            "payroll management",
+            "payroll service",
+            "server"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "이 다이어그램에 포함된 올바른 구성 요소 이름은 무엇인가요?",
+        "choice": [
+            "사용자 관리 시스템",
+            "급여 관리",
+            "급여 서비스",
+            "서버"
+        ],
+        "answer": "B"
+    }
+}

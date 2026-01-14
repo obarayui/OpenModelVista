@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/074",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 4,
+    "characters": 103,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中の社員IDの型として正しいものはどれですか？",
+        "choice": [
+            "1",
+            "整数",
+            "パスワード",
+            "文字列"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which of the following is the correct type of employee ID in the image?",
+        "choice": [
+            "1",
+            "Integer",
+            "Password",
+            "String"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "이미지에 표시된 직원 ID 중 올바른 유형은 무엇입니까?",
+        "choice": [
+            "1",
+            "정수",
+            "비밀번호",
+            "문자열"
+        ],
+        "answer": "D"
+    }
+}

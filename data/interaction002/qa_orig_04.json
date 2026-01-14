@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/302",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 21,
+    "characters": 218,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中の開始ノードの次のアクションはどれですか？",
+        "choice": [
+            "会員がログインする",
+            "会員登録をする",
+            "買い物籠に商品を追加する",
+            "買い物籠の商品を参照する"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "Which of the following actions is the starting node in the image?",
+        "choice": [
+            "Member logs in",
+            "Member registers",
+            "Adds items to the shopping basket",
+            "Browses items in the shopping basket"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "다음 중 이미지의 시작 노드인 동작은 무엇인가?",
+        "choice": [
+            "회원 로그인",
+            "회원 가입",
+            "장바구니에 상품 추가",
+            "장바구니 상품 열람"
+        ],
+        "answer": "B"
+    }
+}

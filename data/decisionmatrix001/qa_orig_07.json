@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/315",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 1,
+    "characters": 70,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "表に含まれている正しい行名はどれですか？",
+        "choice": [
+            "適用範囲",
+            "実装スピード",
+            "パッケージ（ノンカスタマイズ）",
+            "導入期間"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which of the following is the correct row name included in the table?",
+        "choice": [
+            "scope of application",
+            "speed of implementation",
+            "package (non-customized)",
+            "implementation period"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "다음 중 테이블에 포함된 올바른 행 이름은 무엇입니까?",
+        "choice": [
+            "적용 범위",
+            "구현 속도",
+            "패키지(비맞춤형)",
+            "구현 기간"
+        ],
+        "answer": "D"
+    }
+}

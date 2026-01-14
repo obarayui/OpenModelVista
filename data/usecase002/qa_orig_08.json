@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/018",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 9,
+    "characters": 76,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "システムがユースケース「通帳を記入する」機能を提供するのはどのアクターに対してですか？",
+        "choice": [
+            "他銀行",
+            "振込依頼者",
+            "預金者",
+            "利用者"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which actor performs the \"Update Passbook\" use case?",
+        "choice": [
+            "Other Bank",
+            "Remittance Requester",
+            "Depositor",
+            "User"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "어떤 배우가 \"통장 업데이트\" 사용 사례를 수행합니까?",
+        "choice": [
+            "타 은행",
+            "송금 요청자",
+            "예금자",
+            "사용자"
+        ],
+        "answer": "C"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/278",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 2,
+    "characters": 37,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中に含まれるイベント名として正しいものはどれですか？",
+        "choice": [
+            "取引開始",
+            "待機中",
+            "エラー発生",
+            "ATM"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "Which of the following is the correct event name included in the image?",
+        "choice": [
+            "Transaction started",
+            "Waiting",
+            "Error occurred",
+            "ATM"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "이미지에 포함된 올바른 이벤트 이름은 다음 중 어느 것인가?",
+        "choice": [
+            "거래 시작",
+            "대기 중",
+            "오류 발생",
+            "ATM"
+        ],
+        "answer": "A"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/460",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": -1,
+    "characters": -1,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "表に含まれている正しい業務内容はどれですか？",
+        "choice": [
+            "搭乗手続きを行う",
+            "ログインする",
+            "パスワードを変更する",
+            "領収書を発行する"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "Which of the following is the correct task included in the table?",
+        "choice": [
+            "Complete boarding procedures",
+            "Log in",
+            "Change password",
+            "Issue receipt"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "이미지 내 테이블에 포함된 올바른 작업은 다음 중 어느 것입니까?",
+        "choice": [
+            "탑승 수속 완료",
+            "로그인",
+            "비밀번호 변경",
+            "영수증 발급"
+        ],
+        "answer": "B"
+    }
+}

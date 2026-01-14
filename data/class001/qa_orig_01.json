@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/051",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 3,
+    "characters": 61,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれるクラスの数はどれですか？",
+        "choice": [
+            "3",
+            "1",
+            "9",
+            "6"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "How many classes are included in the image?",
+        "choice": [
+            "3",
+            "1",
+            "9",
+            "6"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "이미지에 몇 개의 클래스가 포함되어 있나요?",
+        "choice": [
+            "3",
+            "1",
+            "9",
+            "6"
+        ],
+        "answer": "A"
+    }
+}

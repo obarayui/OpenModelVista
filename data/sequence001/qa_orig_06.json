@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/094",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 3,
+    "characters": 29,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれるメッセージ名はどれですか？",
+        "choice": [
+            "ユーザー",
+            "棚",
+            "ログイン",
+            "返却申請"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which of the following is the correct message name included in the image?",
+        "choice": [
+            "User",
+            "Shelf",
+            "Login",
+            "Return Request"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "다음 중 이미지에 포함된 올바른 메시지 이름은 무엇인가?",
+        "choice": [
+            "이용자",
+            "서가",
+            "로그인",
+            "반납 요청"
+        ],
+        "answer": "D"
+    }
+}

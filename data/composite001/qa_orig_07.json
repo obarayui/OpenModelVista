@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/261",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 8,
+    "characters": 32,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中に含まれる要求インターフェースとして正しいものはどれですか？",
+        "choice": [
+            "モニター",
+            "キーボード",
+            "CPU",
+            "受信"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "Which of the following is the correct request interface included in the image?",
+        "choice": [
+            "monitor",
+            "keyboard",
+            "CPU",
+            "receive"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "이미지에 포함된 올바른 요청 인터페이스는 다음 중 무엇입니까?",
+        "choice": [
+            "모니터",
+            "키보드",
+            "CPU",
+            "수신"
+        ],
+        "answer": "B"
+    }
+}

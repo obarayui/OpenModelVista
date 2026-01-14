@@ -1,0 +1,73 @@
+@startuml Library Management System
+
+' Class definitions
+class Library {
+}
+
+class Librarian {
+}
+
+class Author {
+  -authorId
+}
+
+class BookCategory {
+  -categoryName
+}
+
+class BookTitle {
+  -bookTitleNumber
+  -title
+  -publisherName
+  -publicationYear
+}
+
+class Book {
+  -bookRegistrationNumber
+  +isAvailableForLoan()
+}
+
+class LoanReservation {
+  -reservationDateTime
+}
+
+class BookLoan {
+  -loanDate
+  -returnDueDate
+  +create()
+  +executeLoan()
+  +performLoan!()
+}
+
+class RegisteredUser {
+  -userRegistrationNumber
+  -contact
+  -identityVerificationMethod
+  +hasBorrowingRights?()
+}
+
+class Person {
+  -name
+  -dateOfBirth
+}
+
+' Associations
+Library "1" -- "0..*" Librarian
+Library "1" -- "0..*" BookCategory
+Library "1" -- "1..*" BookCategory
+Library "1" -- "0..*" BookTitle
+Library "1" -- "0..*" Book
+Library "1" -- "0..*" RegisteredUser
+
+Author "0..*" -- "0..*" BookTitle
+BookCategory "0..*" -- "0..*" BookTitle
+BookTitle "1" -- "0..*" Book
+Book "1" -- "0..1" LoanReservation
+BookTitle "0..1" -- "0..*" LoanReservation
+Book "1" -- "0..1" BookLoan
+RegisteredUser "1" -- "0..*" BookLoan
+RegisteredUser "1" -- "0..*" LoanReservation
+
+Person <|-- RegisteredUser
+
+@enduml

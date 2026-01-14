@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/153",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 5,
+    "characters": 190,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "湯沸し中の状態で行われるentryアクションはどれですか？",
+        "choice": [
+            "保温中",
+            "湯沸しランプを点灯する",
+            "湯を沸かす",
+            "保温ランプを点灯する"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "Which of the following is an ENTRY action performed while the water is heating?",
+        "choice": [
+            "Keep warm",
+            "Turn on the water heating lamp",
+            "Boil water",
+            "Turn on the keep warm lamp"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "다음 중 물을 가열하는 동안 수행되는 진입(ENTRY) 동작은 무엇인가요?",
+        "choice": [
+            "보온",
+            "물 가열등 켜기",
+            "물 끓이기",
+            "보온등 켜기"
+        ],
+        "answer": "B"
+    }
+}

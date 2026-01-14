@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/449",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": -1,
+    "characters": -1,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "ジャケットのサイズを選択するボタンの数はいくつですか？",
+        "choice": [
+            "3",
+            "6",
+            "2",
+            "4"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "How many buttons are available for selecting the jacket size?",
+        "choice": [
+            "3",
+            "6",
+            "2",
+            "4"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "재킷 사이즈를 선택할 수 있는 버튼은 몇 개인가요?",
+        "choice": [
+            "3",
+            "6",
+            "2",
+            "4"
+        ],
+        "answer": "D"
+    }
+}

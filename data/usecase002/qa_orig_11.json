@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/021",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 9,
+    "characters": 76,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "「暗証番号を記入する」ユースケースが包含されているユースケースの組み合わせで正しいものはどれですか？",
+        "choice": [
+            "「預金を引き出す」と「口座振込（振替）を依頼する」",
+            "「振込依頼者」と「預金者」",
+            "「預金を預け入れる」と「口座振込（振替）を依頼する」",
+            "「預金を引き出す」と「通帳を記入する」"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "Which is the correct combination of use cases that include \"Enter PIN\"?",
+        "choice": [
+            "\"Withdraw Money\" and \"Request Account Transfer (Remittance)\"",
+            "\"Remittance Requester\" and \"Depositor\"",
+            "\"Deposit Money\" and \"Request Account Transfer (Remittance)\"",
+            "\"Withdraw Money\" and \"Update Passbook\""
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "\"PIN 입력\"을 포함하는 올바른 사용 사례 조합은 무엇입니까?",
+        "choice": [
+            "\"현금 인출\"과 \"계좌 이체 요청(송금)\"",
+            "\"송금 요청자\"와 \"예금자\"",
+            "\"현금 입금\"과 \"계좌 이체 요청(송금)\"",
+            "\"현금 인출\"과 \"통장 업데이트\""
+        ],
+        "answer": "A"
+    }
+}

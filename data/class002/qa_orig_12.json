@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/070",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 4,
+    "characters": 103,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中の「部署」から見て、「社員」の正しい関連端名はどれですか？",
+        "choice": [
+            "所属部署",
+            "所属社員",
+            "部署名",
+            "氏名"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "Which of the following is the correct associated end name of \"Employee\" in terms of \"Department\" in the image?",
+        "choice": [
+            "Department",
+            "Employee",
+            "Department name",
+            "Name"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "이미지에서 \"부서\" 측면에서 \"직원\"의 올바른 연관된 종단 이름은 다음 중 어느 것인가?",
+        "choice": [
+            "부서",
+            "직원",
+            "부서명",
+            "이름"
+        ],
+        "answer": "B"
+    }
+}

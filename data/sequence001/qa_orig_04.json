@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/092",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 3,
+    "characters": 29,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれる実行指定の数はどれですか？",
+        "choice": [
+            "4",
+            "5",
+            "6",
+            "3"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "How many execution specifications are included in this image?",
+        "choice": [
+            "4",
+            "5",
+            "6",
+            "3"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "이 이미지에 포함된 실행 사양은 몇 개인가?",
+        "choice": [
+            "4",
+            "5",
+            "6",
+            "3"
+        ],
+        "answer": "B"
+    }
+}

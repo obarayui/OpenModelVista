@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/095",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 3,
+    "characters": 29,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "貸出申請が送信されたとき、アクティブなライフラインはどれですか？",
+        "choice": [
+            "ユーザー",
+            "検索",
+            "貸出結果",
+            "棚"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "Which lifeline is active when the Loan Request is sent?",
+        "choice": [
+            "User",
+            "Search",
+            "Loan Result",
+            "Shelf"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "대출 요청이 전송될 때 활성화된 생명선은 무엇입니까?",
+        "choice": [
+            "이용자",
+            "검색",
+            "대출 결과",
+            "서가"
+        ],
+        "answer": "A"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/352",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 3,
+    "characters": 239,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "「books（蔵書）」エンティティのアトリビュートとして、正しいのはどれですか？",
+        "choice": [
+            "isbn（ISBN）",
+            "returned_at（返却日時）",
+            "name（名前）",
+            "lendings（貸出状況）"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "Which of the following is the correct attribute for the \"books\" entity?",
+        "choice": [
+            "isbn (ISBN)",
+            "returned_at (date and time of return)",
+            "name (name)",
+            "lendings (lending status)"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "books 엔티티의 올바른 속성은 무엇입니까?",
+        "choice": [
+            "isbn (ISBN)",
+            "returned_at (반납 날짜 및 시간)",
+            "name (이름)",
+            "lendings (대출 상태)"
+        ],
+        "answer": "A"
+    }
+}

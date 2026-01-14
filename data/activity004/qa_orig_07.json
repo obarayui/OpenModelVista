@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/398",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 14,
+    "characters": 106,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "開始の状態はどれですか？",
+        "choice": [
+            "ホテルのネット予約",
+            "空室情報を回答",
+            "オペレーター",
+            "ホテル予約の電話"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which is the starting state?",
+        "choice": [
+            "Booking a hotel online",
+            "Answering availability information",
+            "Operator",
+            "Calling for hotel reservation"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "시작 상태는 어느 것인가?",
+        "choice": [
+            "온라인 호텔 예약",
+            "객실 현황 안내",
+            "운영자",
+            "호텔 예약 전화 접수"
+        ],
+        "answer": "D"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/183",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 11,
+    "characters": 62,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれるデシジョンノードの数はどれですか？",
+        "choice": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "How many decision nodes are included in the image?",
+        "choice": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "이미지에 포함된 결정 노드는 몇 개인가요?",
+        "choice": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": "A"
+    }
+}

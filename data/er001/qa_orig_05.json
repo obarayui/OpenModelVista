@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/353",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 3,
+    "characters": 239,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "「books（蔵書）」エンティティに含まれる情報として適切でないものはどれですか？",
+        "choice": [
+            "書名",
+            "メールアドレス",
+            "著者",
+            "価格"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "Which of the following is NOT appropriate information to be included in the \"books\" entity?",
+        "choice": [
+            "Title",
+            "Email address",
+            "Author",
+            "Price"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "books 엔티티에 포함되어서는 안 되는 정보는 무엇입니까?",
+        "choice": [
+            "제목",
+            "이메일 주소",
+            "저자",
+            "가격"
+        ],
+        "answer": "B"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/037",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 4,
+    "characters": 52,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "「鈴木さん」オブジェクトのクラス名は何ですか？",
+        "choice": [
+            "管理者",
+            "部署",
+            "山田さん",
+            "社員"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "What is the class name of the \"Mr. Suzuki\" object?",
+        "choice": [
+            "administrator",
+            "department",
+            "Mr. Yamada",
+            "employee"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "\"Mr. Suzuki\" 객체의 클래스 이름은 무엇입니까?",
+        "choice": [
+            "관리자",
+            "부서",
+            "야마다 씨",
+            "직원"
+        ],
+        "answer": "D"
+    }
+}

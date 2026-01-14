@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/134",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 7,
+    "characters": 163,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "「列車種別を伝える」の次に送信されるメッセージ名は何ですか？",
+        "choice": [
+            "遮断時間を伝える",
+            "警報を鳴らす",
+            "列車判別装置",
+            "遮断機を下ろす"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "What is the next message sent after \"Transmit Train Type\"?",
+        "choice": [
+            "Transmit Closure Time",
+            "Activate Alarm",
+            "Train Identification Device",
+            "Lower the Railway Crossing Gate"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "열차 유형 전송 이후에 전송되는 다음 메시지는 무엇입니까?",
+        "choice": [
+            "폐쇄 시간 전송",
+            "경보 활성화",
+            "열차 식별 장치",
+            "건널목 차단기 내림"
+        ],
+        "answer": "A"
+    }
+}

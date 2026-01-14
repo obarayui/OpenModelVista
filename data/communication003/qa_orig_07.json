@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/141",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 14,
+    "characters": 286,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "「：走行」ライフラインから「左モータ：モータ」ライフラインに送信されるメッセージは何ですか？",
+        "choice": [
+            "電圧を測定する",
+            "回転角度を測定する",
+            "終了する",
+            "回転する"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which message is sent from the \": Driving\" lifeline to the \"Left Motor: Motor\" lifeline?",
+        "choice": [
+            "Measure voltage",
+            "Measure rotation angle",
+            "End",
+            "Rotate"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": ": Driving 생명선에서 \"Left Motor: Motor\" 생명선으로 어떤 메시지가 전송됩니까?",
+        "choice": [
+            "전압 측정",
+            "회전각 측정",
+            "종료",
+            "회전"
+        ],
+        "answer": "D"
+    }
+}

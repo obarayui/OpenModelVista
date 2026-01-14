@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/136",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 14,
+    "characters": 286,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれるコネクタの数はどれですか？",
+        "choice": [
+            "10",
+            "16",
+            "8",
+            "20"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "How many connectors are included in this image?",
+        "choice": [
+            "10",
+            "16",
+            "8",
+            "20"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "이 이미지에는 몇 개의 커넥터가 포함되어 있나요?",
+        "choice": [
+            "10",
+            "16",
+            "8",
+            "20"
+        ],
+        "answer": "B"
+    }
+}

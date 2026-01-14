@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/045",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 8,
+    "characters": 288,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれるオブジェクトの数はどれですか？",
+        "choice": [
+            "10",
+            "14",
+            "8",
+            "6"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "How many objects are included in the image?",
+        "choice": [
+            "10",
+            "14",
+            "8",
+            "6"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "이미지에 몇 개의 물체가 포함되어 있나요?",
+        "choice": [
+            "10",
+            "14",
+            "8",
+            "6"
+        ],
+        "answer": "C"
+    }
+}

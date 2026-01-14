@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/404",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 11,
+    "characters": 116,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "Amazon CloudFrontの次に遷移するAWSサービスはどれですか？",
+        "choice": [
+            "Amazon CloudFront",
+            "Amazon RDS",
+            "Amazon Route 53",
+            "Amazon S3"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which AWS service transitions after Amazon CloudFront?",
+        "choice": [
+            "Amazon CloudFront",
+            "Amazon RDS",
+            "Amazon Route 53",
+            "Amazon S3"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "Amazon CloudFront 이후로 전환되는 AWS 서비스는 무엇입니까?",
+        "choice": [
+            "Amazon CloudFront",
+            "Amazon RDS",
+            "Amazon Route 53",
+            "Amazon S3"
+        ],
+        "answer": "D"
+    }
+}

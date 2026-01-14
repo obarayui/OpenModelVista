@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/105",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 7,
+    "characters": 73,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "入金依頼が送信されたとき、アクティブ中のライフラインはどれですか？",
+        "choice": [
+            "普通預金インタフェース",
+            "普通預金口座",
+            "個人顧客アクター",
+            "個人顧客"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "Which lifeline is active when the Deposit Request is sent?",
+        "choice": [
+            "Savings Deposit Interface",
+            "Savings Account",
+            "Individual Customer Actor",
+            "Individual Customer"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "예금 요청이 전송될 때 활성화된 생명선은 어느 것인가?",
+        "choice": [
+            "예금 인터페이스",
+            "예금 계좌",
+            "개인 고객 행위자",
+            "개인 고객"
+        ],
+        "answer": "A"
+    }
+}

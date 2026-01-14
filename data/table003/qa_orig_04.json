@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/326",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 1,
+    "characters": 122,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "表に含まれている行の名前として正しいのはどれですか？",
+        "choice": [
+            "食べたことない",
+            "大好物",
+            "大嫌い",
+            "とても好き"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which of the following is the correct name of the rows included in the table?",
+        "choice": [
+            "I have never eaten it",
+            "I love it",
+            "I hate it",
+            "I like it very much"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "다음 중 테이블에 포함된 행의 올바른 이름은 무엇입니까?",
+        "choice": [
+            "한 번도 먹어본 적 없음",
+            "매우 좋아함",
+            "매우 싫어함",
+            "매우 좋아함"
+        ],
+        "answer": "D"
+    }
+}

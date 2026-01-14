@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/054",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 3,
+    "characters": 61,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれるクラス名として正しいものはどれですか？",
+        "choice": [
+            "授業料を計算する",
+            "州内学生",
+            "学生数",
+            "社員"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "Which of the following is the correct name of the class included in the image?",
+        "choice": [
+            "calculate tuition",
+            "in-state students",
+            "number of students",
+            "employees"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "이미지에 포함된 클래스의 올바른 이름은 다음 중 어느 것입니까?",
+        "choice": [
+            "등록금 계산",
+            "주내 학생",
+            "학생 수",
+            "직원 수"
+        ],
+        "answer": "B"
+    }
+}

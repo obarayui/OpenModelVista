@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/185",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 11,
+    "characters": 62,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれるオブジェクトノードの数はどれですか？",
+        "choice": [
+            "3",
+            "2",
+            "4",
+            "5"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "How many object nodes are included in the image?",
+        "choice": [
+            "3",
+            "2",
+            "4",
+            "5"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "이미지에 포함된 객체 노드는 몇 개인가?",
+        "choice": [
+            "3",
+            "2",
+            "4",
+            "5"
+        ],
+        "answer": "B"
+    }
+}

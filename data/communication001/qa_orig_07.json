@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/125",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 3,
+    "characters": 40,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "「会員登録画面」ライフラインから「ユーザー」ライフラインに送信されるメッセージは何ですか？",
+        "choice": [
+            "登録結果表示",
+            "登録結果",
+            "情報登録",
+            "情報入力"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "Which message is sent from the 'Member Registration Screen' lifeline to the 'User' lifeline?",
+        "choice": [
+            "Display Registration Result",
+            "Registration Result",
+            "Register Information",
+            "Enter Information"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "회원 가입 화면' 생명선에서 '사용자' 생명선으로 어떤 메시지가 전송됩니까?",
+        "choice": [
+            "등록 결과 표시",
+            "등록 결과",
+            "등록 정보",
+            "정보 입력"
+        ],
+        "answer": "A"
+    }
+}

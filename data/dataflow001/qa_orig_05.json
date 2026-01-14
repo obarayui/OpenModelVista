@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/365",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 7,
+    "characters": 51,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれるプロセス名として正しいものはどれですか？",
+        "choice": [
+            "顧客",
+            "在庫確認",
+            "注文受付",
+            "受注情報"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which of the following is the correct process name included in the image?",
+        "choice": [
+            "customer",
+            "inventory check",
+            "order receipt",
+            "order information"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "이미지에 포함된 올바른 프로세스 이름은 다음 중 어느 것인가?",
+        "choice": [
+            "고객",
+            "재고 확인",
+            "주문 접수",
+            "주문 정보"
+        ],
+        "answer": "C"
+    }
+}

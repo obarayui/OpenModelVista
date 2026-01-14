@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/154",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 5,
+    "characters": 190,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "保温中の状態で行われるexitアクションはどれですか？",
+        "choice": [
+            "湯沸しランプを点灯する",
+            "保温する",
+            "湯沸し中",
+            "保温ランプを点灯する"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which EXIT action is performed while keeping water warm?",
+        "choice": [
+            "Turn on the water heating lamp",
+            "Keep warm",
+            "During water heating",
+            "Keep warm lamp"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "물을 따뜻하게 유지하는 동안 수행되는 종료(EXIT) 동작은 무엇인가요?",
+        "choice": [
+            "물 가열등 켜기",
+            "보온",
+            "물 가열 중",
+            "보온등"
+        ],
+        "answer": "D"
+    }
+}

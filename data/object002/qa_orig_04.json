@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/043",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 7,
+    "characters": 298,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "「テスト」オブジェクトのクラス名はどれですか？",
+        "choice": [
+            "作業",
+            "要件確認",
+            "作業成果物",
+            "説明"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "Which is the class name of the \"test\" object?",
+        "choice": [
+            "work",
+            "requirement check",
+            "work product",
+            "description"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "\"test\" 객체의 클래스 이름은 무엇입니까?",
+        "choice": [
+            "작업",
+            "요구사항 검증",
+            "작업 산출물",
+            "설명"
+        ],
+        "answer": "A"
+    }
+}

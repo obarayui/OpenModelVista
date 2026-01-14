@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/190",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 11,
+    "characters": 62,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "開始ノードの直後のアクションはどれですか？",
+        "choice": [
+            "紙幣",
+            "100円硬貨を出す",
+            "投入金の種類を判別する",
+            "1,000円紙幣を出す"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which action immediately follows the start node?",
+        "choice": [
+            "A banknote",
+            "A 100-yen coin is issued",
+            "The type of money input is determined",
+            "A 1,000-yen banknote is issued"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "시작 노드에 바로 이어지는 액션은 무엇인가?",
+        "choice": [
+            "지폐",
+            "100엔 동전 지급",
+            "입력된 화폐 종류 판별",
+            "1,000엔 지폐 지급"
+        ],
+        "answer": "C"
+    }
+}

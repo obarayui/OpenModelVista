@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/268",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 11,
+    "characters": 134,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中に含まれる提供インターフェースとして正しいものはどれですか？",
+        "choice": [
+            "外部通信受付",
+            "受信",
+            "ATM",
+            "送信"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which of the following is the correct provided interface included in the image?",
+        "choice": [
+            "External communication reception",
+            "Reception",
+            "ATM",
+            "Transmission"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "다음 중 이미지에 포함된 올바른 제공 인터페이스는 무엇입니까?",
+        "choice": [
+            "외부 통신 수신",
+            "수신",
+            "ATM",
+            "전송"
+        ],
+        "answer": "D"
+    }
+}

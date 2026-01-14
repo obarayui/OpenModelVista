@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/376",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 1,
+    "characters": 99,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "表に含まれている操作後の状態として正しい値はどれですか？",
+        "choice": [
+            "申請中",
+            "削除待ち",
+            "承認待ち",
+            "新規作成"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which of the following is the correct value for the post-operation state included in the table?",
+        "choice": [
+            "Applying",
+            "Waiting for deletion",
+            "Waiting for approval",
+            "New"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "다음 중 테이블에 포함된 작업 후 상태의 올바른 값은 무엇입니까?",
+        "choice": [
+            "신청 중",
+            "삭제 대기 중",
+            "승인 대기 중",
+            "새로 생성됨"
+        ],
+        "answer": "C"
+    }
+}

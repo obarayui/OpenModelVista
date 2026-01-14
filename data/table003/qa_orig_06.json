@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/328",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 1,
+    "characters": 122,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "和菓子がとても好きで抹茶が嫌いな人数は何人ですか？",
+        "choice": [
+            "20",
+            "7",
+            "45",
+            "2"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "How many of you like Japanese sweets very much and dislike matcha?",
+        "choice": [
+            "20",
+            "7",
+            "45",
+            "2"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "일본 과자를 매우 좋아하고 말차를 싫어하는 사람은 몇 명입니까?",
+        "choice": [
+            "20",
+            "7",
+            "45",
+            "2"
+        ],
+        "answer": "D"
+    }
+}

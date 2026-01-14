@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/472",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": -1,
+    "characters": -1,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "3月26日に新幹線を利用します。区間の基本料金が5,000円だとして、グリーン車を利用した際の基本運賃として正しいのはどれですか？",
+        "choice": [
+            "8,750円",
+            "5,000円",
+            "9,000円",
+            "8,500円"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "I will take the Shinkansen on March 26. If the basic fare for the section is 5,000 yen, which is the correct basic fare when using the Green Car?",
+        "choice": [
+            "8,750 yen",
+            "5,000 yen",
+            "9,000 yen",
+            "8,500 yen"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "3월 26일에 신칸센을 이용할 예정입니다. 해당 구간의 기본 운임이 5,000엔일 때, 그린카 이용 시의 정확한 기본 운임은 무엇입니까?",
+        "choice": [
+            "8,750엔",
+            "5,000엔",
+            "9,000엔",
+            "8,500엔"
+        ],
+        "answer": "A"
+    }
+}

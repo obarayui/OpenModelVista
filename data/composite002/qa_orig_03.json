@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/264",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 11,
+    "characters": 134,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "プロパティの数として正しいものはどれですか？",
+        "choice": [
+            "0",
+            "6",
+            "1",
+            "7"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which is the correct number of properties?",
+        "choice": [
+            "0",
+            "6",
+            "1",
+            "7"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "속성의 올바른 개수는 무엇입니까?",
+        "choice": [
+            "0",
+            "6",
+            "1",
+            "7"
+        ],
+        "answer": "C"
+    }
+}

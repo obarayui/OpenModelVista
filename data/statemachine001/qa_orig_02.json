@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/144",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 3,
+    "characters": 19,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれる外部遷移の数はどれですか？",
+        "choice": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "How many external transitions are included in the image?",
+        "choice": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "이미지에 포함된 외부 전이는 몇 개인가?",
+        "choice": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "answer": "B"
+    }
+}

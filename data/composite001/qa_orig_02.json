@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/256",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 8,
+    "characters": 32,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "パートの数として正しいものはどれですか？",
+        "choice": [
+            "3",
+            "1",
+            "4",
+            "2"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which is the correct number of parts?",
+        "choice": [
+            "3",
+            "1",
+            "4",
+            "2"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "부품의 올바른 개수는 무엇입니까?",
+        "choice": [
+            "3",
+            "1",
+            "4",
+            "2"
+        ],
+        "answer": "C"
+    }
+}

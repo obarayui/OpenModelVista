@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/358",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 7,
+    "characters": 82,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "「受注」エンティティのアトリビュートとして、正しいのはどれですか？",
+        "choice": [
+            "支店コード",
+            "受注日",
+            "担当者",
+            "受注ID"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "Which of the following is the correct attribute for the \"Order\" entity?",
+        "choice": [
+            "Branch code",
+            "Order date",
+            "Contact person",
+            "Order ID"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "다음 중 \"Order\" 엔티티의 올바른 속성은 무엇입니까?",
+        "choice": [
+            "지점 코드",
+            "주문 날짜",
+            "담당자",
+            "주문 ID"
+        ],
+        "answer": "B"
+    }
+}

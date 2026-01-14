@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/115",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 5,
+    "characters": 172,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "破棄されるライフラインはどれですか？",
+        "choice": [
+            "：ログイン画面",
+            "：ログイン処理",
+            "認証エラー画面へ遷移する",
+            "Aさん：アクター"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "Which lifeline is destroyed?",
+        "choice": [
+            ": Login Screen",
+            ": Login Process",
+            "Transition to Authentication Error Screen",
+            "A: Actor"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "어떤 생명선이 소멸되는가?",
+        "choice": [
+            ": 로그인 화면",
+            ": 로그인 프로세스",
+            "인증 오류 화면으로 전환",
+            "A: 액터"
+        ],
+        "answer": "A"
+    }
+}

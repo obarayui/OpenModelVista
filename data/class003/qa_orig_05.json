@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/079",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 10,
+    "characters": 225,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれるクラス名として正しいものはどれですか？",
+        "choice": [
+            "人物",
+            "図書タイトル番号",
+            "社員",
+            "貸出し実施"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "Which of the following is the correct class name for the image?",
+        "choice": [
+            "Person",
+            "Book title number",
+            "Employee",
+            "Lending enforcement"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "다음 중 이미지의 올바른 클래스 이름은 무엇인가?",
+        "choice": [
+            "Person",
+            "Book title number",
+            "Employee",
+            "Lending enforcement"
+        ],
+        "answer": "A"
+    }
+}

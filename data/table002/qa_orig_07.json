@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/322",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 1,
+    "characters": 104,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "バナナの単価(税抜)はいくらですか？",
+        "choice": [
+            "720円",
+            "120円",
+            "6",
+            "100円"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "What is the unit price of bananas (excluding tax)?",
+        "choice": [
+            "720 yen",
+            "120 yen",
+            "6",
+            "100 yen"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "바나나의 단가(세금 제외)는 얼마입니까?",
+        "choice": [
+            "720엔",
+            "120엔",
+            "6",
+            "100엔"
+        ],
+        "answer": "B"
+    }
+}

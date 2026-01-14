@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/283",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 4,
+    "characters": 64,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中のメッセージの数として正しいものはどれですか？",
+        "choice": [
+            "6",
+            "4",
+            "1",
+            "2"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which is the correct number of messages in the image?",
+        "choice": [
+            "6",
+            "4",
+            "1",
+            "2"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "이미지에 포함된 메시지의 올바른 개수는 무엇입니까?",
+        "choice": [
+            "6",
+            "4",
+            "1",
+            "2"
+        ],
+        "answer": "D"
+    }
+}

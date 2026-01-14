@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/030",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 12,
+    "characters": 78,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "この図に含まれる正しいアクターはどれですか？",
+        "choice": [
+            "開発者",
+            "配達員",
+            "注文を配達する",
+            "システム管理者"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "Which of the following is a correct actor included in this image?",
+        "choice": [
+            "Developer",
+            "Delivery Person",
+            "Deliver Order",
+            "System Administrator"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "이 이미지에 포함된 올바른 액터는 다음 중 어느 것인가?",
+        "choice": [
+            "개발자",
+            "배달원",
+            "주문 배송",
+            "시스템 관리자"
+        ],
+        "answer": "B"
+    }
+}

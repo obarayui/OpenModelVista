@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/275",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 2,
+    "characters": 37,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中に含まれる状態の数として正しいものはどれですか？",
+        "choice": [
+            "6",
+            "1",
+            "4",
+            "3"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which of the following is the correct number of states in the image?",
+        "choice": [
+            "6",
+            "1",
+            "4",
+            "3"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "이미지에 표시된 상태의 올바른 개수는 무엇입니까?",
+        "choice": [
+            "6",
+            "1",
+            "4",
+            "3"
+        ],
+        "answer": "D"
+    }
+}

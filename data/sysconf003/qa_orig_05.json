@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/430",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": -1,
+    "characters": -1,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "クライアントは何を使用してこのサービスを使用しますか？",
+        "choice": [
+            "PC",
+            "スマートウォッチ",
+            "タブレット",
+            "スマートフォン"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "What will the client use this service with?",
+        "choice": [
+            "PC",
+            "Smartwatch",
+            "Tablet",
+            "Smartphone"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "클라이언트는 이 서비스를 무엇과 함께 사용할 것입니까?",
+        "choice": [
+            "PC",
+            "스마트워치",
+            "태블릿",
+            "스마트폰"
+        ],
+        "answer": "A"
+    }
+}

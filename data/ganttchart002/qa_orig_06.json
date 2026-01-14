@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/391",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 1,
+    "characters": 365,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "プロジェクトで最も遅い終了日が設定されているタスクはどれですか？",
+        "choice": [
+            "結果の文書化",
+            "構成テスト",
+            "性能テスト",
+            "結果の文書化"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "Which of the following tasks has the slowest end date in the project?",
+        "choice": [
+            "documentation of results",
+            "configuration testing",
+            "performance testing",
+            "documentation of results"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "프로젝트에서 종료일이 가장 늦은 작업은 다음 중 어느 것인가?",
+        "choice": [
+            "결과 문서화",
+            "구성 테스트",
+            "성능 테스트",
+            "결과 문서화"
+        ],
+        "answer": "A"
+    }
+}

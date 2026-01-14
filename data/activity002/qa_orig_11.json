@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/178",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 18,
+    "characters": 134,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "「請求を承認する」アクションの直後のアクションはどれですか？",
+        "choice": [
+            "発送する",
+            "請求を拒否する",
+            "集荷を要求する",
+            "決済を済ませる"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which action immediately follows the \"accept billing\" action?",
+        "choice": [
+            "Ship",
+            "Reject the bill",
+            "Request pickup",
+            "Complete payment"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "결제 수락 작업 다음에 바로 수행되는 작업은 무엇입니까?",
+        "choice": [
+            "배송",
+            "청구서 거부",
+            "픽업 요청",
+            "결제 완료"
+        ],
+        "answer": "C"
+    }
+}

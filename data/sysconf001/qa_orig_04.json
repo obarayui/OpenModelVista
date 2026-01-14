@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/415",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": -1,
+    "characters": -1,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "この図に含まれるコンポーネントとして正しいのはどれですか？",
+        "choice": [
+            "スマートフォン",
+            "ファイアウォール",
+            "お客様端末",
+            "プリンタ"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which of the following is the correct component included in this diagram?",
+        "choice": [
+            "Smartphone",
+            "Firewall",
+            "Customer terminal",
+            "Printer"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "다음 중 이 다이어그램에 포함된 올바른 구성 요소는 무엇인가요?",
+        "choice": [
+            "스마트폰",
+            "방화벽",
+            "고객 단말기",
+            "프린터"
+        ],
+        "answer": "C"
+    }
+}

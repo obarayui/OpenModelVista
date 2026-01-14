@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/441",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": -1,
+    "characters": -1,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれる矢印の数はいくつですか？",
+        "choice": [
+            "10",
+            "3",
+            "5",
+            "16"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "How many arrows are included in the image?",
+        "choice": [
+            "10",
+            "3",
+            "5",
+            "16"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "이미지에 포함된 화살표 수는 몇 개인가요?",
+        "choice": [
+            "10",
+            "3",
+            "5",
+            "16"
+        ],
+        "answer": "A"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/270",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 6,
+    "characters": 58,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "コラボレーションの数として正しいものはどれですか？",
+        "choice": [
+            "1",
+            "3",
+            "2",
+            "0"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "Which is the correct number of collaborations?",
+        "choice": [
+            "1",
+            "3",
+            "2",
+            "0"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "어느 것이 협업의 올바른 개수인가?",
+        "choice": [
+            "1",
+            "3",
+            "2",
+            "0"
+        ],
+        "answer": "A"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/464",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": -1,
+    "characters": -1,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "表に含まれている正しい列名はどれですか？",
+        "choice": [
+            "完了時間",
+            "ログアウトする",
+            "処理待ち時間",
+            "レスポンスタイム"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which of the following is the correct column name included in the table?",
+        "choice": [
+            "completion time",
+            "logout",
+            "processing wait time",
+            "response time"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "다음 중 테이블에 포함된 올바른 열 이름은 무엇입니까?",
+        "choice": [
+            "완료 시간",
+            "로그아웃",
+            "처리 대기 시간",
+            "응답 시간"
+        ],
+        "answer": "D"
+    }
+}

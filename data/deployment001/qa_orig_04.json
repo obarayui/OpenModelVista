@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/234",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 5,
+    "characters": 37,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "この図に含まれる正しいノード名は何ですか？",
+        "choice": [
+            "クラウドストレージ",
+            "中央サーバ",
+            "データベース",
+            "ローカルサーバ"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "What is the correct node name included in this diagram?",
+        "choice": [
+            "cloud storage",
+            "central server",
+            "database",
+            "local server"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "이 다이어그램에 포함된 올바른 노드 이름은 무엇입니까?",
+        "choice": [
+            "클라우드 스토리지",
+            "중앙 서버",
+            "데이터베이스",
+            "로컬 서버"
+        ],
+        "answer": "B"
+    }
+}

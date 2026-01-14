@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/188",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 11,
+    "characters": 62,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像内にあるアクション名として正しいのはどれですか？",
+        "choice": [
+            "硬貨",
+            "100円両替機",
+            "1,000円紙幣または500円硬貨",
+            "投入金を戻す"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which of the following is the correct name of the action in the image?",
+        "choice": [
+            "coin",
+            "100-yen money changer",
+            "1,000-yen bill or 500-yen coin",
+            "return the input money"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "이미지에서 표시된 액션의 올바른 명칭은 다음 중 어느 것인가?",
+        "choice": [
+            "동전",
+            "100엔 동전 교환기",
+            "1,000엔 지폐 또는 500엔 동전",
+            "입력한 돈을 반환함"
+        ],
+        "answer": "D"
+    }
+}

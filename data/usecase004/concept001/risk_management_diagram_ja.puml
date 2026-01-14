@@ -1,0 +1,25 @@
+@startuml リスクマネジメント概念図
+
+' 要素定義
+object "所有者\n(owners)" as 所有者
+object "対策\n(countermeasures)" as 対策
+object "リスク\n(risk)" as リスク
+object "攻撃者\n(threat agents)" as 攻撃者
+object "脅威\n(threat)" as 脅威
+object "資産\n(assets)" as 資産
+
+' 関係定義
+所有者 --> 対策 : 講じる
+対策 --> リスク : 減らす
+リスク --> 資産 : なくなれ!!
+攻撃者 --> 脅威 : 上昇
+脅威 --> リスク : 増やす
+脅威 --> 資産 : to\n被害を与える
+リスク --> 資産 : to
+所有者 ..> 資産 : 価値
+
+note right of 資産
+  所有者が価値を見出す
+end note
+
+@enduml

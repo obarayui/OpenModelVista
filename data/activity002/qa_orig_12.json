@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/179",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 18,
+    "characters": 134,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "「決済を済ませる」の後に注文金額が利用限度額以上の場合の次の処理はどれですか？",
+        "choice": [
+            "集荷を要求する",
+            "注文内容を見直す",
+            "請求を拒否する",
+            "請求を承認する"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which of the following processes is used when the order amount is over the credit limit after \"Complete Payment?\"",
+        "choice": [
+            "Request a pickup",
+            "Review the order",
+            "Deny the charge",
+            "Approve the charge"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "결제 완료 후 주문 금액이 신용 한도를 초과할 때 사용되는 프로세스는 다음 중 어느 것입니까?",
+        "choice": [
+            "픽업 요청",
+            "주문 검토",
+            "요금 거부",
+            "요금 승인"
+        ],
+        "answer": "C"
+    }
+}

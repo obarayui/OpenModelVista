@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/116",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 5,
+    "characters": 172,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "「認証結果=認証する(パスワード)」が送信されたとき、アクティブが開始するライフラインはどれですか？",
+        "choice": [
+            "：ログイン画面",
+            "：会員リスト",
+            "：ログイン処理",
+            "Aさんの会員情報：会員情報"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which lifeline becomes active when \"Authentication Result = Authenticate (Password)\" is sent?",
+        "choice": [
+            ": Login Screen",
+            ": Member List",
+            ": Login Process",
+            "A's Member Information: Member Information"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "\"인증 결과 = 인증(비밀번호)\"이 전송될 때 활성화되는 생명선은 무엇입니까?",
+        "choice": [
+            ": 로그인 화면",
+            ": 회원 목록",
+            ": 로그인 프로세스",
+            "A의 회원 정보: 회원 정보"
+        ],
+        "answer": "D"
+    }
+}

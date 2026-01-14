@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/103",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 7,
+    "characters": 73,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれるライフライン名として正しいのはどれですか？",
+        "choice": [
+            "ユーザー",
+            "普通預金登録",
+            "他店券明細",
+            "入金履歴"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which of the following is the correct lifeline name included in the image?",
+        "choice": [
+            "User",
+            "Savings Account Registration",
+            "Inter-Branch Transaction Details",
+            "Deposit History"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "이미지에 포함된 올바른 생명선 이름은 다음 중 어느 것인가?",
+        "choice": [
+            "사용자",
+            "예금 계좌 등록",
+            "지점 간 거래 내역",
+            "예금 내역"
+        ],
+        "answer": "C"
+    }
+}

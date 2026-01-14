@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/280",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 2,
+    "characters": 37,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中で待機中から認証中に状態が切り替わる際に発生するイベントはどれですか？",
+        "choice": [
+            "認証開始",
+            "認証完了",
+            "認証中",
+            "取引開始"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which event occurs when the status switches from waiting to authenticating in the image?",
+        "choice": [
+            "Authentication started",
+            "Authentication completed",
+            "Authentication in progress",
+            "Transaction started"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "이미지에서 상태가 대기에서 인증 중으로 전환될 때 발생하는 이벤트는 무엇입니까?",
+        "choice": [
+            "인증 시작",
+            "인증 완료",
+            "인증 진행 중",
+            "거래 시작"
+        ],
+        "answer": "D"
+    }
+}

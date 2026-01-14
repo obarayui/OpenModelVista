@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/279",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 2,
+    "characters": 37,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中で使用中の次になる状態はどれですか？",
+        "choice": [
+            "取引終了",
+            "待機中",
+            "認証中",
+            "使用完了"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "Which of the following states is next to in-use in the image?",
+        "choice": [
+            "Transaction completed",
+            "Waiting",
+            "Authentication in progress",
+            "Use completed"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "이미지에서 사용 중인 상태 다음에 오는 상태는 무엇입니까?",
+        "choice": [
+            "거래 완료",
+            "대기 중",
+            "인증 진행 중",
+            "사용 완료"
+        ],
+        "answer": "B"
+    }
+}

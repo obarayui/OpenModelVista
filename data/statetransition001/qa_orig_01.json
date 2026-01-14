@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/371",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 1,
+    "characters": 99,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中の表で操作者内容の行を除いた行数として正しいものはどれですか？",
+        "choice": [
+            "6",
+            "3",
+            "10",
+            "7"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "Which of the following is the correct number of rows in the table in the image, excluding the rows for the operator content?",
+        "choice": [
+            "6",
+            "3",
+            "10",
+            "7"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "다음 중 이미지 내 테이블의 행 수(작업자 콘텐츠 행 제외)로 올바른 것은 무엇입니까?",
+        "choice": [
+            "6",
+            "3",
+            "10",
+            "7"
+        ],
+        "answer": "A"
+    }
+}

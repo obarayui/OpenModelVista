@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/337",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 2,
+    "characters": 167,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中のデータベースのうち「XXカフェ」が格納されている列名はどれですか？",
+        "choice": [
+            "ABCレストラン",
+            "納品先",
+            "1",
+            "店名"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "Which column name in the database in the image contains \"XX Cafe\"?",
+        "choice": [
+            "ABC Restaurant",
+            "Delivery address",
+            "1",
+            "Store name"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "이미지 내 데이터베이스의 어떤 열 이름에 \"XX Cafe\"가 포함되어 있나요?",
+        "choice": [
+            "ABC 레스토랑",
+            "배송지 주소",
+            "1",
+            "매장명"
+        ],
+        "answer": "B"
+    }
+}

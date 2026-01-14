@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/250",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 10,
+    "characters": 267,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "この図に含まれる正しいノード名は何ですか？",
+        "choice": [
+            "Enhanced AVR firmware",
+            "走行プログラム",
+            "メカニズム",
+            "サブプロセッサ Atmel AVR"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "What is the correct node name included in this diagram?",
+        "choice": [
+            "Enhanced AVR firmware",
+            "Running program",
+            "Mechanism",
+            "Subprocessor Atmel AVR"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "이 다이어그램에 포함된 올바른 노드 이름은 무엇입니까?",
+        "choice": [
+            "향상된 AVR 펌웨어",
+            "실행 프로그램",
+            "메커니즘",
+            "서브프로세서 Atmel AVR"
+        ],
+        "answer": "D"
+    }
+}

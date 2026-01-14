@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/148",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 7,
+    "characters": 193,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "開始状態の直後の状態はどれですか？",
+        "choice": [
+            "資質設定中",
+            "初期設定中",
+            "待機中",
+            "交戦中"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "Which of the following states immediately follows the start state?",
+        "choice": [
+            "Qualities are being set",
+            "Initialization is in progress",
+            "Waiting",
+            "Engaged"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "시작 상태 다음에 바로 이어지는 상태는 다음 중 어느 것인가요?",
+        "choice": [
+            "특성 설정 중",
+            "초기화 진행 중",
+            "대기",
+            "연결됨"
+        ],
+        "answer": "B"
+    }
+}

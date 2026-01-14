@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/239",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 8,
+    "characters": 117,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "成果物の数として正しいものはどれですか？",
+        "choice": [
+            "4",
+            "3",
+            "2",
+            "5"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "Which is the correct number of deliverables?",
+        "choice": [
+            "4",
+            "3",
+            "2",
+            "5"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "다음 중 올바른 산출물 수는 무엇입니까?",
+        "choice": [
+            "4",
+            "3",
+            "2",
+            "5"
+        ],
+        "answer": "A"
+    }
+}

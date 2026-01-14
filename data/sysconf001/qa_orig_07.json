@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/418",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": -1,
+    "characters": -1,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "AMMデータ管理センタとお客様端末の通信に関しての説明として正しいものはどれですか？",
+        "choice": [
+            "インターネットを利用せず、LANを使用している。",
+            "お客様端末のみ，インターネットに接続している．",
+            "インターネットを介してお客様端末と通信を行う。",
+            "インターネットを利用せず、直接接続する。"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which of the following is a correct description of the communication between the AMM data management center and the customer terminal?",
+        "choice": [
+            "LAN is used without using the Internet.",
+            "Only the customer terminal is connected to the Internet.",
+            "It communicates with the customer terminal via the Internet.",
+            "Direct connection without using the Internet."
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "다음 중 AMM 데이터 관리 센터와 고객 단말기 간의 통신을 올바르게 설명한 것은 무엇인가요?",
+        "choice": [
+            "인터넷을 사용하지 않고 LAN을 사용합니다.",
+            "고객 단말기만 인터넷에 연결됩니다.",
+            "인터넷을 통해 고객 단말기와 통신합니다.",
+            "인터넷을 사용하지 않는 직접 연결입니다."
+        ],
+        "answer": "C"
+    }
+}

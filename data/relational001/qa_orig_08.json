@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/336",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 2,
+    "characters": 167,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中の合計金額が1,060円の納品先はどれですか？",
+        "choice": [
+            "630",
+            "XXカフェ",
+            "カレー",
+            "ABCレストラン"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which delivery destination in the image has a total value of 1,060 yen?",
+        "choice": [
+            "630",
+            "XX Cafe",
+            "Curry",
+            "ABC Restaurant"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "이미지에서 총액 1,060엔인 배송지는 어디인가요?",
+        "choice": [
+            "630",
+            "XX 카페",
+            "카레",
+            "ABC 레스토랑"
+        ],
+        "answer": "D"
+    }
+}

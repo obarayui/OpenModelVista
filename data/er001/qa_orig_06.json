@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/354",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 3,
+    "characters": 239,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "ユーザーと貸出状況の関係として正しいものはどれですか？",
+        "choice": [
+            "1対多の関係",
+            "多対多の関係",
+            "無関係",
+            "1対1の関係"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "Which of the following is the correct relationship between user and lending status?",
+        "choice": [
+            "One-to-many relationship",
+            "Many-to-many relationship",
+            "No relationship",
+            "One-to-one relationship"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "사용자와 대출 상태 간의 올바른 관계는 무엇입니까?",
+        "choice": [
+            "일대다 관계",
+            "다대다 관계",
+            "관계 없음",
+            "일대일 관계"
+        ],
+        "answer": "A"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/249",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 10,
+    "characters": 267,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "コンポーネントの数として正しいものはどれですか？",
+        "choice": [
+            "1",
+            "4",
+            "3",
+            "2"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "Which is the correct number of components?",
+        "choice": [
+            "1",
+            "4",
+            "3",
+            "2"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "어떤 것이 올바른 구성 요소 수입니까?",
+        "choice": [
+            "1",
+            "4",
+            "3",
+            "2"
+        ],
+        "answer": "B"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/260",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 8,
+    "characters": 32,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中に含まれる提供インターフェースとして正しいものはどれですか？",
+        "choice": [
+            "送信",
+            "CPU",
+            "モニター",
+            "キーボード"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which of the following is the correct provided interface included in the image?",
+        "choice": [
+            "Transmission",
+            "CPU",
+            "Monitor",
+            "Keyboard"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "이미지에 포함된 올바른 제공 인터페이스는 다음 중 무엇입니까?",
+        "choice": [
+            "변속기",
+            "CPU",
+            "모니터",
+            "키보드"
+        ],
+        "answer": "C"
+    }
+}

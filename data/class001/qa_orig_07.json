@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/057",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 3,
+    "characters": 61,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "スーパークラスはどれですか？",
+        "choice": [
+            "会社",
+            "学生数",
+            "州内学生",
+            "学生"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which of the following is a super class?",
+        "choice": [
+            "company",
+            "number of students",
+            "in-state students",
+            "students"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "다음 중 슈퍼 클래스는 무엇입니까?",
+        "choice": [
+            "회사",
+            "학생 수",
+            "주내 학생",
+            "학생들"
+        ],
+        "answer": "D"
+    }
+}

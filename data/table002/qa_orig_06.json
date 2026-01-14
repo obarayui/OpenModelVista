@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/321",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 1,
+    "characters": 104,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "表に含まれている正しい行名はどれですか？",
+        "choice": [
+            "ジャガイモ",
+            "オレンジ",
+            "ダイコン",
+            "小計"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "Which of the following is the correct row name included in the table?",
+        "choice": [
+            "potato",
+            "orange",
+            "radish",
+            "subtotal"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "테이블에 포함된 올바른 행 이름은 다음 중 어느 것입니까?",
+        "choice": [
+            "감자",
+            "오렌지",
+            "무",
+            "소계"
+        ],
+        "answer": "A"
+    }
+}

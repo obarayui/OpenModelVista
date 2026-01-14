@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/201",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 4,
+    "characters": 21,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "db accessの依存元のパッケージはどれですか？",
+        "choice": [
+            "control",
+            "service",
+            "entity",
+            "ui"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "Which package depends on the \"db access\" package?",
+        "choice": [
+            "control",
+            "service",
+            "entity",
+            "ui"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "어떤 패키지가 \"db access\" 패키지에 의존하나요?",
+        "choice": [
+            "컨트롤",
+            "서비스",
+            "엔티티",
+            "UI"
+        ],
+        "answer": "A"
+    }
+}

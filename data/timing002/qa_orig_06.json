@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/286",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 4,
+    "characters": 64,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中で使用中の次になる状態はどれですか？",
+        "choice": [
+            "待機中",
+            "操作中",
+            "認証中",
+            "使用完了"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "Which of the following states is next in use in the image?",
+        "choice": [
+            "Waiting",
+            "In operation",
+            "Authenticating",
+            "Ready for use"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "이미지에서 사용 중인 상태 다음에 오는 상태는 다음 중 어느 것인가?",
+        "choice": [
+            "대기 중",
+            "작동 중",
+            "인증 중",
+            "사용 준비 완료"
+        ],
+        "answer": "A"
+    }
+}

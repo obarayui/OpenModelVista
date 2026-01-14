@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/157",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 5,
+    "characters": 190,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "湯沸しが完了するとどの状態になりますか？",
+        "choice": [
+            "湯沸し中",
+            "湯沸しランプを消灯する",
+            "保温中",
+            "待機中"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "What state does the water heating system enter when the water heating is completed?",
+        "choice": [
+            "Heating water",
+            "Water heating lamp off",
+            "Keeping water warm",
+            "Standby"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "물 가열이 완료되면 물 가열 시스템은 어떤 상태로 진입하나요?",
+        "choice": [
+            "물 가열 중",
+            "물 가열등 꺼짐",
+            "물 보온 중",
+            "대기 중"
+        ],
+        "answer": "C"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/377",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 1,
+    "characters": 99,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "承認待ち状態が発生する操作はどれですか？",
+        "choice": [
+            "申請",
+            "新規作成",
+            "作成中",
+            "削除"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "Which of the following operations will result in a status of waiting for approval?",
+        "choice": [
+            "Application",
+            "New",
+            "Creating",
+            "Deleting"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "다음 중 승인 대기 상태를 초래하는 작업은 무엇입니까?",
+        "choice": [
+            "신청",
+            "새로 생성됨",
+            "생성 중",
+            "삭제됨"
+        ],
+        "answer": "A"
+    }
+}

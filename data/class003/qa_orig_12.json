@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/086",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 10,
+    "characters": 225,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中で図書館と全体-部分の関係にあるのは、どれですか？",
+        "choice": [
+            "貸出予約",
+            "図書館員",
+            "図書貸出",
+            "人物"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "Which of the following is in a whole - part relationship with the library in the image?",
+        "choice": [
+            "loan reservation",
+            "librarian",
+            "book checkout",
+            "person"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "다음 중 그림 속 도서관과 전체-부분 관계를 이루는 것은 무엇인가?",
+        "choice": [
+            "대출 예약",
+            "사서",
+            "도서 대출",
+            "개인"
+        ],
+        "answer": "B"
+    }
+}

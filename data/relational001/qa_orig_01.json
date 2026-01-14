@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/329",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 2,
+    "characters": 167,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中のデータベースのテーブルの値が入っている行数の総数はどれですか？",
+        "choice": [
+            "2",
+            "11",
+            "7",
+            "5"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "What is the total number of rows containing the values of the database table in the image?",
+        "choice": [
+            "2",
+            "11",
+            "7",
+            "5"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "이미지 데이터베이스 테이블의 값을 포함하는 행의 총 개수는 무엇입니까?",
+        "choice": [
+            "2",
+            "11",
+            "7",
+            "5"
+        ],
+        "answer": "C"
+    }
+}

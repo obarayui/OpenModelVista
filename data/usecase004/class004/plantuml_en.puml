@@ -1,0 +1,26 @@
+@startuml
+interface Vehicle {
+  drive
+  stop
+  turn
+}
+
+class PassengerCar {
+  play music
+  charge()
+}
+
+class Bus {
+  announce
+  open door
+}
+
+class Truck {
+  load cargo
+  unload cargo
+}
+
+Vehicle <|.. PassengerCar
+Vehicle <|.. Bus
+Vehicle <|.. Truck
+@enduml

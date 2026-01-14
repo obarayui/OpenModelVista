@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/455",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": -1,
+    "characters": -1,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれるボタン名として正しいのはどれですか？",
+        "choice": [
+            "Help",
+            "Cancel",
+            "About",
+            "Contact"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which of the following is the correct button name included in this image?",
+        "choice": [
+            "Help",
+            "Cancel",
+            "About",
+            "Contact"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "이 이미지에 포함된 올바른 버튼 이름은 다음 중 어느 것입니까?",
+        "choice": [
+            "도움말",
+            "취소",
+            "정보",
+            "문의"
+        ],
+        "answer": "D"
+    }
+}

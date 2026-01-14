@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/273",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 6,
+    "characters": 58,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "1号機：ATMの依頼先はどれですか？",
+        "choice": [
+            "現金管理システム",
+            "はなまる銀行預金システム",
+            "振込業務システム",
+            "引出し業務システム"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "Unit 1: Which of the following is the ATM request system?",
+        "choice": [
+            "Cash Management System",
+            "Hanamaru Bank Deposit System",
+            "Transfer Service System",
+            "Withdrawal Service System"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "단원 1: 다음 중 ATM 요청 시스템은 무엇입니까?",
+        "choice": [
+            "현금 관리 시스템",
+            "하나마루 은행 예금 시스템",
+            "이체 서비스 시스템",
+            "인출 서비스 시스템"
+        ],
+        "answer": "B"
+    }
+}

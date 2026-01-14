@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/454",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": -1,
+    "characters": -1,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "「送信」ボタンはCONTACTページ画面のどこに表示されていますか？",
+        "choice": [
+            "右",
+            "中央",
+            "下",
+            "上"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Where is the \"Send\" button displayed on the CONTACT Page Screen?",
+        "choice": [
+            "Right",
+            "Center",
+            "Bottom",
+            "Top"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "연락처 페이지 화면에서 \"보내기\" 버튼은 어디에 표시됩니까?",
+        "choice": [
+            "오른쪽",
+            "중앙",
+            "아래",
+            "위"
+        ],
+        "answer": "C"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/402",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 11,
+    "characters": 116,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "Amazon EC2が関連づけられているAWSサービスはどれですか？",
+        "choice": [
+            "Amazon CloudWatch",
+            "Elastic Load Balancing",
+            "Amazon Route 53",
+            "Amazon S3"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "Which AWS service is associated with Amazon EC2?",
+        "choice": [
+            "Amazon CloudWatch",
+            "Elastic Load Balancing",
+            "Amazon Route 53",
+            "Amazon S3"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "Amazon EC2와 연관된 AWS 서비스는 무엇입니까?",
+        "choice": [
+            "아마존 클라우드워치",
+            "탄력적 부하 분산",
+            "아마존 루트 53",
+            "아마존 S3"
+        ],
+        "answer": "B"
+    }
+}

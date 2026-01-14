@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/290",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 3,
+    "characters": 71,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中に含まれる状態の総数として正しいものはどれですか？",
+        "choice": [
+            "5",
+            "7",
+            "4",
+            "6"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which is the correct total number of states included in the image?",
+        "choice": [
+            "5",
+            "7",
+            "4",
+            "6"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "이미지에 포함된 상태의 올바른 총 개수는 무엇입니까?",
+        "choice": [
+            "5",
+            "7",
+            "4",
+            "6"
+        ],
+        "answer": "C"
+    }
+}

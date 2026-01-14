@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/013",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 9,
+    "characters": 76,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれる拡張の数はどれですか？",
+        "choice": [
+            "0",
+            "2",
+            "1",
+            "3"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "How many extend relationships are included in this image?",
+        "choice": [
+            "0",
+            "2",
+            "1",
+            "3"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "이 그림에는 몇 개의 확장 관계가 포함되어 있습니까?",
+        "choice": [
+            "0",
+            "2",
+            "1",
+            "3"
+        ],
+        "answer": "A"
+    }
+}

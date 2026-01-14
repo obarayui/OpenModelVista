@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/295",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 3,
+    "characters": 71,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中の「一定時間操作なし」の一定時間とはどれくらいですか？",
+        "choice": [
+            "3分",
+            "60秒",
+            "2t秒",
+            "10秒"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "How long is the \"no operation for a certain period of time\" in the image?",
+        "choice": [
+            "3 minutes",
+            "60 seconds",
+            "2t seconds",
+            "10 seconds"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "이미지에서 \"일정 시간 동안 아무 작업도 수행하지 않음\"의 기간은 얼마나 됩니까?",
+        "choice": [
+            "3분",
+            "60초",
+            "2초",
+            "10초"
+        ],
+        "answer": "B"
+    }
+}

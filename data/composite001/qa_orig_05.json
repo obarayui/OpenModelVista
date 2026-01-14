@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/259",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 8,
+    "characters": 32,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "メモリとコネクトされているのはどれですか？",
+        "choice": [
+            "CPU",
+            "モニター",
+            "パソコン",
+            "マザーボード"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which of the following is connected to memory?",
+        "choice": [
+            "CPU",
+            "Monitor",
+            "PC",
+            "Motherboard"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "다음 중 메모리에 연결된 것은 무엇입니까?",
+        "choice": [
+            "CPU",
+            "모니터",
+            "PC",
+            "메인보드"
+        ],
+        "answer": "D"
+    }
+}

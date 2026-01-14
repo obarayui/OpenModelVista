@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/370",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 7,
+    "characters": 51,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "「出荷処理」プロセスに流れるデータフローとして正しいものはどれですか？",
+        "choice": [
+            "配送",
+            "商品注文",
+            "注文データ",
+            "在庫情報"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which of the following is the correct data flow for the \"Shipment Processing\" process?",
+        "choice": [
+            "Shipping",
+            "Product order",
+            "Order data",
+            "Inventory information"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "다음 중 \"배송 처리\" 프로세스의 올바른 데이터 흐름은 무엇입니까?",
+        "choice": [
+            "배송",
+            "제품 주문",
+            "주문 데이터",
+            "재고 정보"
+        ],
+        "answer": "C"
+    }
+}

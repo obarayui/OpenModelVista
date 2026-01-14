@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/341",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 3,
+    "characters": 624,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中のデータベースのテーブルの値が入っているセルの総数はどれですか？",
+        "choice": [
+            "77",
+            "15",
+            "42",
+            "57"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "What is the total number of cells in the image that contain values from the database table?",
+        "choice": [
+            "77",
+            "15",
+            "42",
+            "57"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "이미지 내 데이터베이스 테이블의 값을 포함하는 셀의 총 개수는 몇 개인가?",
+        "choice": [
+            "77",
+            "15",
+            "42",
+            "57"
+        ],
+        "answer": "A"
+    }
+}

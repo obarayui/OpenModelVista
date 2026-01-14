@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/039",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 4,
+    "characters": 52,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "「山田さん：社員」が意味的に繋がりのあるオブジェクトはどれですか？",
+        "choice": [
+            "渡辺さん：社員",
+            "つながっているオブジェクトはない",
+            "：部署",
+            "部署名"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which object is semantically connected to \"Mr. Yamada: Employee\"?",
+        "choice": [
+            "Mr. Watanabe: Employee",
+            "No object is connected",
+            ": Department",
+            "Department signature"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "\"Mr. Yamada: Employee\"와 의미적으로 연결된 객체는 무엇입니까?",
+        "choice": [
+            "와타나베 씨: 직원",
+            "연결된 객체 없음",
+            ": 부서",
+            "부서 서명"
+        ],
+        "answer": "C"
+    }
+}

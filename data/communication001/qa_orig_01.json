@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/119",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 3,
+    "characters": 40,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれるライフラインの数はどれですか？",
+        "choice": [
+            "3",
+            "6",
+            "5",
+            "4"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "How many lifelines are included in this image?",
+        "choice": [
+            "3",
+            "6",
+            "5",
+            "4"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "이 이미지에는 몇 개의 생명선이 포함되어 있습니까?",
+        "choice": [
+            "3",
+            "6",
+            "5",
+            "4"
+        ],
+        "answer": "A"
+    }
+}

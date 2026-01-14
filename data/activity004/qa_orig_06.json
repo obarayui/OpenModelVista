@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/397",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 14,
+    "characters": 106,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像内にあるプロセスとして正しいのはどれですか？",
+        "choice": [
+            "空室情報を回答",
+            "ホテル予約の電話",
+            "予約記録",
+            "空室を探す"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "Which of the following is the correct process in the image?",
+        "choice": [
+            "Answering availability information",
+            "Calling for hotel reservations",
+            "Recording reservations",
+            "Searching for available rooms"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "이미지에서 올바른 프로세스는 다음 중 어느 것인가?",
+        "choice": [
+            "객실 현황 안내",
+            "호텔 예약 전화",
+            "예약 기록",
+            "가용 객실 검색"
+        ],
+        "answer": "A"
+    }
+}

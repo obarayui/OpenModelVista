@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/238",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 8,
+    "characters": 117,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "ノードの数として正しいものはどれですか？",
+        "choice": [
+            "1",
+            "3",
+            "2",
+            "4"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which is the correct number of nodes?",
+        "choice": [
+            "1",
+            "3",
+            "2",
+            "4"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "다음 중 올바른 노드 수는 무엇입니까?",
+        "choice": [
+            "1",
+            "3",
+            "2",
+            "4"
+        ],
+        "answer": "D"
+    }
+}

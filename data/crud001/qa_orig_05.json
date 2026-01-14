@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/409",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 1,
+    "characters": 71,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "表に含まれている正しい列名はどれですか？",
+        "choice": [
+            "支払い処理",
+            "PCの送付",
+            "PC在庫",
+            "R"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "Which of the following is the correct column name included in the table?",
+        "choice": [
+            "payment processing",
+            "PC sent",
+            "PC inventory",
+            "R"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "표에 포함된 정확한 열 이름은 다음 중 어느 것입니까?",
+        "choice": [
+            "결제 처리",
+            "PC 발송",
+            "PC 재고",
+            "R"
+        ],
+        "answer": "B"
+    }
+}

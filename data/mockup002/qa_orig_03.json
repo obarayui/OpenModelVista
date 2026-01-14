@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/451",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": -1,
+    "characters": -1,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれるボタン名として正しいのはどれですか？",
+        "choice": [
+            "MEN",
+            "在庫あり",
+            "サイズ",
+            "SALE"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "Which of the following is the correct button name included in this image?",
+        "choice": [
+            "MEN",
+            "In Stock",
+            "Size",
+            "SALE"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "이 이미지에 포함된 올바른 버튼 이름은 다음 중 어느 것인가요?",
+        "choice": [
+            "남성",
+            "재고 있음",
+            "사이즈",
+            "세일"
+        ],
+        "answer": "A"
+    }
+}

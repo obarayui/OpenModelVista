@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/177",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 18,
+    "characters": 134,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中に含まれる分岐の条件として正しいものはどれですか？",
+        "choice": [
+            "注文ボタンを押す",
+            "追加する品目がない",
+            "請求を拒否する",
+            "その他"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "Which of the following is the correct condition for the branching included in the image?",
+        "choice": [
+            "Press the order button",
+            "No items to add",
+            "Refuse the request",
+            "Other"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "다음 중 이미지에 포함된 분기에 대한 올바른 조건은 무엇인가?",
+        "choice": [
+            "주문 버튼 누르기",
+            "추가할 품목 없음",
+            "요청 거부",
+            "기타"
+        ],
+        "answer": "B"
+    }
+}

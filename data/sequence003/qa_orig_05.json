@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/112",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 5,
+    "characters": 172,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれるオルタナティブの数はどれですか？",
+        "choice": [
+            "3",
+            "2",
+            "1",
+            "4"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "How many alternatives are included in this image?",
+        "choice": [
+            "3",
+            "2",
+            "1",
+            "4"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "이 이미지에 포함된 대안은 몇 개인가?",
+        "choice": [
+            "3",
+            "2",
+            "1",
+            "4"
+        ],
+        "answer": "C"
+    }
+}

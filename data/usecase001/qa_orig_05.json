@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/005",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 3,
+    "characters": 27,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "この図に含まれるアクターはどれですか？",
+        "choice": [
+            "社員",
+            "鉄道改札システム",
+            "利用者",
+            "駅員"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which of the following is a correct actor included in this image?",
+        "choice": [
+            "Employee",
+            "Railway Ticket Gate System",
+            "User",
+            "Station Staff"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "다음 중 이 그림에 포함된 올바른 행위자는 무엇입니까?",
+        "choice": [
+            "직원",
+            "철도 티켓 게이트 시스템",
+            "사용자",
+            "역 직원"
+        ],
+        "answer": "C"
+    }
+}

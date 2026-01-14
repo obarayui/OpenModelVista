@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/168",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 18,
+    "characters": 134,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれるパーティションの数はどれですか？",
+        "choice": [
+            "2",
+            "5",
+            "4",
+            "1"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "How many partitions are included in the image?",
+        "choice": [
+            "2",
+            "5",
+            "4",
+            "1"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "이미지에 포함된 파티션 수는 몇 개인가?",
+        "choice": [
+            "2",
+            "5",
+            "4",
+            "1"
+        ],
+        "answer": "C"
+    }
+}

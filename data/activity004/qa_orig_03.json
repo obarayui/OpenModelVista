@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/394",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 14,
+    "characters": 106,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれる判断の数はどれですか？",
+        "choice": [
+            "2",
+            "1",
+            "0",
+            "3"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "Which number of judgments are included in the image?",
+        "choice": [
+            "2",
+            "1",
+            "0",
+            "3"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "이미지에 포함된 판단의 수는 몇 개인가?",
+        "choice": [
+            "2",
+            "1",
+            "0",
+            "3"
+        ],
+        "answer": "B"
+    }
+}

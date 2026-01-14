@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/289",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 3,
+    "characters": 71,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中のライフラインの数として正しいものはどれですか？",
+        "choice": [
+            "5",
+            "3",
+            "1",
+            "0"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which is the correct number of lifelines in the image?",
+        "choice": [
+            "5",
+            "3",
+            "1",
+            "0"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "이미지에 포함된 라이프라인의 올바른 개수는 무엇입니까?",
+        "choice": [
+            "5",
+            "3",
+            "1",
+            "0"
+        ],
+        "answer": "C"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/142",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 14,
+    "characters": 286,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "「検知する」の直前に送信されるメッセージは何ですか？",
+        "choice": [
+            "走行する",
+            "回転する",
+            "電圧を測定する",
+            "終了する"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "What message is sent just before \"Detect\"?",
+        "choice": [
+            "Drive",
+            "Rotate",
+            "Measure voltage",
+            "End"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "Detect 직전에 어떤 메시지가 전송됩니까?",
+        "choice": [
+            "구동",
+            "회전",
+            "전압 측정",
+            "종료"
+        ],
+        "answer": "B"
+    }
+}

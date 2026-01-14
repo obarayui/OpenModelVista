@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/431",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": -1,
+    "characters": -1,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "ログ出力はどこから出力されますか？",
+        "choice": [
+            "クライアントPC",
+            "APサーバ",
+            "ファイルサーバ",
+            "Webサーバ"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "From where is log output generated?",
+        "choice": [
+            "Client PC",
+            "AP server",
+            "File server",
+            "Web server"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "로그 출력은 어디에서 생성됩니까?",
+        "choice": [
+            "클라이언트 PC",
+            "AP 서버",
+            "파일 서버",
+            "웹 서버"
+        ],
+        "answer": "C"
+    }
+}

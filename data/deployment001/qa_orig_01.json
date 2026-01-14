@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/231",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 5,
+    "characters": 37,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "通信経路の数として正しいものはどれですか？",
+        "choice": [
+            "5",
+            "2",
+            "4",
+            "3"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "Which of the following is the correct number of communication paths?",
+        "choice": [
+            "5",
+            "2",
+            "4",
+            "3"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "다음 중 통신 경로의 올바른 개수는 무엇입니까?",
+        "choice": [
+            "5",
+            "2",
+            "4",
+            "3"
+        ],
+        "answer": "B"
+    }
+}

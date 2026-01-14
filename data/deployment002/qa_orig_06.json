@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/242",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 8,
+    "characters": 117,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "サーバマシンから見たクライアントマシンの多重度はどれですか？",
+        "choice": [
+            "*",
+            "1..*",
+            "1",
+            "0..1"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "Which is the multiplicity of the client machine as seen from the server machine?",
+        "choice": [
+            "*",
+            "1... *",
+            "1",
+            "0..1"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "서버 머신에서 본 클라이언트 머신의 다중도는 무엇입니까?",
+        "choice": [
+            "*",
+            "1... *",
+            "1",
+            "0..1"
+        ],
+        "answer": "A"
+    }
+}

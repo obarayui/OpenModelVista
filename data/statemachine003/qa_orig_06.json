@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/156",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 5,
+    "characters": 190,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "開始状態の直後の状態はどれですか？",
+        "choice": [
+            "保温中",
+            "電源OFF",
+            "待機中",
+            "湯沸し中"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which state immediately follows the start state?",
+        "choice": [
+            "Keeping warm",
+            "Power OFF",
+            "On standby",
+            "Boiling water"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "시작 상태 바로 다음에 오는 상태는 무엇인가요?",
+        "choice": [
+            "보온 중",
+            "전원 OFF",
+            "대기 중",
+            "물 끓임 중"
+        ],
+        "answer": "C"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/044",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 7,
+    "characters": 298,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "「テスト仕様書」オブジェクトの「名前」の属性値はどれですか？",
+        "choice": [
+            "”Test 0015”",
+            "”正しいユーザ名とパスワードを使ってユーザがログインできるかどうかをテストする。”",
+            "”システム”",
+            "String"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "Which of the following is an attribute value of \"Name\" in the \"Test Specification\" object?",
+        "choice": [
+            "\"Test 0015\"",
+            "\"Tests if a user can log in using the correct username and password.\"",
+            "\"System\"",
+            "String"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "다음 중 \"테스트 사양\" 객체의 \"이름\" 속성 값은 무엇입니까?",
+        "choice": [
+            "\"테스트 0015\"",
+            "\"사용자가 올바른 사용자명과 비밀번호로 로그인할 수 있는지 테스트합니다.\"",
+            "\"시스템\"",
+            "문자열"
+        ],
+        "answer": "A"
+    }
+}

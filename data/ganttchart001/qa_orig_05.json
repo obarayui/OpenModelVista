@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/385",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 1,
+    "characters": 89,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "CMプロセス改善ミッションは5ヶ月の間で何回開催されますか？",
+        "choice": [
+            "7回",
+            "19回",
+            "2回",
+            "1回"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "How many CM process improvement missions are held in a 5 month period?",
+        "choice": [
+            "7 times",
+            "19 times",
+            "2 times",
+            "1 time"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "5개월 동안 몇 번의 CM 프로세스 개선 미션이 수행됩니까?",
+        "choice": [
+            "7회",
+            "19회",
+            "2회",
+            "1회"
+        ],
+        "answer": "C"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/470",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": -1,
+    "characters": -1,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "普通車クラスの加算料金はいくらですか？",
+        "choice": [
+            "1000円",
+            "0円",
+            "2000円",
+            "5000円"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "How much is the additional charge for regular car class?",
+        "choice": [
+            "1000 yen",
+            "0 yen",
+            "2000 yen",
+            "5000 yen"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "일반 객실 등급의 추가 요금은 얼마입니까?",
+        "choice": [
+            "1000엔",
+            "0엔",
+            "2000엔",
+            "5000엔"
+        ],
+        "answer": "B"
+    }
+}

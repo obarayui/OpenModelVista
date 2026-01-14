@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/467",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": -1,
+    "characters": -1,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中の表で座席クラスタイプは何種類ありますか？",
+        "choice": [
+            "2",
+            "7",
+            "10",
+            "3"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "How many seat class types are available in the table in the image?",
+        "choice": [
+            "2",
+            "7",
+            "10",
+            "3"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "이미지 내 테이블에서 이용 가능한 좌석 등급 유형은 몇 가지입니까?",
+        "choice": [
+            "2",
+            "7",
+            "10",
+            "3"
+        ],
+        "answer": "A"
+    }
+}

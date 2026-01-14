@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/344",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 3,
+    "characters": 624,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれるテーブルの数はどれですか？",
+        "choice": [
+            "3",
+            "1",
+            "2",
+            "4"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "How many tables are included in the image?",
+        "choice": [
+            "3",
+            "1",
+            "2",
+            "4"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "이미지에는 몇 개의 테이블이 포함되어 있는가?",
+        "choice": [
+            "3",
+            "1",
+            "2",
+            "4"
+        ],
+        "answer": "A"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/420",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": -1,
+    "characters": -1,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれるコンポーネント間の関係性を示す線の数はいくつですか？",
+        "choice": [
+            "9",
+            "2",
+            "7",
+            "15"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "How many lines indicate the relationship between components in the image?",
+        "choice": [
+            "9",
+            "2",
+            "7",
+            "15"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "이미지 내 구성 요소 간 관계를 나타내는 선은 몇 개인가?",
+        "choice": [
+            "9",
+            "2",
+            "7",
+            "15"
+        ],
+        "answer": "C"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/158",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 5,
+    "characters": 190,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "「湯沸し中」から「待機中」に遷移する時に起こるエフェクトはどれですか？",
+        "choice": [
+            "湯を沸かす",
+            "湯沸し完了",
+            "上蓋が開いた",
+            "湯沸しボタン押下"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which of the following effects occurs when the water temperature changes from \"heating water\" to \"standby\"?",
+        "choice": [
+            "Boiling water",
+            "Completion of water heating",
+            "Top lid opened",
+            "Water heating button pressed"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "다음 중 물의 온도가 \"가열 중\"에서 \"대기 상태\"로 변경될 때 발생하는 효과는 무엇입니까?",
+        "choice": [
+            "물 끓임 중",
+            "물 가열 완료",
+            "상단 뚜껑 열림",
+            "물 가열 버튼 누름"
+        ],
+        "answer": "C"
+    }
+}

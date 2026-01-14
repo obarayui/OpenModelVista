@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/380",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 1,
+    "characters": 99,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "「物理削除」状態になる前の状態として正しいものはどれですか？",
+        "choice": [
+            "削除済",
+            "削除",
+            "承認待ち",
+            "作成中"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which of the following is the correct status prior to the \"physically deleted\" status?",
+        "choice": [
+            "Deleted",
+            "Deleted",
+            "Pending approval",
+            "Creating"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "다음 중 \"물리적 삭제\" 상태 이전의 올바른 상태는 무엇입니까?",
+        "choice": [
+            "삭제됨",
+            "삭제됨",
+            "승인 대기 중",
+            "생성 중"
+        ],
+        "answer": "D"
+    }
+}

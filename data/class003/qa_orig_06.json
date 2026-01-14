@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/080",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 10,
+    "characters": 225,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれるクラスの属性として正しいものはどれですか？",
+        "choice": [
+            "社員ID",
+            "create",
+            "図書",
+            "書名"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which of the following is a correct attribute of the class contained in the image?",
+        "choice": [
+            "employee ID",
+            "create",
+            "book",
+            "title"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "다음 중 이미지에 포함된 클래스의 올바른 속성은 무엇인가?",
+        "choice": [
+            "employee ID",
+            "create",
+            "book",
+            "title"
+        ],
+        "answer": "D"
+    }
+}

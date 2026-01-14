@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/345",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 3,
+    "characters": 624,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中のusersテーブルの2列目3行目の値はどれですか？",
+        "choice": [
+            "システム設計の思考法",
+            "hanako@example.com",
+            "山田 太郎",
+            "佐藤 次郎"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which is the value of the second column third row of the users table in the image?",
+        "choice": [
+            "Thinking method of system design",
+            "hanako@example.com",
+            "Taro Yamada",
+            "Jiro Sato"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "이미지 내 users 테이블의 두 번째 열, 세 번째 행 값은 무엇입니까?",
+        "choice": [
+            "시스템 설계 사고법",
+            "hanako@example.com",
+            "타로 야마다",
+            "지로 사토"
+        ],
+        "answer": "D"
+    }
+}

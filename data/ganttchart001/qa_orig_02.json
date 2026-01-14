@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/382",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 1,
+    "characters": 89,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれるタスク内容として正しいものはどれですか？",
+        "choice": [
+            "ベンダーバックアップ計画期限",
+            "CMレビュー",
+            "CM作成",
+            "CM撮影"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "Which of the following is the correct task content included in the image?",
+        "choice": [
+            "Vendor backup plan due",
+            "CM review",
+            "CM creation",
+            "CM filming"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "다음 중 이미지에 포함된 올바른 작업 내용은 무엇입니까?",
+        "choice": [
+            "공급업체 백업 계획 마감",
+            "CM 검토",
+            "CM 제작",
+            "CM 촬영"
+        ],
+        "answer": "B"
+    }
+}

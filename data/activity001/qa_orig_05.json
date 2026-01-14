@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/164",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 12,
+    "characters": 173,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像内にあるアクション名として正しいのはどれですか？",
+        "choice": [
+            "入力内容の確認表示",
+            "チケットを作成する",
+            "設定項目を保存",
+            "ユーザーの登録完了"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "Which of the following is the correct name of the action in the image?",
+        "choice": [
+            "Confirmation display of input contents",
+            "Create ticket",
+            "Save configuration items",
+            "Complete user registration"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "이미지에서 올바른 액션 이름은 다음 중 어느 것인가요?",
+        "choice": [
+            "입력 내용 확인 표시",
+            "티켓 생성",
+            "구성 항목 저장",
+            "사용자 등록 완료"
+        ],
+        "answer": "A"
+    }
+}

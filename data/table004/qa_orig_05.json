@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/461",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": -1,
+    "characters": -1,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "ログインする業務の定常の業務量は1時間あたりは何件ですか？",
+        "choice": [
+            "20件",
+            "10件",
+            "40件",
+            "120件"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "What is the steady workload per hour for the job you are logging in?",
+        "choice": [
+            "20 cases",
+            "10 cases",
+            "40 cases",
+            "120 cases"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "로그인 중인 작업의 시간당 안정적인 작업량은 얼마입니까?",
+        "choice": [
+            "20건",
+            "10건",
+            "40건",
+            "120건"
+        ],
+        "answer": "B"
+    }
+}

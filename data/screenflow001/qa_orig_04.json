@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/435",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": -1,
+    "characters": -1,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "お知らせ一覧ページから直接遷移する画面はどれですか？",
+        "choice": [
+            "採用ページ",
+            "問い合わせページ",
+            "エラーページ",
+            "トップページ"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which of the following is the screen to which you directly transition from the Notices List page?",
+        "choice": [
+            "Recruiting page",
+            "Inquiry page",
+            "Error page",
+            "Top page"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "다음 중 공지사항 목록 페이지에서 직접 전환할 수 있는 화면은 무엇인가?",
+        "choice": [
+            "채용 페이지",
+            "문의 페이지",
+            "오류 페이지",
+            "홈페이지"
+        ],
+        "answer": "D"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/072",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 4,
+    "characters": 103,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中の社員クラスの属性として正しいものはどれですか？",
+        "choice": [
+            "部署名",
+            "所属する",
+            "パスワード",
+            "経費を登録する"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which of the following is the correct attribute of the employee class in the image?",
+        "choice": [
+            "Department",
+            "Belongs to",
+            "Password",
+            "Register expenses"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "이미지에 표시된 직원 클래스의 올바른 속성은 다음 중 어느 것인가?",
+        "choice": [
+            "부서",
+            "소속",
+            "비밀번호",
+            "경비 등록"
+        ],
+        "answer": "C"
+    }
+}

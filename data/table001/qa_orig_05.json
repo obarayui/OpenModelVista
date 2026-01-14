@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/471",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": -1,
+    "characters": -1,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "ピーク1の時期として正しいのはどれですか？",
+        "choice": [
+            "8月20日~8月31日",
+            "12月28日~2月1日",
+            "4月27日~5月6日",
+            "3月25日~4月5日"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which of the following is the correct time for Peak 1?",
+        "choice": [
+            "August 20~August 31",
+            "December 28~February 1",
+            "April 27~May 6",
+            "March 25~April 5"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "다음 중 피크 1의 정확한 시간은 무엇입니까?",
+        "choice": [
+            "8월 20일~8월 31일",
+            "12월 28일~2월 1일",
+            "4월 27일~5월 6일",
+            "3월 25일~4월 5일"
+        ],
+        "answer": "C"
+    }
+}

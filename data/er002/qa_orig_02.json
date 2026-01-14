@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/356",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 7,
+    "characters": 82,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれるリレーションシップの数はどれですか？",
+        "choice": [
+            "7",
+            "5",
+            "3",
+            "6"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "How many relationships does the image contain?",
+        "choice": [
+            "7",
+            "5",
+            "3",
+            "6"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "이미지에 포함된 관계 개수는 몇 개인가요?",
+        "choice": [
+            "7",
+            "5",
+            "3",
+            "6"
+        ],
+        "answer": "A"
+    }
+}

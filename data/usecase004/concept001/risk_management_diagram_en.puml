@@ -1,0 +1,25 @@
+@startuml Risk Management Concept Diagram
+
+' Element definitions
+object "Owners" as owners
+object "Countermeasures" as countermeasures
+object "Risk" as risk
+object "Threat Agents" as threat_agents
+object "Threat" as threat
+object "Assets" as assets
+
+' Relationships
+owners --> countermeasures : take
+countermeasures --> risk : reduce
+risk --> assets : eliminate!!
+threat_agents --> threat : elevate
+threat --> risk : increase
+threat --> assets : to\ngive damage
+risk --> assets : to
+owners ..> assets : value
+
+note right of assets
+  Owners find value in
+end note
+
+@enduml

@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/213",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 2,
+    "characters": 12,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "給与管理コンポーネントが接続されているコンポーネント名として正しいものはどれですか？",
+        "choice": [
+            "社員",
+            "給与サービス",
+            "給与管理",
+            "ネットワーク"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "Which of the following is the correct name of the component to which the payroll management component is connected?",
+        "choice": [
+            "employee",
+            "payroll service",
+            "payroll management",
+            "network"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "다음 중 급여 관리 구성 요소가 연결된 구성 요소의 올바른 이름은 무엇입니까?",
+        "choice": [
+            "직원",
+            "급여 서비스",
+            "급여 관리",
+            "네트워크"
+        ],
+        "answer": "A"
+    }
+}

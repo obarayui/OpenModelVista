@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/333",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 2,
+    "characters": 167,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中のヘッダーテーブルに含まれる列名として正しいものはどれですか？",
+        "choice": [
+            "発注ID",
+            "合計値",
+            "数量",
+            "納品先"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which of the following is the correct column name contained in the header table in the image?",
+        "choice": [
+            "Order ID",
+            "Total Value",
+            "Quantity",
+            "Delivery Destination"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "이미지 내 헤더 테이블에 포함된 올바른 열 이름은 다음 중 어느 것인가요?",
+        "choice": [
+            "주문 ID",
+            "총 금액",
+            "수량",
+            "배송지"
+        ],
+        "answer": "D"
+    }
+}

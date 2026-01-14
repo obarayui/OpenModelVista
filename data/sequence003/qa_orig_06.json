@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/113",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 5,
+    "characters": 172,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれるライフライン名はどれですか？",
+        "choice": [
+            "ログインする",
+            "：セッション管理",
+            "：ログイン処理",
+            "：ログアウト画面"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which of the following is the correct lifeline name included in the image?",
+        "choice": [
+            "Login",
+            ": Session Management",
+            ": Login Process",
+            ": Logout Screen"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "다음 중 이미지에 포함된 올바른 생명선 이름은 무엇인가?",
+        "choice": [
+            "로그인",
+            ": 세션 관리",
+            ": 로그인 프로세스",
+            ": 로그아웃 화면"
+        ],
+        "answer": "C"
+    }
+}

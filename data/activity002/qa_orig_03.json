@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/170",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 18,
+    "characters": 134,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれる制御フローの数はどれですか？",
+        "choice": [
+            "17",
+            "15",
+            "18",
+            "14"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "How many control flows are included in the image?",
+        "choice": [
+            "17",
+            "15",
+            "18",
+            "14"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "이미지에 포함된 제어 흐름 수는 몇 개인가?",
+        "choice": [
+            "17",
+            "15",
+            "18",
+            "14"
+        ],
+        "answer": "C"
+    }
+}

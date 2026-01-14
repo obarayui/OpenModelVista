@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/007",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 3,
+    "characters": 27,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "システムがユースケース「チケットを挿入する」機能を提供するのはどのアクターに対してですか？",
+        "choice": [
+            "利用者",
+            "社員",
+            "駅員",
+            "鉄道管理システム"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "Which actor performs the \"Insert Ticket\" use case?",
+        "choice": [
+            "User",
+            "Employee",
+            "Station Staff",
+            "Railway Management System"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "어떤 배우가 “티켓 삽입” 사용 사례를 수행합니까?",
+        "choice": [
+            "사용자",
+            "직원",
+            "역 직원",
+            "철도 관리 시스템"
+        ],
+        "answer": "A"
+    }
+}

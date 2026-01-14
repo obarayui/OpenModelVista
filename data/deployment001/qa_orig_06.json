@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/236",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 5,
+    "characters": 37,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "「データベース」コンポーネントが配置されているノードはどれですか？",
+        "choice": [
+            "プリンタ",
+            "ユーザインタフェース",
+            "中央サーバ",
+            "データセンター"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which node is where the \"database\" component is located?",
+        "choice": [
+            "Printer",
+            "User interface",
+            "Central server",
+            "Data center"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "\"데이터베이스\" 컴포넌트가 위치한 노드는 어디입니까?",
+        "choice": [
+            "프린터",
+            "사용자 인터페이스",
+            "중앙 서버",
+            "데이터 센터"
+        ],
+        "answer": "C"
+    }
+}

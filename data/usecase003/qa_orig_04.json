@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/026",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 12,
+    "characters": 78,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれる包含の数はどれですか？",
+        "choice": [
+            "1",
+            "0",
+            "5",
+            "8"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "How many include relationships are included in this image?",
+        "choice": [
+            "1",
+            "0",
+            "5",
+            "8"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "이 이미지에 포함된 포함 관계는 몇 개인가?",
+        "choice": [
+            "1",
+            "0",
+            "5",
+            "8"
+        ],
+        "answer": "B"
+    }
+}

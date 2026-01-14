@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/342",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 3,
+    "characters": 624,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中のデータベースのテーブルに含まれる列名として正しいものはどれですか？",
+        "choice": [
+            "published_at",
+            "book_name",
+            "user_name",
+            "published_day"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "Which of the following is the correct column name contained in the database table in the image?",
+        "choice": [
+            "published_at",
+            "book_name",
+            "user_name",
+            "published_day"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "다음 중 이미지 내 데이터베이스 테이블에 포함된 올바른 열 이름은 무엇인가?",
+        "choice": [
+            "게시일",
+            "책명",
+            "사용자명",
+            "게시일"
+        ],
+        "answer": "A"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/399",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 14,
+    "characters": 106,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "空室がある場合、その直後のプロセスとして正しいのはどれですか？",
+        "choice": [
+            "お客様に別の宿を提案",
+            "予約記録",
+            "空室情報を回答",
+            "システムに予約情報を送信"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which of the following is the correct process immediately following the availability of a room?",
+        "choice": [
+            "Suggest another accommodation to the customer",
+            "Record the reservation",
+            "Answer the availability information",
+            "Send the reservation information to the system"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "객실 가용성 직후에 수행되는 올바른 프로세스는 다음 중 어느 것인가?",
+        "choice": [
+            "고객에게 다른 숙소 제안",
+            "예약 기록",
+            "객실 현황 안내",
+            "예약 정보 시스템 전송"
+        ],
+        "answer": "D"
+    }
+}

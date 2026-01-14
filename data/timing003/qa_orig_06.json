@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/294",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 3,
+    "characters": 71,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中で認証中の次になる状態はどれですか？",
+        "choice": [
+            "待機移行中",
+            "認証完了",
+            "ユーザが操作を行う",
+            "使用中"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "Which of the following states is next in the image during authentication?",
+        "choice": [
+            "In standby transition",
+            "Authentication completed",
+            "User performs operation",
+            "In use"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "인증 중 이미지에서 다음으로 진행되는 상태는 다음 중 어느 것입니까?",
+        "choice": [
+            "대기 상태 전환 중",
+            "인증 완료",
+            "사용자 작업 수행",
+            "사용 중"
+        ],
+        "answer": "A"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/298",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 6,
+    "characters": 36,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中の開始ノードの次のアクションはどれですか？",
+        "choice": [
+            "書籍管理システムの処理を選択する",
+            "本を借りる",
+            "本を返却する",
+            "蔵書情報を取得する"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "Which is the next action of the start node in the image?",
+        "choice": [
+            "Select a book management system process",
+            "Borrow a book",
+            "Return a book",
+            "Retrieve library information"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "이미지에서 시작 노드의 다음 동작은 무엇인가?",
+        "choice": [
+            "도서 관리 시스템 프로세스 선택",
+            "도서 대출",
+            "도서 반납",
+            "도서관 정보 조회"
+        ],
+        "answer": "A"
+    }
+}

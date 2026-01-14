@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/327",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 1,
+    "characters": 122,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "表中の1列目2行目の値として正しいものはどれですか？",
+        "choice": [
+            "15",
+            "55",
+            "まあ好き",
+            "10"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which of the following is the correct value for the first column, second row in the table?",
+        "choice": [
+            "15",
+            "55",
+            "Fairly like",
+            "10"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "다음 중 테이블의 첫 번째 열, 두 번째 행에 해당하는 올바른 값은 무엇입니까?",
+        "choice": [
+            "15",
+            "55",
+            "다소 좋아함",
+            "10"
+        ],
+        "answer": "D"
+    }
+}

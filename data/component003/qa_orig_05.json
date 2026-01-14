@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/225",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 10,
+    "characters": 87,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれるポートの数はどれですか？",
+        "choice": [
+            "1",
+            "2",
+            "0",
+            "3"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "How many ports are included in the image?",
+        "choice": [
+            "1",
+            "2",
+            "0",
+            "3"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "이미지에 몇 개의 포트가 포함되어 있나요?",
+        "choice": [
+            "1",
+            "2",
+            "0",
+            "3"
+        ],
+        "answer": "A"
+    }
+}

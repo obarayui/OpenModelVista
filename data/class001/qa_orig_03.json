@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/053",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 3,
+    "characters": 61,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれる汎化の数はどれですか？",
+        "choice": [
+            "0",
+            "2",
+            "4",
+            "6"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "How many generalizations does the image contain?",
+        "choice": [
+            "0",
+            "2",
+            "4",
+            "6"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "이미지에는 몇 개의 일반화가 포함되어 있습니까?",
+        "choice": [
+            "0",
+            "2",
+            "4",
+            "6"
+        ],
+        "answer": "B"
+    }
+}

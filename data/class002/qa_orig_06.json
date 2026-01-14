@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/064",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 4,
+    "characters": 103,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれるクラスの属性名として正しいものはどれですか？",
+        "choice": [
+            "社員",
+            "経費を登録する",
+            "所属する",
+            "氏名"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which of the following is the correct name of the class attribute included in the image?",
+        "choice": [
+            "employee",
+            "register expenses",
+            "belong to",
+            "name"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "다음 중 이미지에 포함된 클래스 속성의 올바른 이름은 무엇입니까?",
+        "choice": [
+            "직원",
+            "경비 등록",
+            "소속",
+            "이름"
+        ],
+        "answer": "D"
+    }
+}

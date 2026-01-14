@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/133",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 7,
+    "characters": 163,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "「下り側：列車判別装置」ライフラインから「下り側：遮断機」ライフラインに送信されるメッセージ名は何ですか？",
+        "choice": [
+            "5b",
+            "列車種別を伝える",
+            "警報を鳴らす",
+            "遮断機を下ろす"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which message is sent from the \"Down Track: Train Identification Device\" lifeline to the \"Down Track: Railway Crossing Gate\" lifeline?",
+        "choice": [
+            "5b",
+            "Transmit Train Type",
+            "Activate Alarm",
+            "Lower the Railway Crossing Gate"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "하행선: 열차 식별 장치 생명선에서 \"하행선: 건널목 차단기\" 생명선으로 어떤 메시지가 전송됩니까?",
+        "choice": [
+            "5b",
+            "열차 유형 전송",
+            "경보 활성화",
+            "건널목 차단기 내림"
+        ],
+        "answer": "D"
+    }
+}

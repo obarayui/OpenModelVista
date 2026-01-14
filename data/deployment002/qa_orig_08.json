@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/244",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 8,
+    "characters": 117,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "サーバマシンの実行環境として正しいものはどれですか？",
+        "choice": [
+            "クライアントマシン",
+            "JRE",
+            "Mailer.exe",
+            "Linux"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which of the following is the correct execution environment for the server machine?",
+        "choice": [
+            "Client machine",
+            "JRE",
+            "Mailer.exe",
+            "Linux"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "서버 머신의 올바른 실행 환경은 다음 중 어느 것인가?",
+        "choice": [
+            "클라이언트 머신",
+            "JRE",
+            "Mailer.exe",
+            "Linux"
+        ],
+        "answer": "D"
+    }
+}

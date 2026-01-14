@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/389",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 1,
+    "characters": 365,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "テスト計画の作成の終了後に開始されるタスクはどれですか？",
+        "choice": [
+            "テスト計画の検証",
+            "システムテスト",
+            "結合テスト",
+            "構成テスト"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which of the following tasks is initiated after the completion of test plan creation?",
+        "choice": [
+            "Test plan validation",
+            "System testing",
+            "Combination testing",
+            "Configuration testing"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "테스트 계획 작성 완료 후 시작되는 작업은 다음 중 어느 것인가?",
+        "choice": [
+            "테스트 계획 검증",
+            "시스템 테스트",
+            "조합 테스트",
+            "구성 테스트"
+        ],
+        "answer": "C"
+    }
+}

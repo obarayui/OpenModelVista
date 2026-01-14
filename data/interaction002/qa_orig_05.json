@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/303",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 21,
+    "characters": 218,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中の「注文する」アクション内で、「注文を登録する」メッセージの送信元のライフラインとして正しいものはどれですか？",
+        "choice": [
+            "注文画面",
+            "会員",
+            "ユーザ",
+            "注文管理"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "Within the \"Place Order\" action in the image, which of the following is the correct lifeline from which the \"Register Order\" message is sent?",
+        "choice": [
+            "Order screen",
+            "Member",
+            "User",
+            "Order management"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "이미지 내 \"주문하기\" 작업에서, 다음 중 \"주문 등록\" 메시지가 전송되는 올바른 생명선은 무엇입니까?",
+        "choice": [
+            "주문 화면",
+            "회원",
+            "사용자",
+            "주문 관리"
+        ],
+        "answer": "A"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/218",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 8,
+    "characters": 36,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "この図に含まれる正しいコンポーネント名は何ですか？",
+        "choice": [
+            "ネットワークコンポーネント",
+            "処理結果",
+            "DBアクセスコンポーネント",
+            "データ処理"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "What is the correct component name included in this diagram?",
+        "choice": [
+            "Network component",
+            "Processing result",
+            "DB access component",
+            "Data processing"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "이 다이어그램에 포함된 올바른 구성 요소 이름은 무엇인가?",
+        "choice": [
+            "네트워크 구성 요소",
+            "처리 결과",
+            "DB 접근 구성 요소",
+            "데이터 처리"
+        ],
+        "answer": "C"
+    }
+}

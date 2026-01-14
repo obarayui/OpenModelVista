@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/367",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 7,
+    "characters": 51,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれる正しい外的要素名はどれですか？",
+        "choice": [
+            "商品注文",
+            "在庫情報",
+            "配送",
+            "物流倉庫"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which of the following is the correct external element name included in the image?",
+        "choice": [
+            "product order",
+            "inventory information",
+            "delivery",
+            "distribution warehouse"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "이미지에 포함된 올바른 외부 요소 이름은 다음 중 어느 것인가?",
+        "choice": [
+            "제품 주문",
+            "재고 정보",
+            "배송",
+            "유통 창고"
+        ],
+        "answer": "D"
+    }
+}

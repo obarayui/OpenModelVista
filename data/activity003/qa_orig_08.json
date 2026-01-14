@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/187",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 11,
+    "characters": 62,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像内にあるアクティビティ名として正しいのはどれですか？",
+        "choice": [
+            "100円両替機",
+            "500円両替機",
+            "紙幣",
+            "ATM"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "Which of the following is the correct name of the activity in the image?",
+        "choice": [
+            "100-yen money changer",
+            "500-yen money changer",
+            "Paper money",
+            "ATM"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "이미지에서 표시된 활동의 올바른 명칭은 다음 중 어느 것인가?",
+        "choice": [
+            "100엔 동전 교환기",
+            "500엔 동전 교환기",
+            "지폐",
+            "ATM"
+        ],
+        "answer": "A"
+    }
+}

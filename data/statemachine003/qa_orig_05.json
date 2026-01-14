@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/155",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 5,
+    "characters": 190,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "湯沸しの状態で行われるdoアクティビティはどれですか？",
+        "choice": [
+            "湯を沸かす",
+            "湯沸しランプを点灯する",
+            "保温する",
+            "湯沸し完了"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "Which of the following DO activities takes place in the state of boiling water?",
+        "choice": [
+            "Boil water",
+            "Turn on the water heating lamp",
+            "Keep water warm",
+            "Complete water heating"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "다음 중 물을 끓이는 상태에서 수행되는 수행(DO) 활동은 무엇인가요?",
+        "choice": [
+            "물 끓이기",
+            "물 가열등 켜기",
+            "물 보온",
+            "물 가열 완료"
+        ],
+        "answer": "A"
+    }
+}

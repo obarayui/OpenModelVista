@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/184",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 11,
+    "characters": 62,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれるマージノードの数はどれですか？",
+        "choice": [
+            "4",
+            "2",
+            "3",
+            "1"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "How many merge nodes does the image contain?",
+        "choice": [
+            "4",
+            "2",
+            "3",
+            "1"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "이미지에 포함된 병합 노드는 몇 개인가요?",
+        "choice": [
+            "4",
+            "2",
+            "3",
+            "1"
+        ],
+        "answer": "B"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/432",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": -1,
+    "characters": -1,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれる画面の数はいくつですか？",
+        "choice": [
+            "4",
+            "5",
+            "3",
+            "2"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "How many screens are included in the image?",
+        "choice": [
+            "4",
+            "5",
+            "3",
+            "2"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "이미지에는 화면이 몇 개 포함되어 있습니까?",
+        "choice": [
+            "4",
+            "5",
+            "3",
+            "2"
+        ],
+        "answer": "C"
+    }
+}

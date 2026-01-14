@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/348",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 3,
+    "characters": 624,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中の鈴木花子さんが借りた本のタイトルはどれですか？",
+        "choice": [
+            "6",
+            "未来のAI",
+            "ITの基本がわかる本",
+            "2"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "Which of the following is the title of the book borrowed by Hanako Suzuki in the image?",
+        "choice": [
+            "6",
+            "AI in the Future",
+            "A Book to Understand the Basics of IT",
+            "2"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "이미지에서 Hanako Suzuki가 대출한 도서의 제목은 무엇입니까?",
+        "choice": [
+            "6",
+            "미래의 AI",
+            "IT 기초를 이해하는 책",
+            "2"
+        ],
+        "answer": "B"
+    }
+}

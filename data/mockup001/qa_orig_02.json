@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/446",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": -1,
+    "characters": -1,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "「ログイン」ボタンは画面のどこに表示されていますか？",
+        "choice": [
+            "右上",
+            "右下",
+            "左下",
+            "左上"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "Where is the \"Sign in\" button displayed on the screen?",
+        "choice": [
+            "Top right",
+            "Bottom right",
+            "Bottom left",
+            "Top left"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "로그인 버튼은 화면의 어디에 표시되어 있나요?",
+        "choice": [
+            "오른쪽 위",
+            "오른쪽 아래",
+            "왼쪽 아래",
+            "왼쪽 위"
+        ],
+        "answer": "A"
+    }
+}

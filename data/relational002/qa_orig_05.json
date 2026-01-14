@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/343",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 3,
+    "characters": 624,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中のlendingsテーブルに含まれる列名として正しいものはどれですか？",
+        "choice": [
+            "user_name",
+            "title",
+            "returned_at",
+            "lend_at"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which of the following is the correct column name contained in the lendings table in the image?",
+        "choice": [
+            "user_name",
+            "title",
+            "returned_at",
+            "lend_at"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "다음 중 이미지 내 대출 테이블에 포함된 올바른 열 이름은 무엇인가?",
+        "choice": [
+            "사용자명",
+            "제목",
+            "반납일",
+            "대출일"
+        ],
+        "answer": "C"
+    }
+}

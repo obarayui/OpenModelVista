@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/083",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 10,
+    "characters": 225,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中の「登録利用者」クラスから「貸出予約」クラスを見たときの多重度はいくつですか？",
+        "choice": [
+            "1..*",
+            "1",
+            "0..*",
+            "0..1"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "What is the multiplicity from the \"Registered Users\" class in the image to the \"Borrowing Reservations\" class?",
+        "choice": [
+            "1... *",
+            "1",
+            "0... *",
+            "0...1"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "이미지에서 \"등록된 사용자\" 클래스에서 \"대출 예약\" 클래스로의 다중성은 무엇입니까?",
+        "choice": [
+            "1... *",
+            "1",
+            "0... *",
+            "0...1"
+        ],
+        "answer": "C"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/219",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 8,
+    "characters": 36,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "この図に含まれる正しいインターフェース名は何ですか？",
+        "choice": [
+            "データ処理",
+            "受信",
+            "DBアクセスコンポーネント",
+            "接続要求"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "What is the correct interface name included in this diagram?",
+        "choice": [
+            "data processing",
+            "receiving",
+            "DB access component",
+            "connection request"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "이 다이어그램에 포함된 올바른 인터페이스 이름은 무엇인가?",
+        "choice": [
+            "데이터 처리",
+            "수신",
+            "DB 접근 구성 요소",
+            "연결 요청"
+        ],
+        "answer": "D"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/383",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 1,
+    "characters": 89,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "CMレビューが計画されている頻度として最も適切なものはどれですか？",
+        "choice": [
+            "週1回実施",
+            "月1回実施",
+            "毎月の第2週に実施",
+            "毎月の第1週に実施"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "Which of the following best describes the frequency with which CM reviews are planned?",
+        "choice": [
+            "Once a week",
+            "Once a month",
+            "Second week of each month",
+            "First week of each month"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "다음 중 CM 검토가 계획되는 빈도를 가장 잘 설명하는 것은 무엇입니까?",
+        "choice": [
+            "매주 한 번",
+            "매월 한 번",
+            "매월 둘째 주",
+            "매월 첫째 주"
+        ],
+        "answer": "A"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/056",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 3,
+    "characters": 61,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれるクラスの操作として正しいものはどれですか？",
+        "choice": [
+            "ログインする",
+            "州内学生",
+            "授業料を計算する",
+            "単位時間"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which of the following is the correct operation for the class included in the image?",
+        "choice": [
+            "Log in",
+            "In-State Students",
+            "Calculate Tuition",
+            "Credit Hours"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "이미지에 포함된 클래스에 대한 올바른 연산은 다음 중 어느 것입니까?",
+        "choice": [
+            "로그인",
+            "주내 학생",
+            "등록금 계산",
+            "학점"
+        ],
+        "answer": "C"
+    }
+}

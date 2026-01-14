@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/386",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 1,
+    "characters": 365,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "ガントチャートに含まれる期間として正しいものはどれですか？",
+        "choice": [
+            "約2日",
+            "約2ヶ月",
+            "約2年",
+            "約2週間"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "Which of the following is the correct time period included in the Gantt chart?",
+        "choice": [
+            "about 2 days",
+            "about 2 months",
+            "about 2 years",
+            "about 2 weeks"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "다음 중 간트 차트에 포함된 올바른 기간은 무엇입니까?",
+        "choice": [
+            "약 2일",
+            "약 2개월",
+            "약 2년",
+            "약 2주"
+        ],
+        "answer": "B"
+    }
+}

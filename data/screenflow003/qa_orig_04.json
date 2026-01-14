@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/443",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": -1,
+    "characters": -1,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "乗客情報入力画面から直接遷移できる画面として正しいのはどれですか？",
+        "choice": [
+            "支払い画面",
+            "ログイン画面",
+            "予約確認画面",
+            "サポート画面"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "Which of the following is the correct screen to which you can directly transition from the passenger information input screen?",
+        "choice": [
+            "Payment screen",
+            "Login screen",
+            "Reservation confirmation screen",
+            "Support screen"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "승객 정보 입력 화면에서 직접 이동할 수 있는 올바른 화면은 다음 중 어느 것인가요?",
+        "choice": [
+            "결제 화면",
+            "로그인 화면",
+            "예약 확인 화면",
+            "지원 화면"
+        ],
+        "answer": "A"
+    }
+}

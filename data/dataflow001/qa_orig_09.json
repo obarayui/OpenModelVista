@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/369",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 7,
+    "characters": 51,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "配送指示は「出荷処理」プロセスからどのプロセスに流れるでしょうか？",
+        "choice": [
+            "商品配送",
+            "注文受付",
+            "受注情報",
+            "配送"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Delivery instructions flow from the \"Shipment Processing\" process to which process?",
+        "choice": [
+            "Product delivery",
+            "Order receipt",
+            "Order information",
+            "Shipping"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "배송 처리 프로세스에서 배송 지시사항은 어느 프로세스로 흐르는가?",
+        "choice": [
+            "제품 배송",
+            "주문 접수",
+            "주문 정보",
+            "배송"
+        ],
+        "answer": "D"
+    }
+}

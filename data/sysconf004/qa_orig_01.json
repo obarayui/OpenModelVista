@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/400",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 11,
+    "characters": 116,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "画像に含まれるサービスの種類の数はどれですか？",
+        "choice": [
+            "9",
+            "7",
+            "4",
+            "3"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "How many types of services are included in the image?",
+        "choice": [
+            "9",
+            "7",
+            "4",
+            "3"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "이미지에 포함된 서비스 유형은 몇 가지입니까?",
+        "choice": [
+            "9",
+            "7",
+            "4",
+            "3"
+        ],
+        "answer": "B"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/073",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 4,
+    "characters": 103,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中の社員クラスの操作「ログインする」の可視性の説明として正しいものはどれですか？",
+        "choice": [
+            "社員クラスとマネージャクラスのみアクセス可能",
+            "社員クラス以外アクセス可能",
+            "社員クラスのみアクセス可能",
+            "すべてのクラスからアクセス可能"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which of the following is the correct description of the visibility of the operation \"log in\" for the employee class in the image?",
+        "choice": [
+            "Accessible only to the employee and manager classes",
+            "Accessible only to the employee class",
+            "Accessible only to the employee class",
+            "Accessible from all classes"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "이미지에서 직원 클래스에 대한 \"로그인\" 작업의 가시성에 대한 올바른 설명은 다음 중 어느 것입니까?",
+        "choice": [
+            "직원 및 관리자 클래스만 접근 가능",
+            "직원 클래스만 접근 가능",
+            "직원 클래스만 접근 가능",
+            "모든 클래스에서 접근 가능"
+        ],
+        "answer": "D"
+    }
+}

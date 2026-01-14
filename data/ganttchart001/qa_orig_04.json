@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/384",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 1,
+    "characters": 89,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "ベンダーバックアップ計画期限が設定されているのはどのタイミングですか？",
+        "choice": [
+            "4ヶ月目",
+            "2ヶ月目",
+            "3ヶ月目",
+            "5ヶ月目"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "When is the vendor backup plan due date set?",
+        "choice": [
+            "4th month",
+            "2nd month",
+            "3rd month",
+            "5th month"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "공급업체 백업 계획 마감일은 언제 설정됩니까?",
+        "choice": [
+            "4개월째",
+            "2개월째",
+            "3개월째",
+            "5개월째"
+        ],
+        "answer": "B"
+    }
+}

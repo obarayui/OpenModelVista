@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/088",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 10,
+    "characters": 225,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中の「貸し出し権利あり？」の可視性はどれですか？",
+        "choice": [
+            "+",
+            "#",
+            "-",
+            "~"
+        ],
+        "answer": "A"
+    },
+    "en": {
+        "question": "In the image, \"with lending rights?\" Which is the visibility of?",
+        "choice": [
+            "+",
+            "#",
+            "-",
+            "~"
+        ],
+        "answer": "A"
+    },
+    "ko": {
+        "question": "이미지에서 \"대출 권한이 있나요?\"는 어떤 가시성입니까?",
+        "choice": [
+            "+",
+            "#",
+            "-",
+            "~"
+        ],
+        "answer": "A"
+    }
+}

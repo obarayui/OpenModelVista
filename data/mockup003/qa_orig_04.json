@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/456",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": -1,
+    "characters": -1,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "「Home」ボタンを押すとどの画面に遷移しますか？",
+        "choice": [
+            "Home画面",
+            "CONTACTページ画面",
+            "TOPページ画面",
+            "送信完了画面"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which screen does the \"Home\" button navigate to?",
+        "choice": [
+            "Home Screen",
+            "CONTACT Page Screen",
+            "TOP Page Screen",
+            "Submission Complete Screen"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "홈 버튼은 어느 화면으로 이동합니까?",
+        "choice": [
+            "홈 화면",
+            "문의 페이지 화면",
+            "상단 페이지 화면",
+            "제출 완료 화면"
+        ],
+        "answer": "C"
+    }
+}

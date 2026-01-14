@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/313",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 1,
+    "characters": 70,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "表中の値が×であるセル数として正しいものはどれですか？",
+        "choice": [
+            "4",
+            "2",
+            "5",
+            "3"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which is the correct number of cells in the table whose value is x?",
+        "choice": [
+            "4",
+            "2",
+            "5",
+            "3"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "다음 중 값 x을 포함하는 테이블 셀의 올바른 개수는 무엇입니까?",
+        "choice": [
+            "4",
+            "2",
+            "5",
+            "3"
+        ],
+        "answer": "D"
+    }
+}

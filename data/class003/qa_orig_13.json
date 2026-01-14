@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/087",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 10,
+    "characters": 225,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中の「図書貸出」クラスの属性名はどれですか？",
+        "choice": [
+            "図書登録番号",
+            "貸出し実行",
+            "貸出し日",
+            "返却日"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which is the name of the \"Book Lending\" class attribute in the image?",
+        "choice": [
+            "Book registration number",
+            "Borrowing execution",
+            "Borrowing date",
+            "Return date"
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "이미지에서 \"대출 가능\" 클래스 속성의 이름은 무엇입니까?",
+        "choice": [
+            "도서 등록 번호",
+            "대출 실행",
+            "대출 날짜",
+            "반납 날짜"
+        ],
+        "answer": "C"
+    }
+}

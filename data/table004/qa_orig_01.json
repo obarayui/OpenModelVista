@@ -1,0 +1,41 @@
+{
+    "id": "jsai2025/457",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": -1,
+    "characters": -1,
+    "tags": [
+        "counting"
+    ],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中の表で値が入っているセルの数として正しいものはどれですか？",
+        "choice": [
+            "7",
+            "26",
+            "6",
+            "12"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "Which is the correct number of cells with values in the table in the image?",
+        "choice": [
+            "7",
+            "26",
+            "6",
+            "12"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "이미지 내 테이블에서 값이 있는 셀의 올바른 개수는 몇 개입니까?",
+        "choice": [
+            "7",
+            "26",
+            "6",
+            "12"
+        ],
+        "answer": "B"
+    }
+}

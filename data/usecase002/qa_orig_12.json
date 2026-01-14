@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/022",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 9,
+    "characters": 76,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中のアクターに関する説明として正しいものはどれですか？",
+        "choice": [
+            "「他銀行」は「振込依頼者」の特化である",
+            "「暗証番号を入力する」は「預金を引き出す」の汎化である",
+            "「預金者」は「振込依頼者」の汎化である",
+            "「振込依頼者」は「預金者」の汎化である"
+        ],
+        "answer": "C"
+    },
+    "en": {
+        "question": "Which of the following statements about actors in this image is correct?",
+        "choice": [
+            "\"Other Bank\" is a specialization of \"Remittance Requester\"",
+            "\"Enter PIN\" is a generalization of \"Withdraw Money\"",
+            "\"Depositor\" is a generalization of \"Remittance Requester\"",
+            "\"Remittance Requester\" is a generalization of \"Depositor\""
+        ],
+        "answer": "C"
+    },
+    "ko": {
+        "question": "이 이미지의 배우들에 관한 다음 진술 중 올바른 것은 무엇인가?",
+        "choice": [
+            "\"타행\"은 \"송금 요청자\"의 특수화",
+            "\"PIN 입력\"은 \"현금 인출\"의 일반화",
+            "\"예금자\"는 \"송금 요청자\"의 일반화",
+            "\"송금 요청자\"는 \"예금자\"의 일반화"
+        ],
+        "answer": "C"
+    }
+}

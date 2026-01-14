@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/390",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 1,
+    "characters": 365,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "構成テストの終了日はどれですか？",
+        "choice": [
+            "98/1/23",
+            "98/2/17",
+            "98/2/2",
+            "98/2/1"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "Which of the following is the end date of the configuration test?",
+        "choice": [
+            "1/23/98",
+            "2/17/98",
+            "2/2/98",
+            "2/1/98"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "구성 테스트의 종료일은 다음 중 어느 것인가?",
+        "choice": [
+            "1/23/98",
+            "2/17/98",
+            "2/2/98",
+            "2/1/98"
+        ],
+        "answer": "B"
+    }
+}

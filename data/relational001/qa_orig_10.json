@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/338",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 2,
+    "characters": 167,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中で単価が100円の商品を使っている納品先はどれですか？",
+        "choice": [
+            "XXカフェ",
+            "ABCレストラン",
+            "ゆで卵",
+            "カレーセット"
+        ],
+        "answer": "B"
+    },
+    "en": {
+        "question": "Which delivery destination uses products with a unit price of 100 yen in the image?",
+        "choice": [
+            "XX cafe",
+            "ABC restaurant",
+            "Boiled egg",
+            "Curry set"
+        ],
+        "answer": "B"
+    },
+    "ko": {
+        "question": "이미지에서 단가 100엔 제품을 사용하는 배송지는 어디인가요?",
+        "choice": [
+            "XX 카페",
+            "ABC 레스토랑",
+            "삶은 달걀",
+            "카레 세트"
+        ],
+        "answer": "B"
+    }
+}

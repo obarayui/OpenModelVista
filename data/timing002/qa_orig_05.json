@@ -1,0 +1,39 @@
+{
+    "id": "jsai2025/285",
+    "author": "(jwu)",
+    "reviewers": "(jwu)",
+    "elements": 4,
+    "characters": 64,
+    "tags": [],
+    "deprecated": false,
+    "ja": {
+        "question": "画像中に含まれるイベント名として正しいものはどれですか？",
+        "choice": [
+            "エラー発生",
+            "ATM",
+            "カードを挿入する",
+            "認証完了"
+        ],
+        "answer": "D"
+    },
+    "en": {
+        "question": "Which of the following is the correct event name included in the image?",
+        "choice": [
+            "Error occurs",
+            "ATM",
+            "Card is inserted",
+            "Authentication completed"
+        ],
+        "answer": "D"
+    },
+    "ko": {
+        "question": "이미지에 포함된 올바른 이벤트 이름은 다음 중 어느 것인가?",
+        "choice": [
+            "오류 발생",
+            "ATM",
+            "카드 삽입",
+            "인증 완료"
+        ],
+        "answer": "D"
+    }
+}
