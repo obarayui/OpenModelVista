@@ -1,0 +1,20 @@
+@startuml
+title 100 Yen Change Machine
+
+start
+
+' Input (Bill or Coin)
+if (What is inserted?) then (Bill)
+else (Coin)
+endif
+
+:Identify the type of inserted money;
+
+if (Is it a 1,000 yen bill\nor a 500 yen coin?) then (Yes)
+  :Dispense 100 yen coins;
+else (Else)
+  :Return the inserted money;
+endif
+
+stop
+@enduml

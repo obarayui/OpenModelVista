@@ -1,0 +1,20 @@
+@startuml
+title 100円両替機
+
+start
+
+' 入力（紙幣 or 硬貨）
+if (投入はどちら？) then (紙幣)
+else (硬貨)
+endif
+
+:投入金の種類を\n判別する;
+
+if (1,000円紙幣 または 500円硬貨？) then (はい)
+  :100円硬貨を出す;
+else (else)
+  :投入金を戻す;
+endif
+
+stop
+@enduml
