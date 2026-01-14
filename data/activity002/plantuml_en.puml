@@ -1,0 +1,40 @@
+@startuml
+' Activity diagram with swimlanes (partitions) - English version
+
+|Customer|
+start
+:Start a new order;
+
+repeat
+  :Add item to order;
+repeat while (More items to add?) is (Yes)
+->No;
+
+:Complete payment;
+
+|Credit Company|
+if (Credit limit exceeded?) then (Yes)
+  :Reject charge;
+  |Customer|
+  :Complete payment;
+  |Credit Company|
+else (No)
+  :Approve charge;
+
+  |Shipping Clerk|
+  :Request pickup;
+
+  fork
+    :Pack order;
+  fork again
+    |Delivery Driver|
+    :Assign tracking number;
+  end fork
+
+  |Delivery Driver|
+  :Pick up order;
+  :Deliver order;
+  stop
+endif
+
+@enduml

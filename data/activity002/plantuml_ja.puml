@@ -1,0 +1,40 @@
+@startuml
+' Activity diagram with swimlanes (partitions)
+
+|顧客|
+start
+:新規の注文を開始する;
+
+repeat
+  :注文に品目を追加する;
+repeat while (他に追加したい品目がある) is (はい)
+->いいえ;
+
+:決済をすませる;
+
+|信販会社|
+if (利用限度額以上？) then (はい)
+  :請求を拒否する;
+  |顧客|
+  :決済をすませる;
+  |信販会社|
+else (いいえ)
+  :請求を承認する;
+
+  |出荷係員|
+  :集荷を要求する;
+
+  fork
+    :注文を梱包する;
+  fork again
+    |配達員|
+    :追跡番号を割り当てる;
+  end fork
+
+  |配達員|
+  :注文を集荷する;
+  :注文を配達する;
+  stop
+endif
+
+@enduml
