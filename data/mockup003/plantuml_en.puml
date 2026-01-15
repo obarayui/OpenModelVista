@@ -1,0 +1,30 @@
+@startuml
+skinparam rectangle {
+  RoundCorner 25
+}
+
+title Mobile App Screen Transition Diagram
+
+rectangle "TOP Page Screen" as top_label #white;line:gray
+rectangle "CONTACT Page Screen" as contact_label #white;line:gray
+
+package "TOP Page Screen" as top_screen {
+  rectangle "Smartphone" as phone1 #white;line:black {
+    rectangle "**Flickly**          ≡" as header1 #708090
+    rectangle "[Building Image]" as image1 #lightblue
+    rectangle "\n\nCompany\nDescription\n\n\n" as desc1 #white;line:gray
+    rectangle "Contact Us Here" as contact_btn #708090
+  }
+}
+
+package "CONTACT Page Screen" as contact_screen {
+  rectangle "Smartphone" as phone2 #white;line:black {
+    rectangle "**Flickly**          ≡" as header2 #708090
+    rectangle "← Home\n\n**Contact Us**\n\nName\n|_ _ _ _ _ _ _ _ _ _ _ _|\n\nE-mail Address\n|_ _ _ _ _ _ _ _ _ _ _ _|\n\nInquiry Details\n|_ _ _ _ _ _ _ _ _ _ _ _|\n\n      [  Send  ]" as form2 #E0EEEE
+  }
+}
+
+contact_btn -right-> form2 : Linked to\nEach Other
+form2 -left-> contact_btn
+
+@enduml

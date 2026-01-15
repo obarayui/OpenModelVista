@@ -1,0 +1,16 @@
+@startuml
+
+node "プリンタ" as printer
+
+node "デスクトップクライアント" as client {
+    [ユーザインタフェース]
+}
+
+node "中央サーバ" as server {
+    [データベース]
+}
+
+printer -- client
+client -- server
+
+@enduml

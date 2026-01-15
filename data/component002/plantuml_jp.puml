@@ -1,0 +1,18 @@
+@startuml
+
+component "DBアクセスコンポーネント" {
+    component "データ処理" as dataProcess
+    component "DB接続処理" as dbConnection
+
+    dataProcess -- dbConnection
+}
+
+interface "処理結果" as result
+interface "処理要求" as request
+interface "接続要求" as connectionRequest
+
+[DBアクセスコンポーネント] -- result
+[DBアクセスコンポーネント] --( request
+dbConnection --( connectionRequest
+
+@enduml

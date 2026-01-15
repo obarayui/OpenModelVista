@@ -1,0 +1,24 @@
+@startgantt
+title ガントチャート
+
+projectscale weekly
+Project starts 2024-01-01
+
+-- 1ヶ月目 --
+-- 2ヶ月目 --
+-- 3ヶ月目 --
+-- 4ヶ月目 --
+-- 5ヶ月目 --
+
+[安定したCM] happens at 2024-01-08
+
+[ベンダーバックアップ計画期限] happens at 2024-01-29
+
+[CMデビュー] starts 2024-01-15 and ends 2024-05-26
+
+[CMプロセス改善セッション 1回目] happens at 2024-03-25
+[CMプロセス改善セッション 2回目] happens at 2024-05-26
+
+[ランダムIV&V監査] starts 2024-01-01 and ends 2024-05-26
+
+@endgantt

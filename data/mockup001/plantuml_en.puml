@@ -1,0 +1,45 @@
+@startsalt
+{
+  {+
+    <b>HOTEL SORA</b> | | | | | | | | | [Sign up] | [Sign in] | ≡
+  }
+  {#
+    {+
+      Please enter your desired details.
+      --
+      Stay Period
+      {
+        ^May^ | ^11^ | ^2025^
+      }
+      Number of Nights
+      {
+        ^5^ | nights
+      }
+      Number of Guests per Room
+      {
+        Adults: | ^2^ | guests
+      }
+      Number of Rooms
+      {
+        ^1^ | rooms
+      }
+      .
+      [  Search  ]
+    }
+    |
+    {+
+      <b>HOTEL SORA</b>
+      --
+      {
+        [<img>] | Text goes here.
+      }
+      .
+      Facility Guide
+      --
+      {
+        [<img>] | [<img>] | [<img>]
+      }
+    }
+  }
+}
+@endsalt

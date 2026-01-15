@@ -1,0 +1,25 @@
+@startuml
+
+component "社員" <<component>> as employee
+interface "経費登録サービス" as expenseRegService
+interface "給与サービス" as salaryService
+
+employee --( expenseRegService
+employee --( salaryService
+
+package "経費全体" <<subsystem>> {
+    interface "経費登録サービス" as expenseRegServiceInternal
+    component "経費" <<component>> as expense
+    component "経費口座管理" as accountMgmt
+    interface "入金指示" as depositOrder
+    interface "出金指示" as withdrawOrder
+
+    expense -- expenseRegServiceInternal
+    expense -- depositOrder
+    accountMgmt --( depositOrder
+    accountMgmt -- withdrawOrder
+}
+
+expenseRegService "<<delegate>>" -- expenseRegServiceInternal
+
+@enduml

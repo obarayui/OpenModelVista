@@ -1,0 +1,35 @@
+@startuml
+
+entity "users (ユーザー)" as users {
+  * id (ID)
+  --
+  name (名前)
+  email (メールアドレス)
+  delete_flag (削除フラグ)
+}
+
+entity "lendings (貸出状況)" as lendings {
+  * id (ID)
+  --
+  user_id (ユーザーのID)
+  book_id (蔵書のID)
+  lent_at (貸出日時)
+  returned_at (返却日時)
+}
+
+entity "books (蔵書)" as books {
+  * id (ID)
+  --
+  title (書名)
+  author (著者)
+  publisher (出版社)
+  published_at (発売日)
+  isbn (ISBN)
+  price (価格)
+  delete_flag (削除フラグ)
+}
+
+users ||--o{ lendings
+books ||--o{ lendings
+
+@enduml

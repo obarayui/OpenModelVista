@@ -1,0 +1,49 @@
+@startuml
+
+entity "支店" as branch {
+  支店コード
+}
+
+entity "担当者" as staff {
+  担当者名
+  担当者コード
+}
+
+entity "顧客" as customer {
+  顧客コード
+  顧客名
+  住所
+}
+
+entity "受注" as order {
+  受注No
+  受注日
+}
+
+entity "梱包" as packing {
+  梱包日時
+  受注ID (FK)
+  担当者ID (FK)
+}
+
+entity "受注明細" as order_detail {
+  商品
+  数量
+  単価
+  金額
+}
+
+entity "商品" as product {
+  商品
+  単価
+}
+
+branch ||..o{ staff
+staff }o..o{ order
+staff ||..o{ packing
+customer ||..o{ order
+order ||..o{ packing
+order ||..o{ order_detail
+product ||..o{ order_detail
+
+@enduml

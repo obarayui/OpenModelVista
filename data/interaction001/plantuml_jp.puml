@@ -1,0 +1,18 @@
+@startuml
+
+start
+
+:ref
+書籍管理システムの処理を選択する|
+
+if () then ([返却する本がある])
+  :ref
+  本を返却する|
+else ([新しく借りる本がある])
+  :ref
+  本を借りる|
+endif
+
+stop
+
+@enduml
