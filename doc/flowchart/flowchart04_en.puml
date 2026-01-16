@@ -1,0 +1,13 @@
+@startuml
+title Data Validation
+
+start
+:Input Data;
+if (Is Data Valid?) then (yes)
+  :Save Data;
+else (no)
+  :Display Error Message;
+endif
+stop
+
+@enduml

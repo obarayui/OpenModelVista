@@ -1,0 +1,20 @@
+@startuml
+title ユークリッドの互除法
+
+start
+:2つの自然数 a, b を入力;
+note right
+  a >= b とする
+end note
+
+while (b ≠ 0 ?) is (はい)
+  :r = a を b で割った余り;
+  :a = b;
+  :b = r;
+endwhile (いいえ)
+
+:a が最大公約数;
+:結果を出力;
+stop
+
+@enduml

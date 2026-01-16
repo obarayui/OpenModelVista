@@ -1,0 +1,42 @@
+@startuml
+title User Registration
+
+start
+:Input User Information;
+note right
+  ・Email Address
+  ・Password
+  ・Username
+end note
+
+if (All fields filled?) then (no)
+  :Display Error Message;
+  stop
+else (yes)
+endif
+
+if (Email address is valid?) then (no)
+  :Display "Invalid Email Address";
+  stop
+else (yes)
+endif
+
+if (Password meets requirements?) then (no)
+  :Display "Password does not meet requirements";
+  stop
+else (yes)
+endif
+
+:Check for duplicate email;
+if (Already registered?) then (yes)
+  :Display "This email address is already registered";
+  stop
+else (no)
+endif
+
+:Save user information to database;
+:Send confirmation email;
+:Display "Registration completed successfully";
+stop
+
+@enduml

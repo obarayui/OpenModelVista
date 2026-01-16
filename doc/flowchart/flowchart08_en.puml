@@ -1,0 +1,20 @@
+@startuml
+title Euclidean Algorithm
+
+start
+:Input two natural numbers a, b;
+note right
+  Assume a >= b
+end note
+
+while (b ≠ 0 ?) is (yes)
+  :r = a mod b (remainder);
+  :a = b;
+  :b = r;
+endwhile (no)
+
+:a is the GCD (Greatest Common Divisor);
+:Output result;
+stop
+
+@enduml

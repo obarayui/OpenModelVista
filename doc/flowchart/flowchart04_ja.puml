@@ -1,0 +1,13 @@
+@startuml
+title データ検証
+
+start
+:データを入力;
+if (データは正しい?) then (はい)
+  :データを保存;
+else (いいえ)
+  :エラーメッセージを表示;
+endif
+stop
+
+@enduml

@@ -1,0 +1,74 @@
+@startuml
+title Student Grade Processing System Flowchart
+
+start
+:System startup;
+:Connect to grade database;
+:Load student list;
+:Initialize overall grade list;
+:passed_count = 0, failed_count = 0;
+:Student index i = 0;
+
+while (i < number of students?) is (yes)
+  :Get student[i] information;
+  :Get student[i] subject list;
+  :total_score = 0;
+  :subject_counter = 0;
+  :Subject index j = 0;
+  
+  while (j < number of subjects?) is (yes)
+    :Get score for subject[j];
+    
+    if (score within valid range?) then (no)
+      :Record in error log;
+      :Process score as 0;
+    else (yes)
+    endif
+    
+    :Add to total_score;
+    :Increment subject_counter;
+    :j = j + 1;
+  endwhile (no)
+  
+  :Calculate average score;
+  
+  if (subject_counter > 0?) then (yes)
+    :average = total_score / subject_counter;
+    
+    if (average >= 60?) then (yes)
+      :result = "Pass";
+      :Increment passed_count;
+      
+      if (average >= 90?) then (yes)
+        :grade = "Excellent";
+      else if (average >= 80?) then (yes)
+        :grade = "Good";
+      else if (average >= 70?) then (yes)
+        :grade = "Satisfactory";
+      else (yes)
+        :grade = "Satisfactory";
+      endif
+      
+    else (no)
+      :result = "Fail";
+      :Increment failed_count;
+      :grade = "Fail";
+    endif
+    
+  else (no)
+    :Error: No subject data;
+    :result = "Insufficient data";
+  endif
+  
+  :Add student[i] result to overall grade list;
+  :i = i + 1;
+endwhile (no)
+
+:Calculate pass rate;
+:Generate statistical report;
+:Output results to file;
+:Send notification email to administrator;
+:Record completion log;
+stop
+
+@enduml

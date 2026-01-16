@@ -1,0 +1,23 @@
+@startuml
+title Terms of Service Agreement
+
+start
+:Display Terms of Service;
+if (Agree to Terms of Service?) then (no)
+  :Display "Agreement to Terms of Service is required";
+  stop
+else (yes)
+endif
+
+:Display Privacy Policy;
+if (Agree to Privacy Policy?) then (no)
+  :Display "Agreement to Privacy Policy is required";
+  stop
+else (yes)
+endif
+
+:Record consent information;
+:Proceed to next step;
+stop
+
+@enduml

@@ -1,0 +1,43 @@
+@startuml
+title Inventory Ordering System Flowchart
+
+start
+:System startup;
+:Connect to inventory database;
+:Retrieve product list;
+:Initialize counter i = 0;
+
+while (i < number of products?) is (yes)
+  :Get current stock of product[i];
+  :Get safety stock level of product[i];
+  
+  if (current stock < safety stock?) then (yes)
+    :Calculate shortage amount;
+    :Calculate recommended order quantity;
+    note right
+      Recommended quantity = 
+      (Max stock - Current stock)
+    end note
+    
+    if (recommended quantity > minimum order unit?) then (yes)
+      :Create order data;
+      :Add to order list;
+      :Generate alert notification;
+    else (no)
+      :Create order data with minimum order unit;
+      :Add to order list;
+    endif
+    
+  else (no)
+    :Record as sufficient stock in log;
+  endif
+  
+  :i = i + 1;
+endwhile (no)
+
+:Output order list;
+:Send notification email to administrator;
+:Record completion log;
+stop
+
+@enduml
