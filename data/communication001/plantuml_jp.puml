@@ -1,0 +1,12 @@
+@startuml
+
+rectangle "ユーザー" as User
+rectangle "会員登録画面" as Screen
+rectangle "会員管理" as Management
+
+User -right-> Screen : 1：情報入力
+Screen -right-> Management : 2：情報登録
+Management -left--> Screen : 3：登録結果
+Screen -left--> User : 4：登録結果表示
+
+@enduml

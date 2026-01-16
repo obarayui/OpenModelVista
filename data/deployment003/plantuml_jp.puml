@@ -1,0 +1,26 @@
+@startuml
+
+artifact "<<artifact>>\nNXT Hardware" as nxt {
+    node "<<device>>\nメインプロセッサ Atmel ARM7" as mainproc {
+        node "<<execution environment>>\nEnhanced NXT firmware" as firmware
+    }
+    node "<<device>>\nサブプロセッサ Atmel AVR" as subproc
+}
+
+artifact "<<artifact>>\n走行プログラム" as runprog
+artifact "<<artifact>>\nセンサ・モータ制御プログラム" as sensorprog
+
+component "<<component>>\nUI" as ui
+component "<<component>>\n走破戦略" as strategy
+component "<<component>>\nデバイスドライバ" as driver
+component "<<component>>\nメカニズム" as mechanism
+
+runprog ..> firmware : <<deploy>>
+sensorprog ..> subproc : <<deploy>>
+
+runprog ..> ui : <<manifest>>
+runprog ..> strategy : <<manifest>>
+strategy ..> driver : <<manifest>>
+strategy ..> mechanism : <<manifest>>
+
+@enduml

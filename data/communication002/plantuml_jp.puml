@@ -1,0 +1,22 @@
+@startuml
+
+actor ":列車" as Train
+
+rectangle "上り側：列車判別装置" as UpDetector
+rectangle "下り側：列車判別装置" as DownDetector
+rectangle "上り側：踏切警報機" as UpAlarm
+rectangle "上り側：遮断機" as UpGate
+rectangle "下り側：遮断機" as DownGate
+rectangle "下り側：踏切警報機" as DownAlarm
+
+Train -right-> UpDetector : 1：接近する
+UpDetector -up-> UpDetector : 2：遮断時間を決める(急行)
+UpDetector <-up-- UpDetector : 遮断時間 = 遮断時間を決める(急行)：3分
+UpDetector -right-> DownDetector : 3：列車種別を伝える(急行)
+UpDetector -right-> DownDetector : 4：遮断時間を伝える(遮断時間)
+DownDetector -up-> DownAlarm : 5a：警報を鳴らす
+DownDetector -up-> DownGate : 5b：遮断機を下ろす
+UpDetector -down-> UpAlarm : 6a：警報を鳴らす
+UpDetector -down-> UpGate : 6b：遮断機を下ろす
+
+@enduml

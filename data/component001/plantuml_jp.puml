@@ -1,0 +1,11 @@
+@startuml
+
+component "社員" as employee
+component "給与管理" as payroll
+
+interface "給与サービス" as payrollService
+
+employee --( payrollService
+payrollService -- payroll
+
+@enduml

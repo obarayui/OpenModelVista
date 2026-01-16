@@ -1,0 +1,12 @@
+@startuml
+
+rectangle "User" as User
+rectangle "Member\nRegistration\nScreen" as Screen
+rectangle "Member\nManagement" as Management
+
+User -right-> Screen : 1: Enter Information
+Screen -right-> Management : 2: Register Information
+Management -left--> Screen : 3: Registration Result
+Screen -left--> User : 4: Display\nRegistration Result
+
+@enduml

@@ -1,0 +1,46 @@
+@startuml dg_powerpoint_ja-fs8
+
+actor "競技者" as player
+
+rectangle "走行体" as runner
+rectangle "アウトコース2:コース" as course
+rectangle "区間A:区間" as section
+rectangle ":UI" as ui
+rectangle ":走行" as driving
+rectangle ":端点検知" as endpoint
+rectangle ":タッチセンサ" as touchsensor
+rectangle ":LCD" as lcd
+rectangle "左モータ:モータ" as leftmotor
+rectangle "右モータ:モータ" as rightmotor
+rectangle ":バランサ" as balancer
+rectangle ":ジャイロセンサ" as gyro
+rectangle ":バッテリー" as battery
+
+runner --> runner : 1:コースを走行する
+runner --> ui : 2:走行開始画面を表示する
+ui ..> runner : 2.4:走行開始指示
+ui --> lcd : 2.1:表示する
+player --> touchsensor : 2.2:押下する
+touchsensor --> ui : 2.3:タッチセンサ押下を通知する
+
+runner --> course : 3:開始する
+course --> section : 3.1:開始する
+
+section --> driving : 4:走行する
+section --> endpoint : 5:検知する
+endpoint --> section : 5.1:終了する
+section --> runner : 6:区間を切り替える
+
+driving --> balancer : 4.1:左右のモータのPWM値\nを算出する\n（目標走行速度,目標旋回速度）
+driving --> leftmotor : 4.6:回転する
+driving --> rightmotor : 4.7:回転する
+
+balancer --> leftmotor : 4.2:回転角度を測定する
+balancer --> rightmotor : 4.2:回転角度を測定する
+balancer --> gyro : 4.4:角速度を測定する
+balancer --> battery : 4.5:電圧を測定する
+
+leftmotor --> gyro : 4.3:回転角度を測定する
+rightmotor --> gyro : 4.3:回転角度を測定する
+
+@enduml

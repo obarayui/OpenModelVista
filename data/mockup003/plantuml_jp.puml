@@ -1,0 +1,30 @@
+@startuml
+skinparam rectangle {
+  RoundCorner 25
+}
+
+title モバイルアプリ画面遷移図
+
+rectangle "TOPページ画面" as top_label #white;line:gray
+rectangle "CONTACTページ画面" as contact_label #white;line:gray
+
+package "TOPページ画面" as top_screen {
+  rectangle "スマートフォン" as phone1 #white;line:black {
+    rectangle "**Flickly**          ≡" as header1 #708090
+    rectangle "[ビル画像]" as image1 #lightblue
+    rectangle "\n\n会社説明文\n\n\n" as desc1 #white;line:gray
+    rectangle "お問い合わせはこちら" as contact_btn #708090
+  }
+}
+
+package "CONTACTページ画面" as contact_screen {
+  rectangle "スマートフォン" as phone2 #white;line:black {
+    rectangle "**Flickly**          ≡" as header2 #708090
+    rectangle "← Home\n\n**お問い合わせ**\n\nお名前\n|_ _ _ _ _ _ _ _ _ _ _ _|\n\nE-mailアドレス\n|_ _ _ _ _ _ _ _ _ _ _ _|\n\nお問い合わせ内容\n|_ _ _ _ _ _ _ _ _ _ _ _|\n\n      [  送信  ]" as form2 #E0EEEE
+  }
+}
+
+contact_btn -right-> form2 : 相互にリンク
+form2 -left-> contact_btn
+
+@enduml

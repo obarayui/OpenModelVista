@@ -1,0 +1,45 @@
+@startuml dg_powerpoint_en-fs8
+
+actor "Competitor" as player
+
+rectangle "Drive Unit" as runner
+rectangle "Outer Course 2: Course" as course
+rectangle "Section A:\nSection" as section
+rectangle ": UI" as ui
+rectangle ": Driving" as driving
+rectangle ": Endpoint\nDetection" as endpoint
+rectangle ": Touch Sensor" as touchsensor
+rectangle ": LCD" as lcd
+rectangle "Left Motor:\nMotor" as leftmotor
+rectangle "Right Motor:\nMotor" as rightmotor
+rectangle ": Balancer" as balancer
+rectangle ": Gyro Sensor" as gyro
+rectangle ": Battery" as battery
+
+runner --> runner : 1: Run on the course
+runner --> ui : 2: Display the driving start screen
+ui ..> runner : 2.4: Driving start instruction
+ui --> lcd : 2.1: Display
+player --> touchsensor : 2.2: Press
+touchsensor --> ui : 2.3: Notify touch sensor\npress
+
+runner --> course : 3: Start
+course --> section : 3.1: Start
+
+section --> driving : 4: Drive
+section --> endpoint : 5: Detect
+endpoint --> section : 5.1: End
+section --> runner : 6: Switch section
+
+driving --> balancer : 4.1: Calculate PWM values\nfor left and right motors\n(target driving speed,\ntarget turning speed)
+driving --> leftmotor : 4.6: Rotate
+driving --> rightmotor : 4.7: Rotate
+
+balancer --> rightmotor : 4.2: Measure\nrotation angle
+balancer --> gyro : 4.4: Measure\nangular velocity
+balancer --> battery : 4.5: Measure\nvoltage
+
+leftmotor --> gyro : 4.3: Measure\nrotation angle
+rightmotor --> gyro : 4.3: Measure\nrotation angle
+
+@enduml

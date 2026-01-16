@@ -1,0 +1,22 @@
+@startuml
+
+actor ": Train" as Train
+
+rectangle "Up Track:\nTrain Identification Device" as UpDetector
+rectangle "Down Track:\nTrain Identification Device" as DownDetector
+rectangle "Up Track:\nLevel Crossing Alarm" as UpAlarm
+rectangle "Up Track: Railway\nCrossing Gate" as UpGate
+rectangle "Down Track:\nRailway Crossing\nGate" as DownGate
+rectangle "Down Track:\nLevel Crossing Alarm" as DownAlarm
+
+Train -right-> UpDetector : 1: Approach
+UpDetector -up-> UpDetector : 2: Determine Closure Time (Express)
+UpDetector <-up-- UpDetector : Closure Time = Determine Closure Time (Express): 3 minutes
+UpDetector -right-> DownDetector : 3: Transmit Train Type (Express)
+UpDetector -right-> DownDetector : 4: Transmit Closure Time (Closure Time)
+DownDetector -up-> DownAlarm : 5a: Activate Alarm
+DownDetector -up-> DownGate : 5b: Lower the Railway\nCrossing Gate
+UpDetector -down-> UpAlarm : 6a: Activate Alarm
+UpDetector -down-> UpGate : 6b: Lower the Railway Crossing Gate
+
+@enduml

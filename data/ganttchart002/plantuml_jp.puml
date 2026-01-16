@@ -1,0 +1,28 @@
+@startgantt
+title フェーズ1のテスト
+
+Project starts 1998-01-01
+
+[フェーズ1のテスト] starts 1998-01-01 and ends 1998-02-05
+
+[テストケースの定義] starts 1998-01-01 and ends 1998-01-08
+
+[テスト計画の作成] starts 1998-01-09 and ends 1998-01-22
+
+[テスト計画の検証] starts 1998-01-09 and ends 1998-01-22
+
+[総合テスト] starts 1998-01-23 and ends 1998-02-01
+
+[インタフェーステスト] starts 1998-01-23 and ends 1998-02-01
+
+[結果の文書化] starts 1998-01-23 and ends 1998-02-01
+
+[システムテスト] starts 1998-02-02 and ends 1998-02-17
+
+[性能テスト] starts 1998-02-02 and ends 1998-02-17
+
+[構成テスト] starts 1998-02-02 and ends 1998-02-17
+
+[結果の文書化(システムテスト)] starts 1998-02-17 and ends 1998-02-24
+
+@endgantt
