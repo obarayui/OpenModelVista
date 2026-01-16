@@ -1,0 +1,38 @@
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#fff','primaryTextColor':'#000','primaryBorderColor':'#000','lineColor':'#000','secondaryColor':'#fff','tertiaryColor':'#fff'}}}%%
+
+flowchart LR
+    subgraph UI["&nbsp;"]
+        direction TB
+        ui_tab["ui"]
+        ui_content[" "]
+        ui_tab ~~~ ui_content
+    end
+    
+    subgraph SERVICE["&nbsp;"]
+        direction TB
+        service_tab["service"]
+        service_content[" "]
+        service_tab ~~~ service_content
+    end
+    
+    subgraph DOMAIN["&nbsp;"]
+        direction TB
+        domain_tab["domain"]
+        domain_content[" "]
+        domain_tab ~~~ domain_content
+    end
+    
+    UI -.-> SERVICE
+    SERVICE -.-> DOMAIN
+    
+    style UI fill:#fff,stroke:#000,stroke-width:2px
+    style SERVICE fill:#fff,stroke:#000,stroke-width:2px
+    style DOMAIN fill:#fff,stroke:#000,stroke-width:2px
+    
+    style ui_tab fill:#fff,stroke:#000,stroke-width:1px
+    style service_tab fill:#fff,stroke:#000,stroke-width:1px
+    style domain_tab fill:#fff,stroke:#000,stroke-width:1px
+    
+    style ui_content fill:#fff,stroke:none
+    style service_content fill:#fff,stroke:none
+    style domain_content fill:#fff,stroke:none

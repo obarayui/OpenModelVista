@@ -1,0 +1,28 @@
+@startuml
+!theme plain
+
+skinparam packageStyle rectangle
+skinparam package {
+  BackgroundColor White
+  BorderColor Black
+  BorderThickness 2
+}
+
+skinparam arrow {
+  Color Black
+  Thickness 1
+}
+
+package "ui" as ui {
+}
+
+package "service" as service {
+}
+
+package "domain" as domain {
+}
+
+ui ..> service
+service ..> domain
+
+@enduml
