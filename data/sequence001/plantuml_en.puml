@@ -1,0 +1,18 @@
+@startuml
+skinparam sequenceMessageAlign center
+skinparam responseMessageBelowArrow true
+
+participant "User" as user
+participant "Shelf" as shelf
+participant "Book" as book
+
+user -> shelf : Search
+shelf --> user : Search Result
+
+user -> book : Borrow Request
+book --> user : Borrow Result
+
+user -> book : Return Request
+book --> user : Return Result
+
+@enduml

@@ -1,0 +1,28 @@
+@startuml
+title sd 認証中に一定時間経過する
+
+robust "ATM" as ATM
+
+@0
+ATM is 待機中
+
+@1
+ATM is 認証中
+
+@t
+note bottom
+一定時間操作なし
+{t+60}
+end note
+
+@t2
+ATM is 使用中
+note bottom
+ユーザが操作を行う
+{t2..t2+10}
+end note
+
+@t3
+ATM is 待機移行中
+
+@enduml

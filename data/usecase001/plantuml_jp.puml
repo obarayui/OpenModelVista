@@ -1,0 +1,15 @@
+@startuml
+left to right direction
+skinparam packageStyle rectangle
+
+actor "利用者" as user
+
+rectangle 鉄道改札システム {
+  usecase "チケットを挿入する" as UC1
+  usecase "改札を通過する" as UC2
+}
+
+user --> UC1
+user --> UC2
+
+@enduml

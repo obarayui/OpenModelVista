@@ -1,0 +1,17 @@
+@startuml
+skinparam state {
+    BackgroundColor #FFFFFF
+    BorderColor #000000
+    FontSize 14
+}
+
+state "駐車中" as parking
+state "初期状態" as initial
+state "走行中" as running
+
+parking --> initial : 下車
+initial --> parking : 初期化
+initial --> running : 進行
+running --> initial : 停車
+
+@enduml

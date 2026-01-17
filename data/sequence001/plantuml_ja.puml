@@ -1,0 +1,18 @@
+@startuml
+skinparam sequenceMessageAlign center
+skinparam responseMessageBelowArrow true
+
+participant "ユーザー" as user
+participant "棚" as shelf
+participant "書籍" as book
+
+user -> shelf : 検索
+shelf --> user : 検索結果
+
+user -> book : 貸出申請
+book --> user : 貸出結果
+
+user -> book : 返却申請
+book --> user : 返却結果
+
+@enduml

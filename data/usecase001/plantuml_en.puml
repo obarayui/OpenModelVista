@@ -1,0 +1,15 @@
+@startuml
+left to right direction
+skinparam packageStyle rectangle
+
+actor "User" as user
+
+rectangle "Railway Ticket Gate System" {
+  usecase "Insert Ticket" as UC1
+  usecase "Pass Through Gate" as UC2
+}
+
+user --> UC1
+user --> UC2
+
+@enduml

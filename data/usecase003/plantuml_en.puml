@@ -1,0 +1,30 @@
+@startuml
+left to right direction
+skinparam packageStyle rectangle
+
+actor "Online Customer" as customer
+actor "Timer" as timer
+actor "Delivery Person" as delivery
+actor "Credit Company" as creditCompany
+actor "Warehouse Staff" as warehouse
+
+rectangle System {
+  usecase "Cancel Order" as UC1
+  usecase "Order Books" as UC2
+  usecase "Deliver Order" as UC3
+  usecase "Approve Invoice" as UC4
+  usecase "Reject Invoice" as UC5
+  usecase "Pack and Ship Order" as UC6
+  usecase "Restock Products" as UC7
+}
+
+customer --> UC1
+customer --> UC2
+timer --> UC1
+delivery --> UC3
+creditCompany --> UC4
+creditCompany --> UC5
+warehouse --> UC6
+warehouse --> UC7
+
+@enduml

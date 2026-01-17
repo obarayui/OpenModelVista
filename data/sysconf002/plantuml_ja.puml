@@ -1,0 +1,41 @@
+@startuml
+skinparam rectangle {
+    BackgroundColor #FFFFFF
+    BorderColor #000000
+}
+
+skinparam cloud {
+    BackgroundColor #FFFFFF
+    BorderColor #000000
+}
+
+skinparam node {
+    BorderColor #000000
+}
+
+skinparam database {
+    BackgroundColor #90EE90
+    BorderColor #228B22
+}
+
+actor "クライアント1" as client1 <<PC>>
+actor "クライアント2" as client2 <<Mobile>>
+
+cloud "クラウド" as cloud
+
+node "ロードバランサー" as lb #FFA500
+
+node "Webサーバ1" as web1 #4FC3F7
+node "Webサーバ2" as web2 #4FC3F7
+
+database "データベース\nサーバ" as db
+
+client1 --> cloud
+client2 --> cloud
+cloud --> lb
+lb --> web1
+lb --> web2
+web1 --> db
+web2 --> db
+
+@enduml

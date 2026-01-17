@@ -1,0 +1,28 @@
+@startuml
+title sd Certain Time Elapsed During Authentication
+
+robust "ATM" as ATM
+
+@0
+ATM is Idle
+
+@1
+ATM is Authenticating
+
+@t
+note bottom
+No operation for a certain time
+{t+60}
+end note
+
+@t2
+ATM is InUse
+note bottom
+User performs operation
+{t2..t2+10}
+end note
+
+@t3
+ATM is TransitioningToIdle
+
+@enduml

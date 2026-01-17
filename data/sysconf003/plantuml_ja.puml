@@ -1,0 +1,48 @@
+@startuml
+skinparam rectangle {
+    BackgroundColor #FFFFFF
+}
+
+skinparam node {
+    BorderColor #000000
+}
+
+skinparam database {
+    BorderColor #000000
+}
+
+' 外部システム
+rectangle "外部システム" #F0F0F0 {
+    node "ルータ" as router
+    node "ファイル\nサーバ" as fileserver
+    database "DB\nサーバ" as dbserver
+}
+
+' ログ処理エリア
+rectangle "ログ処理エリア" #FFE4CC {
+    node "処理サーバ" as processserver
+    node "ログ処理" as logprocess
+    node "APサーバ&\nWebサーバ" as apweb
+    cloud "メール\n配信" as mail
+}
+
+' 社内LAN
+rectangle "社内 LAN" #D4EDDA {
+    node "ハブ" as hub
+    node "クライアントPC1" as pc1
+    node "クライアントPC2" as pc2
+    node "クライアントPC3" as pc3
+}
+
+' 接続関係
+router -right-> logprocess : ログ出力
+fileserver -right-> logprocess
+logprocess -up-> processserver
+logprocess -right-> apweb
+apweb -right-> hub
+apweb -down-> mail
+hub --> pc1
+hub --> pc2
+hub --> pc3
+
+@enduml

@@ -1,0 +1,17 @@
+@startuml
+skinparam state {
+    BackgroundColor #FFFFFF
+    BorderColor #000000
+    FontSize 14
+}
+
+state "Parked" as parking
+state "Initial State" as initial
+state "Running" as running
+
+parking --> initial : Get Off
+initial --> parking : Initialize
+initial --> running : Proceed
+running --> initial : Stop
+
+@enduml

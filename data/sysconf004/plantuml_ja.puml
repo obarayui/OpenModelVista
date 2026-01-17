@@ -1,0 +1,46 @@
+@startuml
+!define AWSPuml https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v14.0/dist
+!includeurl AWSPuml/AWSCommon.puml
+
+skinparam rectangle {
+    BackgroundColor #FFFFFF
+    BorderColor #000000
+}
+
+skinparam node {
+    BackgroundColor #808080
+    BorderColor #000000
+    FontColor #FFFFFF
+}
+
+actor "ユーザー" as users
+
+node "Amazon CloudFront" as cloudfront
+node "Amazon S3" as s3
+node "Amazon Route 53" as route53
+node "Elastic Load\nBalancing" as elb
+
+rectangle "Auto Scaling group" #line.dashed {
+    node "Amazon EC2" as ec2_1
+    node "Amazon EC2" as ec2_2
+    node "Amazon EC2" as ec2_3
+}
+
+node "Amazon RDS" as rds
+node "Amazon CloudWatch" as cloudwatch
+
+users --> cloudfront
+users --> route53
+cloudfront --> s3
+route53 --> elb
+elb --> ec2_1
+elb --> ec2_2
+elb --> ec2_3
+ec2_1 --> rds
+ec2_2 --> rds
+ec2_3 --> rds
+ec2_1 --> cloudwatch
+ec2_2 --> cloudwatch
+ec2_3 --> cloudwatch
+
+@enduml

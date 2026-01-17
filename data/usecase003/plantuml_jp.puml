@@ -1,0 +1,30 @@
+@startuml
+left to right direction
+skinparam packageStyle rectangle
+
+actor "オンライン顧客" as customer
+actor "タイマー" as timer
+actor "配達員" as delivery
+actor "信販会社" as creditCompany
+actor "倉庫係員" as warehouse
+
+rectangle システム {
+  usecase "注文をキャンセルする" as UC1
+  usecase "書籍を注文する" as UC2
+  usecase "注文を配達する" as UC3
+  usecase "請求を承認する" as UC4
+  usecase "請求を拒否する" as UC5
+  usecase "注文の梱包と出荷を行う" as UC6
+  usecase "製品を補充する" as UC7
+}
+
+customer --> UC1
+customer --> UC2
+timer --> UC1
+delivery --> UC3
+creditCompany --> UC4
+creditCompany --> UC5
+warehouse --> UC6
+warehouse --> UC7
+
+@enduml

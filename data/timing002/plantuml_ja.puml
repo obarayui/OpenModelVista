@@ -1,0 +1,28 @@
+@startuml
+title sd 取引開始から正常終了
+
+concise "ATM" as ATM
+concise "利用者" as User
+
+@0
+ATM is 待機中
+User is 待機中
+
+@1
+ATM is 認証中
+User is 操作中
+ATM -> User : 取引開始
+User -> ATM : カードを挿入する
+
+@2
+ATM is 使用中
+User is 操作中
+ATM -> User : 認証完了
+User -> ATM : 暗証番号を入力する
+
+@3
+ATM is 待機中
+User is 待機中
+ATM -> User : 取引終了
+
+@enduml

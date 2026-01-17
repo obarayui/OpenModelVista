@@ -1,0 +1,27 @@
+@startuml
+left to right direction
+skinparam packageStyle rectangle
+
+actor "Depositor" as depositor
+actor "Remittance Requester" as remittanceRequester
+actor "Other Bank" as otherBank
+
+depositor <|-- remittanceRequester
+
+rectangle ATM {
+  usecase "Enter PIN" as UC1
+  usecase "Withdraw Money" as UC2
+  usecase "Deposit Money" as UC3
+  usecase "Update Passbook" as UC4
+  usecase "Request Account Transfer\n(Remittance)" as UC5
+}
+
+depositor --> UC1
+depositor --> UC3
+depositor --> UC4
+remittanceRequester --> UC5
+otherBank --> UC5
+
+UC2 .> UC1 : <<include>>
+
+@enduml

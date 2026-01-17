@@ -1,0 +1,37 @@
+@startuml
+skinparam state {
+    BackgroundColor #FFFFFF
+    BorderColor #000000
+    FontSize 12
+}
+
+[*] --> Standby
+
+state "Standby" as standby
+
+state "Boiling" as boiling {
+    standby : entry / Turn on boiling lamp
+    standby : do / Boil water
+    standby : exit / Turn off boiling lamp
+}
+
+state "Warming" as warming {
+    standby : entry / Turn on warming lamp
+    standby : do / Keep warm
+    standby : exit / Turn off warming lamp
+}
+
+standby --> standby : Lid opened
+standby --> boiling : Boil button pressed\n[Water level above threshold\nand lid closed]
+standby --> [*] : Power OFF
+
+boiling --> warming : Boiling complete
+boiling --> standby : Water level changed\n[Water level below threshold]
+boiling --> [*] : Power OFF
+
+warming --> standby : Water level changed\n[Water level below threshold]
+warming --> standby : Lid opened
+warming --> boiling : Boil button pressed\n[Water level above threshold]
+warming --> [*] : Power OFF
+
+@enduml

@@ -1,0 +1,27 @@
+@startuml
+left to right direction
+skinparam packageStyle rectangle
+
+actor "預金者" as depositor
+actor "振込依頼者" as transferRequester
+actor "他銀行" as otherBank
+
+depositor <|-- transferRequester
+
+rectangle ATM {
+  usecase "暗証番号を入力する" as UC1
+  usecase "預金を引き出す" as UC2
+  usecase "預金を預け入れる" as UC3
+  usecase "通帳を記入する" as UC4
+  usecase "口座振込（振替）を依頼する" as UC5
+}
+
+depositor --> UC1
+depositor --> UC3
+depositor --> UC4
+transferRequester --> UC5
+otherBank --> UC5
+
+UC2 .> UC1 : <<include>>
+
+@enduml

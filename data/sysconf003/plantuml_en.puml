@@ -1,0 +1,48 @@
+@startuml
+skinparam rectangle {
+    BackgroundColor #FFFFFF
+}
+
+skinparam node {
+    BorderColor #000000
+}
+
+skinparam database {
+    BorderColor #000000
+}
+
+' External Systems
+rectangle "External Systems" #F0F0F0 {
+    node "Router" as router
+    node "File\nServer" as fileserver
+    database "DB\nServer" as dbserver
+}
+
+' Log Processing Area
+rectangle "Log Processing Area" #FFE4CC {
+    node "Processing Server" as processserver
+    node "Log Processing" as logprocess
+    node "AP Server &\nWeb Server" as apweb
+    cloud "Mail\nDelivery" as mail
+}
+
+' Corporate LAN
+rectangle "Corporate LAN" #D4EDDA {
+    node "Hub" as hub
+    node "Client PC1" as pc1
+    node "Client PC2" as pc2
+    node "Client PC3" as pc3
+}
+
+' Connections
+router -right-> logprocess : Log Output
+fileserver -right-> logprocess
+logprocess -up-> processserver
+logprocess -right-> apweb
+apweb -right-> hub
+apweb -down-> mail
+hub --> pc1
+hub --> pc2
+hub --> pc3
+
+@enduml

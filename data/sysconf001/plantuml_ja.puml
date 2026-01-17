@@ -1,0 +1,46 @@
+@startuml
+!define RECTANGLE_COLOR #FFFFFF
+!define CLOUD_COLOR #FFFFFF
+
+skinparam rectangle {
+    BackgroundColor RECTANGLE_COLOR
+    BorderColor #000000
+}
+
+skinparam cloud {
+    BackgroundColor CLOUD_COLOR
+    BorderColor #000000
+}
+
+skinparam node {
+    BackgroundColor #4A5568
+    BorderColor #000000
+}
+
+skinparam package {
+    BackgroundColor RECTANGLE_COLOR
+    BorderColor #000000
+}
+
+actor "お客様端末1" as client1
+actor "お客様端末2" as client2
+actor "お客様端末3" as client3
+
+cloud "インターネット" as internet
+
+rectangle "AMMデータ管理センタ" {
+    package "新幹線チケット予約システム" #line.dashed {
+        node "APサーバ" as ap_server
+        node "DBサーバ" as db_server
+        
+        ap_server -[hidden]- db_server
+        ap_server -- db_server
+    }
+}
+
+client1 --> internet
+client2 --> internet
+client3 --> internet
+internet --> ap_server
+
+@enduml

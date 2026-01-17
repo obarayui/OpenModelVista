@@ -1,0 +1,37 @@
+@startuml
+skinparam state {
+    BackgroundColor #FFFFFF
+    BorderColor #000000
+    FontSize 12
+}
+
+[*] --> 待機中
+
+state "待機中" as standby
+
+state "湯沸し中" as boiling {
+    standby : entry / 湯沸しランプを点灯する
+    standby : do / 湯を沸かす
+    standby : exit / 湯沸しランプを消灯する
+}
+
+state "保温中" as warming {
+    standby : entry / 保温ランプを点灯する
+    standby : do / 保温する
+    standby : exit / 保温ランプを消灯する
+}
+
+standby --> standby : 上蓋が開いた
+standby --> boiling : 湯沸しボタン押下\n[水位が基準以上かつ\n上蓋が閉じている]
+standby --> [*] : 電源OFF
+
+boiling --> warming : 湯沸し完了
+boiling --> standby : 水位変化\n[水位が基準未満]
+boiling --> [*] : 電源OFF
+
+warming --> standby : 水位変化\n[水位が基準未満]
+warming --> standby : 上蓋が開いた
+warming --> boiling : 湯沸しボタン押下[水位が基準以上]
+warming --> [*] : 電源OFF
+
+@enduml
