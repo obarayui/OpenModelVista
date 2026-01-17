@@ -1,0 +1,22 @@
+@startuml
+skinparam sequenceMessageAlign center
+skinparam responseMessageBelowArrow true
+
+actor "Aさん：アクター" as user
+participant "：ログイン画面" as login_screen
+participant "：ログイン処理" as login_process
+participant "：会員リスト" as member_list
+participant "Aさんの会員情報：会員情報" as member_info
+
+user -> login_screen : ログイン情報を入力する(会員番号,パスワード)
+login_screen -> login_process : ログインする(会員番号,パスワード)
+login_process -> member_list : Aさんの会員情報=会員情報を取得する(会員番号)
+login_process -> member_info : 認証結果=認証する(パスワード)
+
+alt [認証結果=OK]
+    login_process -> login_screen : 会員サービス画面へ遷移する()
+else [認証結果=NG]
+    login_process -> login_screen : 認証エラー画面へ遷移する()
+end
+
+@enduml

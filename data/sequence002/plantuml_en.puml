@@ -1,0 +1,28 @@
+@startuml
+skinparam sequenceMessageAlign center
+skinparam responseMessageBelowArrow true
+
+actor "Individual Customer\nActor" as customer
+participant "Regular Deposit\nInterface" as interface
+participant "Regular Deposit\nControl" as control
+participant "Individual Customer" as customer_obj
+participant "Regular Deposit\nAccount" as account
+participant "Other Branch\nVoucher Details" as other_branch
+participant "Unrecorded" as unrecorded
+
+customer -> interface : Deposit Request
+interface -> control : Deposit Request
+control -> customer_obj : Account Verification
+customer_obj --> control
+control -> account : Account Verification
+account --> control
+control -> account : Deposit
+account -> other_branch : Other Branch Voucher
+other_branch --> account
+account -> unrecorded : Unrecorded
+unrecorded --> account
+account --> control
+control --> interface
+interface --> customer
+
+@enduml

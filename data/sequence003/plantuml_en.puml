@@ -1,0 +1,22 @@
+@startuml
+skinparam sequenceMessageAlign center
+skinparam responseMessageBelowArrow true
+
+actor "Mr./Ms. A: Actor" as user
+participant ": Login Screen" as login_screen
+participant ": Login Process" as login_process
+participant ": Member List" as member_list
+participant "Mr./Ms. A's Member Info: Member Info" as member_info
+
+user -> login_screen : Enter login information (member ID, password)
+login_screen -> login_process : Login (member ID, password)
+login_process -> member_list : Get Mr./Ms. A's member info = member info (member ID)
+login_process -> member_info : Authentication result = Authenticate (password)
+
+alt [Authentication result = OK]
+    login_process -> login_screen : Transition to member service screen ()
+else [Authentication result = NG]
+    login_process -> login_screen : Transition to authentication error screen ()
+end
+
+@enduml

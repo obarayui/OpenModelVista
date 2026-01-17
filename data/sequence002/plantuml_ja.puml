@@ -1,0 +1,28 @@
+@startuml
+skinparam sequenceMessageAlign center
+skinparam responseMessageBelowArrow true
+
+actor "個人顧客\nアクター" as customer
+participant "普通預金\nインターフェース" as interface
+participant "普通預金入金\nコントロール" as control
+participant "個人顧客" as customer_obj
+participant "普通預金\n口座" as account
+participant "他店券\n明細" as other_branch
+participant "未記帳" as unrecorded
+
+customer -> interface : 入金依頼
+interface -> control : 入金依頼
+control -> customer_obj : 口座確認
+customer_obj --> control
+control -> account : 口座確認
+account --> control
+control -> account : 入金
+account -> other_branch : 他店券
+other_branch --> account
+account -> unrecorded : 未記帳
+unrecorded --> account
+account --> control
+control --> interface
+interface --> customer
+
+@enduml
